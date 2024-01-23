@@ -1,10 +1,13 @@
 pipeline {
 	options {
 		disableConcurrentBuilds()
-		timestamps()
 	}
+	agent any
 	stages {
 		stage('build') {
+			steps {
+				echo "foo bar"
+			}
         
         }
     }
@@ -14,12 +17,6 @@ pipeline {
 		}
 		failure {
 			emailext body: '${SCRIPT,template="email.template"}', subject: '$PROJECT_NAME - Build # $BUILD_NUMBER - $BUILD_STATUS!', recipientProviders: [culprits()]
-		}
-		always {
-
-		}
-		cleanup {
-			deleteDir()
 		}
 	}
 }
