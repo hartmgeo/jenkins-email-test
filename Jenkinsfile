@@ -18,5 +18,8 @@ pipeline {
 		failure {
 			emailext body: '${SCRIPT,template="email.template"}', subject: '$PROJECT_NAME - Build # $BUILD_NUMBER - $BUILD_STATUS!', recipientProviders: [culprits()]
 		}
+        always {
+			emailext body: '${SCRIPT,template="email.template"}', subject: '$PROJECT_NAME - Build # $BUILD_NUMBER - $BUILD_STATUS!', recipientProviders: [culprits()]
+		}
 	}
 }
