@@ -10,7 +10,9 @@ IT -> ${it.getClass()}
 Buils ${build.getClass()}
 Analysis 
 
-<% build.getAllActions().each{ action -> %>  ${action.getClass()}  <%  } %>
+<% build.getAllActions().each{ action -> %>  
+ - ${action.getClass()} ${action.getDisplayName()}
+  <%  } %>
 
 <%
 try {
