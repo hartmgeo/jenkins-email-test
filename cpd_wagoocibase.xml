@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd-cpd>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocibase/src/com/wago/ocibase/constants/WagoocibaseConstants.java"
+         totalNumberOfTokens="21"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocibase/src/com/wago/ocibase/populator/DefaultWagoOciSapProductPopulator.java"
+         totalNumberOfTokens="80"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocibase/testsrc/com/wago/ocibase/populator/DefaultWagoOciSapProductPopulatorTest.java"
+         totalNumberOfTokens="97"/>
+</pmd-cpd>

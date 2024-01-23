@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd-cpd>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagotest/src/com/wago/test/constants/WagoTestConstants.java"
+         totalNumberOfTokens="25"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagotest/src/com/wago/test/junit/WagoClasspathSuite.java"
+         totalNumberOfTokens="58"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagotest/src/com/wago/test/junit/WagoRunListener.java"
+         totalNumberOfTokens="84"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagotest/src/com/wago/test/junit/WagoUnitTests.java"
+         totalNumberOfTokens="24"/>
+</pmd-cpd>

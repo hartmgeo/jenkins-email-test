@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd-cpd>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearchbackoffice/backoffice/src/com/wago/searchbackoffice/facades/WagoSearchCategoryFacade.java"
+         totalNumberOfTokens="11"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearchbackoffice/backoffice/src/com/wago/searchbackoffice/facades/impl/DefaultWagoSearchCategoryFacade.java"
+         totalNumberOfTokens="329"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearchbackoffice/backoffice/src/com/wago/searchbackoffice/widgets/basestoreselector/WagoBaseStoreSelectorController.java"
+         totalNumberOfTokens="265"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearchbackoffice/backoffice/src/com/wago/searchbackoffice/widgets/categoryselector/WagoCategorySelectorController.java"
+         totalNumberOfTokens="868"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearchbackoffice/backoffice/src/com/wago/searchbackoffice/widgets/contextflowadapter/WagoContextFlowAdapterController.java"
+         totalNumberOfTokens="462"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearchbackoffice/backoffice/src/com/wago/searchbackoffice/widgets/facetsearchconfigselector/WagoFacetSearchConfigSelectorController.java"
+         totalNumberOfTokens="514"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearchbackoffice/backoffice/src/com/wago/searchbackoffice/widgets/languageselector/WagoSearchLanguageSelectorController.java"
+         totalNumberOfTokens="269"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearchbackoffice/backoffice/src/com/wago/searchbackoffice/widgets/navigationbar/WagoNavigationBarController.java"
+         totalNumberOfTokens="1304"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearchbackoffice/backoffice/src/com/wago/searchbackoffice/widgets/navigationbar/WagoNavigationBarSearchDataBuilder.java"
+         totalNumberOfTokens="1398"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearchbackoffice/backoffice/src/com/wago/searchbackoffice/widgets/properties/WagoIndexPropertiesViewController.java"
+         totalNumberOfTokens="1177"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearchbackoffice/backoffice/src/com/wago/searchbackoffice/widgets/properties/WagoIndexPropertiesViewUtils.java"
+         totalNumberOfTokens="348"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearchbackoffice/backoffice/src/com/wago/searchbackoffice/widgets/solrconfigexportbutton/WagoSolrConfigExportButtonController.java"
+         totalNumberOfTokens="286"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearchbackoffice/backoffice/src/com/wago/searchbackoffice/widgets/solrindexedpropertyflowpage/WagoSolrIndexedPropertyFlowPageController.java"
+         totalNumberOfTokens="764"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearchbackoffice/backoffice/src/com/wago/searchbackoffice/widgets/toogle/WagoToogleViewContainerController.java"
+         totalNumberOfTokens="137"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearchbackoffice/src/com/wago/searchbackoffice/constants/WagosearchbackofficeConstants.java"
+         totalNumberOfTokens="28"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearchbackoffice/src/com/wago/searchbackoffice/service/WagoSearchIndexPropertiesService.java"
+         totalNumberOfTokens="18"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearchbackoffice/src/com/wago/searchbackoffice/service/data/IndexPropertyData.java"
+         totalNumberOfTokens="269"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearchbackoffice/src/com/wago/searchbackoffice/service/impl/DefaultWagoSearchIndexPropertiesService.java"
+         totalNumberOfTokens="322"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearchbackoffice/src/com/wago/searchbackoffice/setup/WagosearchbackofficeSystemSetup.java"
+         totalNumberOfTokens="75"/>
+   <duplication lines="22" tokens="102">
+      <file begintoken="6208" column="10" endcolumn="2" endline="213" endtoken="6309"
+            line="192"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearchbackoffice/backoffice/src/com/wago/searchbackoffice/widgets/properties/WagoIndexPropertiesViewController.java"/>
+      <file begintoken="6613" column="16" endcolumn="2" endline="43" endtoken="6714"
+            line="21"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearchbackoffice/backoffice/src/com/wago/searchbackoffice/widgets/properties/WagoIndexPropertiesViewUtils.java"/>
+      <codefragment><![CDATA[	private String createPropertySettingsLabel(final SolrIndexedPropertyModel property)
+	{
+		final StringBuilder builder = new StringBuilder(42);
+		builder.append(property.getType().getCode());
+		if (property.isLocalized())
+		{
+			builder.append(" - localized");
+		}
+		if (property.isMultiValue())
+		{
+			builder.append(" - multiValue");
+		}
+		if (property.isFtsQuery())
+		{
+			builder.append(" - search");
+		}
+		if (property.isFacet())
+		{
+			builder.append(" - facet");
+		}
+		return builder.toString();
+	}]]></codefragment>
+   </duplication>
+   <duplication lines="20" tokens="81">
+      <file begintoken="6525" column="2" endcolumn="1" endline="284" endtoken="6605"
+            line="265"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearchbackoffice/backoffice/src/com/wago/searchbackoffice/widgets/properties/WagoIndexPropertiesViewController.java"/>
+      <file begintoken="6874" column="2" endcolumn="1" endline="93" endtoken="6954"
+            line="74"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearchbackoffice/backoffice/src/com/wago/searchbackoffice/widgets/properties/WagoIndexPropertiesViewUtils.java"/>
+      <codefragment><![CDATA[	}
+
+	public static void addLabel(final String value, final AbstractTag tag, final String sclass)
+	{
+		final Label label = new Label();
+		label.setValue(value);
+		if (StringUtils.isNoneBlank(sclass))
+		{
+			label.setSclass(sclass);
+		}
+		tag.appendChild(label);
+	}
+
+
+	public static void addLabel(final String value, final AbstractTag tag)
+	{
+		addLabel(value, tag, null);
+	}
+
+}]]></codefragment>
+   </duplication>
+   <duplication lines="15" tokens="79">
+      <file begintoken="5675" column="10" endcolumn="2" endline="106" endtoken="5753"
+            line="92"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearchbackoffice/backoffice/src/com/wago/searchbackoffice/widgets/properties/WagoIndexPropertiesViewController.java"/>
+      <file begintoken="6717" column="16" endcolumn="2" endline="59" endtoken="6795"
+            line="45"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearchbackoffice/backoffice/src/com/wago/searchbackoffice/widgets/properties/WagoIndexPropertiesViewUtils.java"/>
+      <codefragment><![CDATA[	private void createRow(final List<Div> children, final Div container)
+	{
+		final Div div = new Div();
+		div.setSclass("ws-ip-row");
+		final int width = 100 / children.size();
+
+		for (final Div child : children)
+		{
+			child.setSclass("ws-ip-row-col");
+			child.setStyle("float: left; width: " + width + "%;");
+			div.appendChild(child);
+		}
+
+		container.appendChild(div);
+	}]]></codefragment>
+   </duplication>
+</pmd-cpd>

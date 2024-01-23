@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.12.4">
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocibase/src/com/wago/ocibase/constants/WagoocibaseConstants.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocibase/src/com/wago/ocibase/populator/DefaultWagoOciSapProductPopulator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocibase/testsrc/com/wago/ocibase/populator/DefaultWagoOciSapProductPopulatorTest.java">
+</file>
+</checkstyle>

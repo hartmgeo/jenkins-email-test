@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd-cpd>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/category/WagoWagoContentCategoryGroupService.java"
+         totalNumberOfTokens="15"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/category/impl/DefaultWagoWagoContentCategoryGroupService.java"
+         totalNumberOfTokens="47"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/component/WagoTeaserComponentPropertyService.java"
+         totalNumberOfTokens="14"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/component/impl/DefaultWagoTeaserComponentPropertyService.java"
+         totalNumberOfTokens="90"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/component/interceptors/WagoMainArticleTextFocusComponentPrepareInterceptor.java"
+         totalNumberOfTokens="176"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/component/interceptors/WagoMarginColumnImageComponentPrepareInterceptor.java"
+         totalNumberOfTokens="163"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/component/renderer/impl/WagoCMSParagraphComponentRenderer.java"
+         totalNumberOfTokens="121"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/constants/WagoCMSConstants.java"
+         totalNumberOfTokens="56"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/daos/WagoCMSItemDao.java"
+         totalNumberOfTokens="24"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/daos/WagoCMSSelectedFacetValueDao.java"
+         totalNumberOfTokens="14"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/daos/WagoCatalogVersionSyncCronJobDao.java"
+         totalNumberOfTokens="19"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/daos/WagoContentCategoryGroupDao.java"
+         totalNumberOfTokens="20"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/daos/WagoContentSlotForPageDao.java"
+         totalNumberOfTokens="57"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/daos/WagoPagedCMSItemDao.java"
+         totalNumberOfTokens="37"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/daos/WagoPagedCmsSelectedFacetValueDao.java"
+         totalNumberOfTokens="22"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/daos/impl/DefaultWagoCMSItemDao.java"
+         totalNumberOfTokens="95"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/daos/impl/DefaultWagoCMSSelectedFacetValueDao.java"
+         totalNumberOfTokens="108"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/daos/impl/DefaultWagoCatalogVersionSyncCronJobDao.java"
+         totalNumberOfTokens="53"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/daos/impl/DefaultWagoContentCategoryGroupDao.java"
+         totalNumberOfTokens="59"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/daos/impl/DefaultWagoContentSlotForPageDao.java"
+         totalNumberOfTokens="170"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/daos/impl/DefaultWagoMainArticleTextFocusComponentDao.java"
+         totalNumberOfTokens="22"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/daos/impl/DefaultWagoPagedCMSItemDao.java"
+         totalNumberOfTokens="149"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/daos/impl/DefaultWagoPagedCmsSelectedFacetValueDao.java"
+         totalNumberOfTokens="71"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/daos/impl/WagoCMSContentSlotDao.java"
+         totalNumberOfTokens="89"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/faq/WagoFaqAccordionDao.java"
+         totalNumberOfTokens="40"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/faq/WagoFaqFacade.java"
+         totalNumberOfTokens="76"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/faq/WagoFaqItemDao.java"
+         totalNumberOfTokens="31"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/faq/WagoFaqService.java"
+         totalNumberOfTokens="67"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/faq/impl/DefaultWagoFaqAccordionDao.java"
+         totalNumberOfTokens="316"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/faq/impl/DefaultWagoFaqFacade.java"
+         totalNumberOfTokens="374"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/faq/impl/DefaultWagoFaqItemDao.java"
+         totalNumberOfTokens="150"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/faq/impl/DefaultWagoFaqService.java"
+         totalNumberOfTokens="590"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/faq/populator/WagoFaqHierarchyPopulator.java"
+         totalNumberOfTokens="117"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/faq/populator/WagoFaqStructuredDataPopulator.java"
+         totalNumberOfTokens="191"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/job/WagoCatalogVersionSyncMonitoringJobPerformable.java"
+         totalNumberOfTokens="387"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/job/WagoCmsSelectedFacetValueMonitoringJobPerformable.java"
+         totalNumberOfTokens="468"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/job/WagoContentAttributeTransferJobPerformable.java"
+         totalNumberOfTokens="791"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/job/WagoContentTransferJobPerformable.java"
+         totalNumberOfTokens="199"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/job/WagoMigrateAttributeJobPerformable.java"
+         totalNumberOfTokens="1016"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/job/WagoSaveSampleProductJobPerformable.java"
+         totalNumberOfTokens="78"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/job/WagoTranslatedContentTransferJobPerformable.java"
+         totalNumberOfTokens="289"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/migration/job/WagoCMSComponentMigrationJobPerformable.java"
+         totalNumberOfTokens="294"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/migration/services/WagoCMSComponentMigrationService.java"
+         totalNumberOfTokens="14"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/migration/services/impl/WagoAbstractCMSComponentMigrationService.java"
+         totalNumberOfTokens="1124"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/migration/services/impl/WagoCMSComponentMigrationUtils.java"
+         totalNumberOfTokens="164"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/migration/services/impl/WagoElementsIntoColumnsMigrationService.java"
+         totalNumberOfTokens="553"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/migration/services/impl/WagoHeatMapComponentMigrationService.java"
+         totalNumberOfTokens="1192"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/model/POSRestrictionDescription.java"
+         totalNumberOfTokens="47"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/model/WagoAbstractDynamicVisibilityAttributeHandler.java"
+         totalNumberOfTokens="416"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/model/WagoCMSComponentDynamicVisibilityAttributeHandler.java"
+         totalNumberOfTokens="238"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/model/WagoCMSComponentPassepartoutAttributeHandler.java"
+         totalNumberOfTokens="94"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/model/WagoCMSLinkComponentDynamicVisibilityAttributeHandler.java"
+         totalNumberOfTokens="117"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/model/WagoFormComponentDynamicsVisibilityAttributeHandler.java"
+         totalNumberOfTokens="56"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/model/interceptors/WagoAbstractTeaserComponentLoadInterceptor.java"
+         totalNumberOfTokens="144"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/model/interceptors/WagoAbstractTeaserInformationPrepareInterceptor.java"
+         totalNumberOfTokens="767"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/model/interceptors/WagoAccordionGroupContentValidateInterceptor.java"
+         totalNumberOfTokens="151"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/model/interceptors/WagoAccordionModuleContentValidateInterceptor.java"
+         totalNumberOfTokens="74"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/model/interceptors/WagoCMSItemMasterCatalogRestrictionValidateInterceptor.java"
+         totalNumberOfTokens="307"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/model/interceptors/WagoCMSItemPrepareInterceptor.java"
+         totalNumberOfTokens="704"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/model/interceptors/WagoCMSItemVersionPrepareInterceptor.java"
+         totalNumberOfTokens="299"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/model/interceptors/WagoCMSSelectedFacetValueValidateInterceptor.java"
+         totalNumberOfTokens="86"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/model/interceptors/WagoCategoryStageComponentTeaserInformationPrepareInterceptor.java"
+         totalNumberOfTokens="127"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/model/interceptors/WagoCategoryStageItemOpacityValidator.java"
+         totalNumberOfTokens="28"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/model/interceptors/WagoColumnComponentValidateInterceptor.java"
+         totalNumberOfTokens="100"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/model/interceptors/WagoContactFormComponentValidateInterceptor.java"
+         totalNumberOfTokens="90"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/model/interceptors/WagoContentArticlePageInitDefaultsInterceptor.java"
+         totalNumberOfTokens="37"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/model/interceptors/WagoContentPageLoadInterceptor.java"
+         totalNumberOfTokens="48"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/model/interceptors/WagoContentSlotNameValidateInterceptor.java"
+         totalNumberOfTokens="130"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/model/interceptors/WagoContentSlotPrepareInterceptor.java"
+         totalNumberOfTokens="140"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/model/interceptors/WagoContentTransferCronJobValidateInterceptor.java"
+         totalNumberOfTokens="311"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/model/interceptors/WagoElementComponentSubtitleInitDefaultsInterceptor.java"
+         totalNumberOfTokens="85"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/model/interceptors/WagoExplainStageComponentTeaserInformationPrepareInterceptor.java"
+         totalNumberOfTokens="127"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/model/interceptors/WagoFaqAccordionGroupPrepareInterceptor.java"
+         totalNumberOfTokens="171"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/model/interceptors/WagoFaqAccordionModulePrepareInterceptor.java"
+         totalNumberOfTokens="171"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/model/interceptors/WagoFaqItemPrepareInterceptor.java"
+         totalNumberOfTokens="157"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/model/interceptors/WagoFullTabComponentValidateInterceptor.java"
+         totalNumberOfTokens="90"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/model/interceptors/WagoFullVideoComponentValidateInterceptor.java"
+         totalNumberOfTokens="365"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/model/interceptors/WagoHotSpotComponentValidateInterceptor.java"
+         totalNumberOfTokens="116"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/model/interceptors/WagoHotSpotZoomItemValidateInterceptor.java"
+         totalNumberOfTokens="111"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/model/interceptors/WagoIconTextComponentValidateInterceptor.java"
+         totalNumberOfTokens="97"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/model/interceptors/WagoInteractiveInfographicLayerValidateInterceptor.java"
+         totalNumberOfTokens="261"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/model/interceptors/WagoLandingStageComponentTeaserInformationPrepareInterceptor.java"
+         totalNumberOfTokens="127"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/model/interceptors/WagoMainArticleComponentInitDefaultsInterceptor.java"
+         totalNumberOfTokens="28"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/model/interceptors/WagoMainArticleImageFocusComponentTeaserInformationPrepareInterceptor.java"
+         totalNumberOfTokens="163"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/model/interceptors/WagoMainArticlePushComponentTeaserInformationPrepareInterceptor.java"
+         totalNumberOfTokens="127"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/model/interceptors/WagoMainArticleTextFocusComponentTeaserInformationPrepareInterceptor.java"
+         totalNumberOfTokens="163"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/model/interceptors/WagoMainArticleUSPFocusComponentTeaserInformationPrepareInterceptor.java"
+         totalNumberOfTokens="127"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/model/interceptors/WagoMediaGalleryItemSubtitleInitDefaultsInterceptor.java"
+         totalNumberOfTokens="85"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/model/interceptors/WagoMigrateAttributeCronjobValidateInterceptor.java"
+         totalNumberOfTokens="352"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/model/interceptors/WagoOpacityConstraintValidator.java"
+         totalNumberOfTokens="66"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/model/interceptors/WagoQuoteTeaserComponentLoadInterceptor.java"
+         totalNumberOfTokens="53"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/model/interceptors/WagoRatingComponentItemInterceptor.java"
+         totalNumberOfTokens="54"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/model/interceptors/WagoSimpleCMSComponentValidateInterceptor.java"
+         totalNumberOfTokens="128"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/model/interceptors/WagoTableContentValidateInterceptor.java"
+         totalNumberOfTokens="188"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/model/interceptors/WagoTimelineComponentValidateInterceptor.java"
+         totalNumberOfTokens="180"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/model/interceptors/WagoVideoPlaylistItemInterceptor.java"
+         totalNumberOfTokens="225"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/model/interceptors/WagoVideoPlaylistItemSubtitleInitDefaultsInterceptor.java"
+         totalNumberOfTokens="85"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/model/interceptors/WagoVideoStageComponentVideoUrlInterceptor.java"
+         totalNumberOfTokens="153"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/page/WagoCMSPageService.java"
+         totalNumberOfTokens="68"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/page/daos/WagoCMSPageDao.java"
+         totalNumberOfTokens="91"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/page/daos/impl/DefaultWagoCMSPageDao.java"
+         totalNumberOfTokens="976"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/page/impl/DefaultWagoCMSPageService.java"
+         totalNumberOfTokens="1858"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/page/interceptors/WagoContentPageProductLineValidateInterceptor.java"
+         totalNumberOfTokens="91"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/page/interceptors/WagoContentPageUniqueUrlLabelValidateInterceptor.java"
+         totalNumberOfTokens="357"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/page/interceptors/WagoContentPageUrlLabelPrepareInterceptor.java"
+         totalNumberOfTokens="148"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/page/interceptors/WagoFilterCategoryProductLineValidateInterceptor.java"
+         totalNumberOfTokens="164"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/page/interceptors/WagoIdValidateInterceptor.java"
+         totalNumberOfTokens="200"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/page/interceptors/WagoTextNormalizationPrepareInterceptor.java"
+         totalNumberOfTokens="668"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/preview/strategies/WagoLoadLanguageStrategy.java"
+         totalNumberOfTokens="115"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/productline/daos/WagoProductLineDao.java"
+         totalNumberOfTokens="28"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/productline/daos/impl/DefaultWagoProductLineDao.java"
+         totalNumberOfTokens="98"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/productline/services/WagoProductLineService.java"
+         totalNumberOfTokens="23"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/productline/services/impl/DefaultWagoProductLineService.java"
+         totalNumberOfTokens="85"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/restrictions/WagoCMSDownloadVersionRestrictionEvaluator.java"
+         totalNumberOfTokens="101"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/restrictions/WagoCMSJobAdvertisementFunctionalAreaRestrictionEvaluator.java"
+         totalNumberOfTokens="125"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/search/DefaultWagoBlogSearchService.java"
+         totalNumberOfTokens="173"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/search/WagoBlogSearchService.java"
+         totalNumberOfTokens="23"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/search/populators/WagoNamedFacetSearchConfigSelectionStrategy.java"
+         totalNumberOfTokens="77"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/search/solrfacetsearch/provider/WagoBlogArticleTypeDisplayNameProvider.java"
+         totalNumberOfTokens="78"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/servicelayer/interceptor/impl/WAGOCMSContentSlotForPageRemoveInterceptor.java"
+         totalNumberOfTokens="148"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/servicelayer/interceptor/impl/WagoCMSItemRemoveInterceptor.java"
+         totalNumberOfTokens="133"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/servicelayer/interceptor/impl/WagoImageMediaPrepareInterceptor.java"
+         totalNumberOfTokens="285"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/servicelayer/interceptor/impl/WagoMediaFallbackPrepareInterceptor.java"
+         totalNumberOfTokens="390"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/servicelayer/model/WagoCMSSelectedFacetValueService.java"
+         totalNumberOfTokens="32"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/servicelayer/model/impl/DefaultWagoCMSSelectedFacetValueService.java"
+         totalNumberOfTokens="296"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/servicelayer/reference/dao/WagoContentCategoryPageReferenceDao.java"
+         totalNumberOfTokens="17"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/servicelayer/reference/dao/impl/DefaultWagoContentCategoryPageReferenceDao.java"
+         totalNumberOfTokens="161"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/servicelayer/reference/service/WagoContentCategoryPageReferenceService.java"
+         totalNumberOfTokens="17"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/servicelayer/reference/service/impl/DefaultWagoContentCategoryPageReferenceService.java"
+         totalNumberOfTokens="53"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/servicelayer/services/evaluator/impl/WagoCMSPOSRestrictionEvaluator.java"
+         totalNumberOfTokens="145"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/services/WagoAffectedPagesService.java"
+         totalNumberOfTokens="25"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/services/WagoCMSItemService.java"
+         totalNumberOfTokens="41"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/services/WagoContentPageHeadlineService.java"
+         totalNumberOfTokens="11"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/services/WagoContentSlotForPageService.java"
+         totalNumberOfTokens="19"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/services/impl/DefaultWagoAffectedPagesService.java"
+         totalNumberOfTokens="310"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/services/impl/DefaultWagoCMSItemService.java"
+         totalNumberOfTokens="608"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/services/impl/DefaultWagoContentPageHeadlineService.java"
+         totalNumberOfTokens="336"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/services/impl/DefaultWagoContentSlotForPageService.java"
+         totalNumberOfTokens="53"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/services/impl/WagoContentVersionDynamicAttributeService.java"
+         totalNumberOfTokens="411"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/services/interceptor/impl/WagoCMSContentPagePrepareInterceptor.java"
+         totalNumberOfTokens="222"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/services/interceptor/impl/WagoCMSFacetValueTranslationPrepareInterceptor.java"
+         totalNumberOfTokens="169"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/setup/WagoCMSSystemSetup.java"
+         totalNumberOfTokens="85"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/transfer/WagoCMSItemRenameService.java"
+         totalNumberOfTokens="19"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/transfer/WagoCMSItemTransferService.java"
+         totalNumberOfTokens="32"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/transfer/WagoCmsItemTransferConfig.java"
+         totalNumberOfTokens="172"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/transfer/WagoCmsItemTransferConfigBuilder.java"
+         totalNumberOfTokens="253"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/transfer/WagoCmsItemTransferConfigValidityChecker.java"
+         totalNumberOfTokens="212"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/transfer/WagoContentTransferService.java"
+         totalNumberOfTokens="220"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/transfer/WagoPageStructureCorrectionService.java"
+         totalNumberOfTokens="11"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/transfer/WagoPageTemplateTransferService.java"
+         totalNumberOfTokens="18"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/transfer/exception/WagoContentTransferException.java"
+         totalNumberOfTokens="46"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/transfer/impl/DefaultWagoCMSItemRenameService.java"
+         totalNumberOfTokens="225"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/transfer/impl/DefaultWagoCMSItemTransferService.java"
+         totalNumberOfTokens="3410"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/transfer/impl/DefaultWagoContentTransferService.java"
+         totalNumberOfTokens="1522"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/transfer/impl/DefaultWagoPageStructureCorrectionService.java"
+         totalNumberOfTokens="325"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/transfer/impl/DefaultWagoPageTemplateTransferService.java"
+         totalNumberOfTokens="728"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/translation/WagoCMSFacetTranslationService.java"
+         totalNumberOfTokens="27"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/translation/WagoCmsSelectedFacetValueService.java"
+         totalNumberOfTokens="14"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/translation/impl/DefaultWagoCMSFacetTranslationService.java"
+         totalNumberOfTokens="978"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/src/com/wago/cms/translation/impl/DefaultWagoCmsSelectedFacetValueService.java"
+         totalNumberOfTokens="53"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/category/impl/DefaultWagoWagoContentCategoryGroupServiceTest.java"
+         totalNumberOfTokens="64"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/component/impl/DefaultWagoTeaserComponentPropertyServiceTest.java"
+         totalNumberOfTokens="169"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/component/interceptors/WagoMainArticleTextFocusComponentPrepareInterceptorTest.java"
+         totalNumberOfTokens="488"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/component/interceptors/WagoMarginColumnImageComponentPrepareInterceptorTest.java"
+         totalNumberOfTokens="391"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/component/renderer/impl/WagoCMSParagraphComponentRendererTest.java"
+         totalNumberOfTokens="379"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/daos/impl/DefaultWagoCMSItemDaoTest.java"
+         totalNumberOfTokens="152"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/daos/impl/DefaultWagoCMSSelectedFacetValueDaoTest.java"
+         totalNumberOfTokens="129"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/daos/impl/DefaultWagoContentCategoryGroupDaoTest.java"
+         totalNumberOfTokens="115"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/daos/impl/DefaultWagoContentSlotForPageDaoTest.java"
+         totalNumberOfTokens="463"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/daos/impl/DefaultWagoMainArticleTextFocusComponentDaoTest.java"
+         totalNumberOfTokens="167"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/daos/impl/DefaultWagoPagedCMSItemDaoTest.java"
+         totalNumberOfTokens="245"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/daos/impl/WagoCMSContentSlotDaoTest.java"
+         totalNumberOfTokens="158"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/faq/impl/DefaultWagoFaqServiceTest.java"
+         totalNumberOfTokens="244"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/faq/populator/WagoFaqStructuredDataPopulatorTest.java"
+         totalNumberOfTokens="114"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/job/WagoContentAttributeTransferJobPerformableTest.java"
+         totalNumberOfTokens="1100"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/job/WagoContentTransferJobPerformableTest.java"
+         totalNumberOfTokens="383"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/job/WagoMigrateAttributeJobPerformableTest.java"
+         totalNumberOfTokens="1007"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/job/WagoTranslatedContentTransferJobPerformableTest.java"
+         totalNumberOfTokens="332"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/migration/services/impl/WagoAbstractCMSComponentMigrationServiceTest.java"
+         totalNumberOfTokens="297"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/migration/services/impl/WagoCMSComponentMigrationUtilsTest.java"
+         totalNumberOfTokens="280"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/migration/services/impl/WagoElementsIntoColumnsMigrationServiceTest.java"
+         totalNumberOfTokens="217"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/migration/services/impl/WagoHeatMapComponentMigrationServiceTest.java"
+         totalNumberOfTokens="410"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/model/AbstractDynamicVisibilityAttributeHandlerTest.java"
+         totalNumberOfTokens="169"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/model/WagoCMSComponentDynamicVisibilityAttributeHandlerTest.java"
+         totalNumberOfTokens="474"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/model/WagoCMSComponentPassepartoutAttributeHandlerTest.java"
+         totalNumberOfTokens="138"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/model/WagoCMSLinkComponentDynamicVisibilityAttributeHandlerTest.java"
+         totalNumberOfTokens="297"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/model/interceptors/WagoAbstractTeaserComponentLoadInterceptorTest.java"
+         totalNumberOfTokens="304"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/model/interceptors/WagoAbstractTeaserInformationPrepareInterceptorTest.java"
+         totalNumberOfTokens="636"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/model/interceptors/WagoAbstractTeaserInformationTest.java"
+         totalNumberOfTokens="108"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/model/interceptors/WagoAccordionGroupContentValidateInterceptorTest.java"
+         totalNumberOfTokens="290"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/model/interceptors/WagoAccordionModuleContentValidateInterceptorTest.java"
+         totalNumberOfTokens="153"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/model/interceptors/WagoCMSItemMasterCatalogRestrictionValidateInterceptorTest.java"
+         totalNumberOfTokens="653"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/model/interceptors/WagoCMSItemPrepareInterceptorUnitTest.java"
+         totalNumberOfTokens="458"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/model/interceptors/WagoCMSItemVersionPrepareInterceptorTest.java"
+         totalNumberOfTokens="319"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/model/interceptors/WagoCMSSelectedFacetValueValidateInterceptorTest.java"
+         totalNumberOfTokens="177"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/model/interceptors/WagoCategoryStageComponentTeaserInformationPrepareInterceptorTest.java"
+         totalNumberOfTokens="114"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/model/interceptors/WagoColumnComponentValidateInterceptorTest.java"
+         totalNumberOfTokens="202"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/model/interceptors/WagoContactFormComponentValidateInterceptorTest.java"
+         totalNumberOfTokens="206"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/model/interceptors/WagoContentPageLoadInterceptorTest.java"
+         totalNumberOfTokens="116"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/model/interceptors/WagoContentSlotPrepareInterceptorTest.java"
+         totalNumberOfTokens="259"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/model/interceptors/WagoContentTransferCronJobValidateInterceptorTest.java"
+         totalNumberOfTokens="511"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/model/interceptors/WagoElementComponentSubtitleInitDefaultsInterceptorTest.java"
+         totalNumberOfTokens="114"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/model/interceptors/WagoExplainStageComponentTeaserInformationPrepareInterceptorTest.java"
+         totalNumberOfTokens="114"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/model/interceptors/WagoFaqAccordionGroupPrepareInterceptorTest.java"
+         totalNumberOfTokens="221"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/model/interceptors/WagoFaqAccordionModulePrepareInterceptorTest.java"
+         totalNumberOfTokens="216"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/model/interceptors/WagoFullTabComponentValidateInterceptorTest.java"
+         totalNumberOfTokens="294"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/model/interceptors/WagoFullVideoComponentValidateInterceptorTest.java"
+         totalNumberOfTokens="757"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/model/interceptors/WagoHotSpotComponentValidateInterceptorTest.java"
+         totalNumberOfTokens="179"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/model/interceptors/WagoHotSpotZoomItemValidateInterceptorTest.java"
+         totalNumberOfTokens="268"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/model/interceptors/WagoIconTextComponentValidateInterceptorTest.java"
+         totalNumberOfTokens="215"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/model/interceptors/WagoInteractiveInfographicLayerValidateInterceptorTest.java"
+         totalNumberOfTokens="192"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/model/interceptors/WagoLandingStageComponentTeaserInformationPrepareInterceptorTest.java"
+         totalNumberOfTokens="114"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/model/interceptors/WagoMainArticleImageFocusComponentTeaserInformationPrepareInterceptorTest.java"
+         totalNumberOfTokens="201"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/model/interceptors/WagoMainArticlePushComponentTeaserInformationPrepareInterceptorTest.java"
+         totalNumberOfTokens="114"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/model/interceptors/WagoMainArticleTextFocusComponentTeaserInformationPrepareInterceptorTest.java"
+         totalNumberOfTokens="201"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/model/interceptors/WagoMainArticleUSPFocusComponentTeaserInformationPrepareInterceptorTest.java"
+         totalNumberOfTokens="114"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/model/interceptors/WagoMigrateAttributeCronjobValidateInterceptorTest.java"
+         totalNumberOfTokens="771"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/model/interceptors/WagoOpacityConstraintValidatorTest.java"
+         totalNumberOfTokens="146"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/model/interceptors/WagoRatingComponentItemInterceptorTest.java"
+         totalNumberOfTokens="128"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/model/interceptors/WagoSimpleCMSComponentValidateInterceptorTest.java"
+         totalNumberOfTokens="168"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/model/interceptors/WagoTableContentValidateInterceptorTest.java"
+         totalNumberOfTokens="281"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/model/interceptors/WagoTimelineComponentValidateInterceptorTest.java"
+         totalNumberOfTokens="316"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/model/interceptors/WagoVideoPlaylistItemInterceptorTest.java"
+         totalNumberOfTokens="369"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/page/daos/impl/DefaultWagoCMSPageDaoTest.java"
+         totalNumberOfTokens="393"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/page/impl/DefaultWagoCMSPageServiceTest.java"
+         totalNumberOfTokens="2150"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/page/interceptors/WagoContentPageProductLineValidateInterceptorTest.java"
+         totalNumberOfTokens="174"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/page/interceptors/WagoContentPageUniqueUrlLabelValidateInterceptorTest.java"
+         totalNumberOfTokens="637"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/page/interceptors/WagoContentPageUrlLabelPrepareInterceptorTest.java"
+         totalNumberOfTokens="451"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/page/interceptors/WagoFilterCategoryProductLineValidateInterceptorTest.java"
+         totalNumberOfTokens="239"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/page/interceptors/WagoIdValidateInterceptorTest.java"
+         totalNumberOfTokens="466"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/page/interceptors/WagoTextNormalizationPrepareInterceptorTest.java"
+         totalNumberOfTokens="522"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/preview/strategies/WagoLoadLanguageStrategyTest.java"
+         totalNumberOfTokens="190"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/productline/daos/impl/DefaultWagoProductLineDaoTest.java"
+         totalNumberOfTokens="282"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/restrictions/WagoCMSDownloadVersionRestrictionEvaluatorTest.java"
+         totalNumberOfTokens="302"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/restrictions/WagoCMSJobAdvertisementFunctionalAreaRestrictionEvaluatorTest.java"
+         totalNumberOfTokens="227"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/search/DefaultWagoBlogSearchServiceTest.java"
+         totalNumberOfTokens="537"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/search/populators/WagoNamedFacetSearchConfigSelectionStrategyTest.java"
+         totalNumberOfTokens="108"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/search/solrfacetsearch/provider/WagoBlogArticleTypeDisplayNameProviderTest.java"
+         totalNumberOfTokens="78"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/servicelayer/DefaultWagoCMSSelectedFacetValueServiceTest.java"
+         totalNumberOfTokens="168"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/servicelayer/interceptor/impl/WagoCMSItemRemoveInterceptorTest.java"
+         totalNumberOfTokens="104"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/servicelayer/interceptor/impl/WagoImageMediaPrepareInterceptorTest.java"
+         totalNumberOfTokens="384"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/servicelayer/interceptor/impl/WagoMediaFallbackPrepareInterceptorTest.java"
+         totalNumberOfTokens="469"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/servicelayer/reference/dao/impl/DefaultWagoContentCategoryPageReferenceDaoTest.java"
+         totalNumberOfTokens="292"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/servicelayer/reference/service/impl/DefaultWagoContentCategoryPageReferenceServiceTest.java"
+         totalNumberOfTokens="132"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/servicelayer/services/evaluator/impl/WagoCMSPOSRestrictionEvaluatorTest.java"
+         totalNumberOfTokens="413"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/services/impl/DefaultWagoAffectedPagesServiceTest.java"
+         totalNumberOfTokens="413"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/services/impl/DefaultWagoCMSItemServiceTest.java"
+         totalNumberOfTokens="609"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/services/impl/DefaultWagoContentPageHeadlineServiceTest.java"
+         totalNumberOfTokens="365"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/services/impl/DefaultWagoContentSlotForPageServiceTest.java"
+         totalNumberOfTokens="102"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/services/impl/DefaultWagoProductLineServiceTest.java"
+         totalNumberOfTokens="354"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/services/impl/WagoContentVersionDynamicAttributeServiceTest.java"
+         totalNumberOfTokens="389"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/services/interceptor/impl/WagoCMSFacetValueTranslationPrepareInterceptorTest.java"
+         totalNumberOfTokens="225"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/transfer/WagoCmsItemTransferConfigBuilderTest.java"
+         totalNumberOfTokens="407"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/transfer/WagoCmsItemTransferConfigValidityCheckerTest.java"
+         totalNumberOfTokens="491"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/transfer/impl/DefaultWagoCMSItemRenameServiceTest.java"
+         totalNumberOfTokens="256"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/transfer/impl/DefaultWagoCMSItemTransferServiceTest.java"
+         totalNumberOfTokens="1202"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/transfer/impl/DefaultWagoContentTransferServiceTest.java"
+         totalNumberOfTokens="1167"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/transfer/impl/DefaultWagoPageStructureCorrectionServiceTest.java"
+         totalNumberOfTokens="305"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/transfer/impl/DefaultWagoPageTemplateTransferServiceTest.java"
+         totalNumberOfTokens="1073"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/translation/impl/DefaultWagoCMSFacetTranslationServiceTest.java"
+         totalNumberOfTokens="846"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/translation/impl/DefaultWagoCmsSelectedFacetValueServiceTest.java"
+         totalNumberOfTokens="98"/>
+   <duplication lines="13" tokens="114">
+      <file begintoken="58129" column="3" endcolumn="2" endline="113" endtoken="58242"
+            line="101"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/page/interceptors/WagoContentPageUniqueUrlLabelValidateInterceptorTest.java"/>
+      <file begintoken="58403" column="3" endcolumn="2" endline="164" endtoken="58516"
+            line="152"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/page/interceptors/WagoContentPageUniqueUrlLabelValidateInterceptorTest.java"/>
+      <codefragment><![CDATA[		final ContentPageModel contentPage = mock(ContentPageModel.class);
+		given(contentPage.getCatalogVersion()).willReturn(catalogVersion);
+		given(contentPage.getUrlLabel(any(Locale.class))).willReturn(urlLabel);
+
+		final ContentPageModel anotherContentPage = mock(ContentPageModel.class);
+		given(anotherContentPage.getCatalogVersion()).willReturn(catalogVersion);
+		given(anotherContentPage.getUrlLabel(any(Locale.class))).willReturn(urlLabel);
+
+		given(wagoCMSPageService.getPagesForLabel(urlLabel, catalogVersion))
+				.willReturn(Arrays.asList(contentPage, anotherContentPage));
+
+		interceptor.validateUniquenessOfContentPage(contentPage);
+	}]]></codefragment>
+   </duplication>
+   <duplication lines="12" tokens="108">
+      <file begintoken="58261" column="2" endcolumn="96" endline="135" endtoken="58368"
+            line="124"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/page/interceptors/WagoContentPageUniqueUrlLabelValidateInterceptorTest.java"/>
+      <file begintoken="58397" column="2" endcolumn="30" endline="161" endtoken="58504"
+            line="149"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/page/interceptors/WagoContentPageUniqueUrlLabelValidateInterceptorTest.java"/>
+      <codefragment><![CDATA[	{
+		final String urlLabel = "/junit";
+
+		final ContentPageModel contentPage = mock(ContentPageModel.class);
+		given(contentPage.getCatalogVersion()).willReturn(catalogVersion);
+		given(contentPage.getUrlLabel(any(Locale.class))).willReturn(urlLabel);
+
+		final ContentPageModel anotherContentPage = mock(ContentPageModel.class);
+		given(anotherContentPage.getCatalogVersion()).willReturn(catalogVersion);
+		given(anotherContentPage.getUrlLabel(any(Locale.class))).willReturn(urlLabel);
+
+		given(wagoCMSPageService.getPagesForLabel(urlLabel, catalogVersion)).willReturn(Arrays.asList(anotherContentPage));]]></codefragment>
+   </duplication>
+   <duplication lines="8" tokens="107">
+      <file begintoken="50730" column="20" endcolumn="89" endline="78" endtoken="50836"
+            line="71"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/model/interceptors/WagoFullVideoComponentValidateInterceptorTest.java"/>
+      <file begintoken="51010" column="28" endcolumn="89" endline="111" endtoken="51116"
+            line="104"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/model/interceptors/WagoFullVideoComponentValidateInterceptorTest.java"/>
+      <codefragment><![CDATA[	public void allSet() throws InterceptorException
+	{
+		dirty.put(WagoFullVideoComponentModel.DESKTOPVIDEOMP4, ImmutableSet.of(Locale.ENGLISH));
+		dirty.put(WagoFullVideoComponentModel.DESKTOPVIDEOOGV, ImmutableSet.of(Locale.ENGLISH));
+		dirty.put(WagoFullVideoComponentModel.DESKTOPVIDEOWEBM, ImmutableSet.of(Locale.ENGLISH));
+		dirty.put(WagoFullVideoComponentModel.MOBILEVIDEOMP4, ImmutableSet.of(Locale.ENGLISH));
+		dirty.put(WagoFullVideoComponentModel.MOBILEVIDEOOGV, ImmutableSet.of(Locale.ENGLISH));
+		dirty.put(WagoFullVideoComponentModel.MOBILEVIDEOWEBM, ImmutableSet.of(Locale.ENGLISH));]]></codefragment>
+   </duplication>
+   <duplication lines="10" tokens="102">
+      <file begintoken="58129" column="3" endcolumn="30" endline="110" endtoken="58230"
+            line="101"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/page/interceptors/WagoContentPageUniqueUrlLabelValidateInterceptorTest.java"/>
+      <file begintoken="58267" column="3" endcolumn="96" endline="135" endtoken="58368"
+            line="127"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/page/interceptors/WagoContentPageUniqueUrlLabelValidateInterceptorTest.java"/>
+      <codefragment><![CDATA[		final ContentPageModel contentPage = mock(ContentPageModel.class);
+		given(contentPage.getCatalogVersion()).willReturn(catalogVersion);
+		given(contentPage.getUrlLabel(any(Locale.class))).willReturn(urlLabel);
+
+		final ContentPageModel anotherContentPage = mock(ContentPageModel.class);
+		given(anotherContentPage.getCatalogVersion()).willReturn(catalogVersion);
+		given(anotherContentPage.getUrlLabel(any(Locale.class))).willReturn(urlLabel);
+
+		given(wagoCMSPageService.getPagesForLabel(urlLabel, catalogVersion))
+				.willReturn(Arrays.asList(contentPage, anotherContentPage));]]></codefragment>
+   </duplication>
+   <duplication lines="15" tokens="94">
+      <file begintoken="42068" column="74" endcolumn="12" endline="160" endtoken="42161"
+            line="146"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/job/WagoMigrateAttributeJobPerformableTest.java"/>
+      <file begintoken="42223" column="45" endcolumn="12" endline="181" endtoken="42316"
+            line="165"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/job/WagoMigrateAttributeJobPerformableTest.java"/>
+      <codefragment><![CDATA[		final Map<Locale, Object> values = Map.of(Locale.GERMAN, SOURCE_VALUE, Locale.ENGLISH, SOURCE_VALUE);
+		when(modelService.getAttributeValues(cmsItem, SOURCE, Locale.GERMAN, Locale.ENGLISH)).thenReturn(values);
+
+		final PerformResult result = job.perform(cronjob);
+
+		assertEquals(CronJobResult.SUCCESS, result.getResult());
+		assertEquals(CronJobStatus.FINISHED, result.getStatus());
+
+		verifyAndAssertQuery();
+		verify(modelService).setAttributeValue(cmsItem, TARGET, values);
+		verify(modelService).save(cmsItem);
+	}
+
+	@Test
+	public void performCmsItemTargetNoLanguage()]]></codefragment>
+   </duplication>
+   <duplication lines="13" tokens="81">
+      <file begintoken="40782" column="93" endcolumn="6" endline="201" endtoken="40862"
+            line="189"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/job/WagoContentAttributeTransferJobPerformableTest.java"/>
+      <file begintoken="40884" column="87" endcolumn="6" endline="216" endtoken="40964"
+            line="204"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/job/WagoContentAttributeTransferJobPerformableTest.java"/>
+      <codefragment><![CDATA[		when(wagoCMSItemDao.findCMSItemByUidAndCatalogVersion(anyString(), eq(sourceCatalogVersion)))
+				.thenReturn(Optional.empty());
+
+		final PerformResult result = job.perform(cronjob);
+
+		assertEquals(CronJobResult.SUCCESS, result.getResult());
+		assertEquals(CronJobStatus.FINISHED, result.getStatus());
+
+		verify(wagoCMSItemTransferService, never()).transferItem(any(CMSItemModel.class), any(CMSItemModel.class),
+				any(WagoCmsItemTransferConfig.class));
+	}
+
+	@Test]]></codefragment>
+   </duplication>
+   <duplication lines="13" tokens="72">
+      <file begintoken="40587" column="98" endcolumn="12" endline="172" endtoken="40658"
+            line="160"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/job/WagoContentAttributeTransferJobPerformableTest.java"/>
+      <file begintoken="40793" column="33" endcolumn="12" endline="202" endtoken="40864"
+            line="190"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/job/WagoContentAttributeTransferJobPerformableTest.java"/>
+      <codefragment><![CDATA[		when(cronjob.getPages()).thenReturn(WagoContentAttributeTransferJobPerformable.ALL_PAGES_MARKER);
+
+		final PerformResult result = job.perform(cronjob);
+
+		assertEquals(CronJobResult.SUCCESS, result.getResult());
+		assertEquals(CronJobStatus.FINISHED, result.getStatus());
+
+		verify(wagoCMSItemTransferService, never()).transferItem(any(CMSItemModel.class), any(CMSItemModel.class),
+				any(WagoCmsItemTransferConfig.class));
+	}
+
+	@Test
+	public void shouldHandleTransferException() throws WagoContentTransferException]]></codefragment>
+   </duplication>
+   <duplication lines="13" tokens="71">
+      <file begintoken="40471" column="98" endcolumn="12" endline="156" endtoken="40541"
+            line="144"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/job/WagoContentAttributeTransferJobPerformableTest.java"/>
+      <file begintoken="40692" column="17" endcolumn="12" endline="187" endtoken="40762"
+            line="175"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/job/WagoContentAttributeTransferJobPerformableTest.java"/>
+      <codefragment><![CDATA[		when(cronjob.getPages()).thenReturn(WagoContentAttributeTransferJobPerformable.ALL_PAGES_MARKER);
+
+		final PerformResult result = job.perform(cronjob);
+
+		assertEquals(CronJobResult.SUCCESS, result.getResult());
+		assertEquals(CronJobStatus.FINISHED, result.getStatus());
+
+		verify(wagoCMSItemTransferService, times(3)).transferItem(eq(sourcePage), eq(targetPage), transferConfigCaptor.capture());
+		assertTransferConfigs();
+	}
+
+	@Test
+	public void shouldIgnoreUnknownTargetPagesForAllPages() throws WagoContentTransferException]]></codefragment>
+   </duplication>
+   <duplication lines="11" tokens="70">
+      <file begintoken="40381" column="3" endcolumn="12" endline="142" endtoken="40450"
+            line="132"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/job/WagoContentAttributeTransferJobPerformableTest.java"/>
+      <file begintoken="40472" column="3" endcolumn="12" endline="156" endtoken="40541"
+            line="146"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/job/WagoContentAttributeTransferJobPerformableTest.java"/>
+      <file begintoken="40693" column="3" endcolumn="12" endline="187" endtoken="40762"
+            line="177"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/job/WagoContentAttributeTransferJobPerformableTest.java"/>
+      <codefragment><![CDATA[		final PerformResult result = job.perform(cronjob);
+
+		assertEquals(CronJobResult.SUCCESS, result.getResult());
+		assertEquals(CronJobStatus.FINISHED, result.getStatus());
+
+		verify(wagoCMSItemTransferService, times(3)).transferItem(eq(sourcePage), eq(targetPage), transferConfigCaptor.capture());
+		assertTransferConfigs();
+	}
+
+	@Test
+	public void shouldTransferKnownAttributesForAllPages() throws WagoContentTransferException]]></codefragment>
+   </duplication>
+   <duplication lines="12" tokens="70">
+      <file begintoken="40587" column="98" endcolumn="6" endline="171" endtoken="40656"
+            line="160"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/job/WagoContentAttributeTransferJobPerformableTest.java"/>
+      <file begintoken="40895" column="33" endcolumn="6" endline="216" endtoken="40964"
+            line="205"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/job/WagoContentAttributeTransferJobPerformableTest.java"/>
+      <codefragment><![CDATA[		when(cronjob.getPages()).thenReturn(WagoContentAttributeTransferJobPerformable.ALL_PAGES_MARKER);
+
+		final PerformResult result = job.perform(cronjob);
+
+		assertEquals(CronJobResult.SUCCESS, result.getResult());
+		assertEquals(CronJobStatus.FINISHED, result.getStatus());
+
+		verify(wagoCMSItemTransferService, never()).transferItem(any(CMSItemModel.class), any(CMSItemModel.class),
+				any(WagoCmsItemTransferConfig.class));
+	}
+
+	@Test]]></codefragment>
+   </duplication>
+   <duplication lines="11" tokens="70">
+      <file begintoken="45713" column="40" endcolumn="38" endline="131" endtoken="45782"
+            line="121"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/model/interceptors/WagoAbstractTeaserInformationPrepareInterceptorTest.java"/>
+      <file begintoken="45939" column="43" endcolumn="38" endline="162" endtoken="46008"
+            line="152"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocms/testsrc/com/wago/cms/model/interceptors/WagoAbstractTeaserInformationPrepareInterceptorTest.java"/>
+      <codefragment><![CDATA[	public void shouldSetTeaserInformation() throws InterceptorException
+	{
+		// Attribute is dirty
+		when(context.getDirtyAttributes(model)).thenReturn(Map.of(ATTRIBUTE_A, Set.of(Locale.GERMAN)));
+		
+		// Language model
+		final LanguageModel lang = mock(LanguageModel.class);
+		when(wagoCommonI18NService.getLanguageForLocale(Locale.GERMAN)).thenReturn(lang);
+		
+		// Component is Visible
+		when(model.getVisible()).thenReturn(true);]]></codefragment>
+   </duplication>
+</pmd-cpd>

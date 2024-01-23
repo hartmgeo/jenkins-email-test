@@ -1,0 +1,1080 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd-cpd>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslation/common/constants/WagoCMSTranslationConstants.java"
+         totalNumberOfTokens="222"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslation/common/directory/WagoTranslationDirectoryUtils.java"
+         totalNumberOfTokens="219"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslation/common/jaxb/CDataContentHandler.java"
+         totalNumberOfTokens="68"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslation/common/jaxb/SimpleAttributeAdapter.java"
+         totalNumberOfTokens="40"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslation/common/jaxb/WagoImageLocalizationTextTranslation.java"
+         totalNumberOfTokens="186"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslation/common/jaxb/WagoLocalizedMediaContainerTranslation.java"
+         totalNumberOfTokens="127"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslation/common/jaxb/WagoLocalizedMediaTranslation.java"
+         totalNumberOfTokens="127"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslation/common/jaxb/WagoMessage.java"
+         totalNumberOfTokens="78"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslation/common/jaxb/WagoMessagesTranslation.java"
+         totalNumberOfTokens="127"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslation/common/jaxb/WagoSolrIndexedProperty.java"
+         totalNumberOfTokens="143"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslation/common/jaxb/WagoSolrIndexedPropertyTranslation.java"
+         totalNumberOfTokens="127"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslation/common/setup/WagocmstranslationSystemSetup.java"
+         totalNumberOfTokens="75"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslation/migration/jobs/WagoMigrateLocalizedContentJobPerformable.java"
+         totalNumberOfTokens="118"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslation/migration/service/WagoMigrateLocalizedContentService.java"
+         totalNumberOfTokens="17"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslation/migration/service/WagoMigrationLocalizedContentLanguageValidationService.java"
+         totalNumberOfTokens="14"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslation/migration/service/impl/DefaultWagoMigrateLocalizedContentService.java"
+         totalNumberOfTokens="778"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslation/migration/service/impl/DefaultWagoMigrationLocalizedContentLanguageValidationService.java"
+         totalNumberOfTokens="122"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/common/WagoExportUtil.java"
+         totalNumberOfTokens="231"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/constants/WagocmstranslationexportConstants.java"
+         totalNumberOfTokens="25"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/converters/populator/TranslationPopulator.java"
+         totalNumberOfTokens="1824"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/converters/populator/WagoTranslationXmlUtils.java"
+         totalNumberOfTokens="350"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/exception/WagoTranslationExportException.java"
+         totalNumberOfTokens="40"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/intermediateformat/domain/Node.java"
+         totalNumberOfTokens="123"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/intermediateformat/domain/NodeFactory.java"
+         totalNumberOfTokens="21"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/intermediateformat/domain/NodeType.java"
+         totalNumberOfTokens="27"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/intermediateformat/domain/impl/DefaultNode.java"
+         totalNumberOfTokens="675"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/intermediateformat/domain/impl/DefaultNodeFactory.java"
+         totalNumberOfTokens="56"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/intermediateformat/listener/IntermediateFormatListener.java"
+         totalNumberOfTokens="116"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/intermediateformat/listener/impl/AbstractIntermediateFormatListener.java"
+         totalNumberOfTokens="91"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/intermediateformat/listener/impl/DebugIntermediateFormatListener.java"
+         totalNumberOfTokens="655"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/intermediateformat/listener/impl/DefaultIntermediateFormatListener.java"
+         totalNumberOfTokens="855"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/intermediateformat/traversal/DomainNodeTraversalListener.java"
+         totalNumberOfTokens="37"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/intermediateformat/traversal/PKCollectingDomainNodeTraversalListener.java"
+         totalNumberOfTokens="40"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/intermediateformat/traversal/TraversalCommand.java"
+         totalNumberOfTokens="35"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/intermediateformat/traversal/impl/AttributeContainerTraversalCommand.java"
+         totalNumberOfTokens="56"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/intermediateformat/traversal/impl/AttributeTraversalCommand.java"
+         totalNumberOfTokens="249"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/intermediateformat/traversal/impl/BaseTraversalCommand.java"
+         totalNumberOfTokens="465"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/intermediateformat/traversal/impl/CMSComponentTraversalCommand.java"
+         totalNumberOfTokens="23"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/intermediateformat/traversal/impl/ContentPageTraversalCommand.java"
+         totalNumberOfTokens="45"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/intermediateformat/traversal/impl/ContentSlotForPageTraversalCommand.java"
+         totalNumberOfTokens="51"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/intermediateformat/traversal/impl/ContentSlotForTemplateTraversalCommand.java"
+         totalNumberOfTokens="65"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/intermediateformat/traversal/impl/ContentSlotTraversalCommand.java"
+         totalNumberOfTokens="181"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/intermediateformat/traversal/impl/DebugDomainNodeTraversalListener.java"
+         totalNumberOfTokens="811"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/intermediateformat/traversal/impl/DefaultTreeWalker.java"
+         totalNumberOfTokens="471"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/intermediateformat/traversal/impl/ImpexExportDomainNodeTraversalListener.java"
+         totalNumberOfTokens="402"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/intermediateformat/traversal/impl/NavigationNodeTraversalComand.java"
+         totalNumberOfTokens="127"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/intermediateformat/traversal/impl/PrincipalTraversalCommand.java"
+         totalNumberOfTokens="35"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/jobs/AbstractWagoTranslationExportJobPerformable.java"
+         totalNumberOfTokens="279"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/jobs/WagoContentTranslationExportJobPerformable.java"
+         totalNumberOfTokens="1051"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/jobs/WagoLocalizedMediaContainerTranslationExportJobPerformable.java"
+         totalNumberOfTokens="228"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/jobs/WagoMessageTranslationExportJobPerformable.java"
+         totalNumberOfTokens="201"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/jobs/WagoSolrIndexPropertyTranslationExportJobPerformable.java"
+         totalNumberOfTokens="269"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/model/CMSContentPageExportCronJobModelValidateInterceptor.java"
+         totalNumberOfTokens="51"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/pkconverter/PKConverter.java"
+         totalNumberOfTokens="19"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/pkconverter/impl/AbstractCMSComponentModelPKConverter.java"
+         totalNumberOfTokens="147"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/pkconverter/impl/AbstractRestrictionModelPKConverter.java"
+         totalNumberOfTokens="43"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/pkconverter/impl/BasePKConverter.java"
+         totalNumberOfTokens="191"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/pkconverter/impl/CMSCategoryRestrictionModelPKConverter.java"
+         totalNumberOfTokens="38"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/pkconverter/impl/CMSNavigationNodeModelPKConverter.java"
+         totalNumberOfTokens="107"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/pkconverter/impl/CMSTimeRestrictionModelPKConverter.java"
+         totalNumberOfTokens="38"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/pkconverter/impl/MediaContainerModelPKConverter.java"
+         totalNumberOfTokens="101"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/pkconverter/impl/MediaModelPKConverter.java"
+         totalNumberOfTokens="151"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/pkconverter/impl/NOPPKConverter.java"
+         totalNumberOfTokens="28"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/pkconverter/impl/PageTemplateModelPKConverter.java"
+         totalNumberOfTokens="122"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/pkconverter/impl/SolrIndexedPropertyModelPKConverter.java"
+         totalNumberOfTokens="38"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/pkconverter/impl/WagoBoundedSolrIndexedPropertyModelPKConverter.java"
+         totalNumberOfTokens="38"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/pkconverter/impl/WagoBulletPointItemModelPKConverter.java"
+         totalNumberOfTokens="38"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/pkconverter/impl/WagoHeaderCMSNavigationNodeModelPKConverter.java"
+         totalNumberOfTokens="107"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/pkconverter/impl/WagoResultTypeModelPKConverter.java"
+         totalNumberOfTokens="38"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/service/content/WagoContentExportedVersionService.java"
+         totalNumberOfTokens="21"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/service/content/WagoContentPagePreviewUrlService.java"
+         totalNumberOfTokens="34"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/service/content/WagoContentTranslationPageService.java"
+         totalNumberOfTokens="28"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/service/content/WagoContentVersionService.java"
+         totalNumberOfTokens="20"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/service/content/impl/DefaultWagoContentExportedVersionService.java"
+         totalNumberOfTokens="220"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/service/content/impl/DefaultWagoContentPagePreviewUrlService.java"
+         totalNumberOfTokens="299"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/service/content/impl/DefaultWagoContentTranslationPageService.java"
+         totalNumberOfTokens="216"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/service/content/impl/DefaultWagoContentVersionService.java"
+         totalNumberOfTokens="105"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/service/export/WagoXMLExportService.java"
+         totalNumberOfTokens="102"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/service/export/impl/DefaultWagoXMLExportService.java"
+         totalNumberOfTokens="227"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/service/notification/WagoExportNotificationBuilder.java"
+         totalNumberOfTokens="70"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/service/notification/WagoExportNotificationService.java"
+         totalNumberOfTokens="15"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/service/notification/impl/DefaultWagoExportNotificationBuilder.java"
+         totalNumberOfTokens="469"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/service/notification/impl/DefaultWagoExportNotificationService.java"
+         totalNumberOfTokens="57"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/service/structure/WagoContentPageIntermediateFormatService.java"
+         totalNumberOfTokens="23"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/service/structure/WagoContentPageStructureService.java"
+         totalNumberOfTokens="59"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/service/structure/impl/DefaultContentPageStructureService.java"
+         totalNumberOfTokens="336"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/service/structure/impl/DefaultWagoContentPageIntermediateFormatService.java"
+         totalNumberOfTokens="739"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/service/structure/impl/WagoContentPageStructureProcessor.java"
+         totalNumberOfTokens="2173"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/service/structure/impl/WagoContentPageStructureProcessorBuilder.java"
+         totalNumberOfTokens="527"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/service/translation/WagoContentTranslationExportSettings.java"
+         totalNumberOfTokens="98"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/service/translation/WagoContentTranslationExportSettingsBuilder.java"
+         totalNumberOfTokens="135"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/service/translation/WagoContentTranslationService.java"
+         totalNumberOfTokens="36"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/service/translation/WagoLocalizedMediaContainerTranslationService.java"
+         totalNumberOfTokens="29"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/service/translation/WagoMessageTranslationService.java"
+         totalNumberOfTokens="17"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/service/translation/WagoSolrIndexedPropertyTranslationService.java"
+         totalNumberOfTokens="20"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/service/translation/impl/DefaultWagoContentTranslationService.java"
+         totalNumberOfTokens="389"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/service/translation/impl/DefaultWagoLocalizedMediaContainerTranslationService.java"
+         totalNumberOfTokens="413"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/service/translation/impl/DefaultWagoMessageTranslationService.java"
+         totalNumberOfTokens="324"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/service/translation/impl/DefaultWagoSolrIndexedPropertyTranslationService.java"
+         totalNumberOfTokens="491"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/text/translate/WagoEntityArrays.java"
+         totalNumberOfTokens="1182"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/text/translate/WagoStringEscapeUtils.java"
+         totalNumberOfTokens="79"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/exception/WagoTranslationImportException.java"
+         totalNumberOfTokens="40"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/helper/WagoTranslationImportHelper.java"
+         totalNumberOfTokens="1774"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/jobs/AbstractWagoTranslationImportJobPerformable.java"
+         totalNumberOfTokens="927"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/jobs/WagoContentTranslationImportJobPerformable.java"
+         totalNumberOfTokens="32"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/jobs/WagoLocalizedMediaContainerTranslationImportJobPerformable.java"
+         totalNumberOfTokens="32"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/jobs/WagoMessageTranslationImportJobPerformable.java"
+         totalNumberOfTokens="32"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/jobs/WagoSolrPropertyTranslationImportJobPerformable.java"
+         totalNumberOfTokens="32"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/service/cms2/WagoCMSNavigationService.java"
+         totalNumberOfTokens="18"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/service/cms2/WagoCMSPageExportService.java"
+         totalNumberOfTokens="18"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/service/cms2/impl/DefaultWagoCMSNavigationServiceImpl.java"
+         totalNumberOfTokens="56"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/service/cms2/impl/DefaultWagoCMSPageServiceImpl.java"
+         totalNumberOfTokens="86"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/service/cms2/servicelayer/daos/WagoCMSNavigationDao.java"
+         totalNumberOfTokens="18"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/service/cms2/servicelayer/daos/impl/DefaultWagoCMSNavigationDao.java"
+         totalNumberOfTokens="137"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/service/notification/WagoContentPreviewDataService.java"
+         totalNumberOfTokens="34"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/service/notification/WagoImportNotificationService.java"
+         totalNumberOfTokens="32"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/service/notification/impl/DefaultWagoContentPreviewDataService.java"
+         totalNumberOfTokens="614"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/service/notification/impl/DefaultWagoImportNotificationService.java"
+         totalNumberOfTokens="326"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/service/sync/WagoContentTranslationImportSyncService.java"
+         totalNumberOfTokens="20"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/service/sync/impl/DefaultWagoContentTranslationImportSyncService.java"
+         totalNumberOfTokens="180"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/service/xmlimport/WagoTranslationImportService.java"
+         totalNumberOfTokens="97"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/service/xmlimport/WagoXmlImportResult.java"
+         totalNumberOfTokens="16"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/service/xmlimport/WagoXmlImportResultBuilder.java"
+         totalNumberOfTokens="68"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/service/xmlimport/impl/AbstractWagoTranslationImportServiceImpl.java"
+         totalNumberOfTokens="147"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/service/xmlimport/impl/DefaultWagoXmlImportResult.java"
+         totalNumberOfTokens="62"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/service/xmlimport/impl/WagoContentTranslationImportService.java"
+         totalNumberOfTokens="948"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/service/xmlimport/impl/WagoLocalizedMediaContainerTranslationImportService.java"
+         totalNumberOfTokens="773"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/service/xmlimport/impl/WagoMessagesTranslationImportService.java"
+         totalNumberOfTokens="237"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/service/xmlimport/impl/WagoSolrIndexedPropertyTranslationImportService.java"
+         totalNumberOfTokens="307"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/traversal/TranslationTraversalListener.java"
+         totalNumberOfTokens="175"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/traversal/TranslationTreeWalker.java"
+         totalNumberOfTokens="23"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/traversal/impl/BaseTranslationTraversalListener.java"
+         totalNumberOfTokens="266"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/traversal/impl/DefaultTranslationTraversalListener.java"
+         totalNumberOfTokens="1152"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/traversal/impl/DefaultTranslationTreeWalker.java"
+         totalNumberOfTokens="612"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslation/common/directory/WagoTranslationDirectoryUtilsTest.java"
+         totalNumberOfTokens="201"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslation/common/jaxb/WagoSolrIndexedPropertyTranslationTest.java"
+         totalNumberOfTokens="33"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslation/migration/jobs/WagoMigrateLocalizedContentJobPerformableTest.java"
+         totalNumberOfTokens="179"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslation/migration/service/impl/DefaultWagoMigrateLocalizedContentServiceTest.java"
+         totalNumberOfTokens="310"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslation/migration/service/impl/DefaultWagoMigrationLocalizedContentLanguageValidationServiceTest.java"
+         totalNumberOfTokens="519"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/common/WagoExportUtilTest.java"
+         totalNumberOfTokens="245"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/converters/populator/TranslationPopulatorTest.java"
+         totalNumberOfTokens="4352"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/intermediateformat/domain/impl/DefaultNodeFactoryTest.java"
+         totalNumberOfTokens="228"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/intermediateformat/listener/impl/DefaultIntermediateFormatListenerTest.java"
+         totalNumberOfTokens="878"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/intermediateformat/traversal/impl/AttributeContainerTraversalCommandTest.java"
+         totalNumberOfTokens="291"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/intermediateformat/traversal/impl/AttributeTraversalCommandTest.java"
+         totalNumberOfTokens="246"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/intermediateformat/traversal/impl/ContentPageTraversalCommandTest.java"
+         totalNumberOfTokens="877"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/intermediateformat/traversal/impl/ContentSlotForPageTraversalCommandTest.java"
+         totalNumberOfTokens="141"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/intermediateformat/traversal/impl/ContentSlotTraversalCommandTest.java"
+         totalNumberOfTokens="277"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/intermediateformat/traversal/impl/DefaultTreeWalkerTest.java"
+         totalNumberOfTokens="716"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/intermediateformat/traversal/impl/ImpexExportDomainNodeTraversalListenerTest.java"
+         totalNumberOfTokens="1370"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/intermediateformat/traversal/impl/PrincipalTraversalCommandTest.java"
+         totalNumberOfTokens="193"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/jobs/WagoContentTranslationExportJobPerformableTest.java"
+         totalNumberOfTokens="441"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/jobs/WagoSolrIndexPropertyTranslationExportJobPerformableTest.java"
+         totalNumberOfTokens="307"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/model/CMSContentPageExportCronJobModelValidateInterceptorTest.java"
+         totalNumberOfTokens="169"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/pkconverter/impl/MediaContainerModelPKConverterTest.java"
+         totalNumberOfTokens="379"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/pkconverter/impl/MediaModelPKConverterTest.java"
+         totalNumberOfTokens="489"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/pkconverter/impl/PageTemplateModelPKConverterTest.java"
+         totalNumberOfTokens="379"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/pkconverter/impl/SolrIndexedPropertyModelPKConverterTest.java"
+         totalNumberOfTokens="193"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/pkconverter/impl/WagoBoundedSolrIndexedPropertyModelPKConverterTest.java"
+         totalNumberOfTokens="193"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/pkconverter/impl/WagoBulletPointItemModelPKConverterTest.java"
+         totalNumberOfTokens="193"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/pkconverter/impl/WagoResultTypeModelPKConverterTest.java"
+         totalNumberOfTokens="193"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/service/content/impl/DefaultWagoContentExportedVersionServiceTest.java"
+         totalNumberOfTokens="222"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/service/content/impl/DefaultWagoContentPagePreviewUrlServiceTest.java"
+         totalNumberOfTokens="178"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/service/content/impl/DefaultWagoContentTranslationPageServiceTest.java"
+         totalNumberOfTokens="116"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/service/content/impl/DefaultWagoContentVersionServiceTest.java"
+         totalNumberOfTokens="255"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/service/export/impl/DefaultWagoXMLExportServiceTest.java"
+         totalNumberOfTokens="125"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/service/export/impl/TestXMLObject.java"
+         totalNumberOfTokens="66"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/service/notification/impl/DefaultWagoExportNotificationBuilderTest.java"
+         totalNumberOfTokens="323"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/service/notification/impl/DefaultWagoExportNotificationServiceTest.java"
+         totalNumberOfTokens="94"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/service/structure/impl/DefaultContentPageStructureServiceTest.java"
+         totalNumberOfTokens="2534"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/service/structure/impl/DefaultWagoContentPageIntermediateFormatServiceTest.java"
+         totalNumberOfTokens="126"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/service/translation/impl/DefaultWagoContentTranslationServiceTest.java"
+         totalNumberOfTokens="303"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/service/translation/impl/DefaultWagoLocalizedMediaContainerTranslationServiceTest.java"
+         totalNumberOfTokens="422"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/service/translation/impl/DefaultWagoMessageTranslationServiceTest.java"
+         totalNumberOfTokens="379"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/service/translation/impl/DefaultWagoSolrIndexedPropertyTranslationServiceTest.java"
+         totalNumberOfTokens="760"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationimport/helper/WagoTranslationImportHelperTest.java"
+         totalNumberOfTokens="686"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationimport/jobs/AbstractWagoTranslationImportJobPerformableTest.java"
+         totalNumberOfTokens="550"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationimport/service/cms2/impl/DefaultWagoCMSPageServiceImplTest.java"
+         totalNumberOfTokens="109"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationimport/service/notification/impl/DefaultWagoContentPreviewDataServiceTest.java"
+         totalNumberOfTokens="147"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationimport/service/xmlimport/WagoSolrIndexedPropertyTranslationImportServiceTest.java"
+         totalNumberOfTokens="216"/>
+   <duplication lines="45" tokens="321">
+      <file begintoken="37642" column="3" endcolumn="2" endline="819" endtoken="37962"
+            line="775"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/converters/populator/TranslationPopulatorTest.java"/>
+      <file begintoken="37994" column="3" endcolumn="2" endline="869" endtoken="38314"
+            line="825"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/converters/populator/TranslationPopulatorTest.java"/>
+      <codefragment><![CDATA[		final Translation translation = new Translation();
+
+		translation.setSourceLanguage("de");
+
+		// navigation node
+		when(cmsNavigationNodeModel.getUid()).thenReturn("navigation_node_uid");
+		when(cmsNavigationNodeModel.getItemtype()).thenReturn(CMSNavigationNodeModel._TYPECODE);
+
+		when(cmsNavigationNodeAttribContainerNode.getNodeType()).thenReturn(NodeType.ATTRIBUTE_CONTAINER);
+		when(cmsNavigationNodeAttribContainerNode.getComponents()).thenReturn(List.of(cmsNavigationNodeNode));
+
+		when(cmsNavigationNodeNode.getNodeType()).thenReturn(NodeType.NAVIGATION_NODE);
+		when(cmsNavigationNodeNode.getData()).thenReturn(cmsNavigationNodeModel);
+
+		pageComponents.add(cmsNavigationNodeAttribContainerNode);
+
+		translationPopulator.populate(pageNode, translation);
+
+		assertTrue(CollectionUtils.isNotEmpty(translation.getPage()));
+		assertEquals(1, translation.getPage().size());
+
+		final Page page = translation.getPage().get(0);
+		// the page UID has been copied from the CMSComponentModel into the JAXB elements id (important for importing later)
+		assertEquals(CMS_CONTENT_TEST_PAGE_UID, page.getId());
+
+		assertTrue(CollectionUtils.isNotEmpty(page.getComponent()));
+		assertEquals(1, page.getComponent().size());
+
+		final Component componentA = page.getComponent().get(0);
+		// the link components UID has been copied into the JAXB id attribute (important for importing later)
+		assertEquals(TEST_CMS_PARAGRAPH_COMPONENT_1_ID, componentA.getId());
+
+		assertTrue(CollectionUtils.isNotEmpty(componentA.getAttribute()));
+		assertEquals(1, componentA.getAttribute().size());
+		final SimpleAttribute simpleAttribute = componentA.getAttribute().get(0);
+
+		// the data has been copied from the attribute into the JAXB attribute
+		assertEquals(ATTRIBUTE_DATA, simpleAttribute.getValue());
+
+		final AttributeContainer attributeContainer = page.getAttributeContainer().get(0);
+		final Component component = attributeContainer.getComponent().get(0);
+
+		assertEquals("navigation_node_uid", component.getId());
+		assertEquals(CMSNavigationNodeModel._TYPECODE, component.getType());
+	}]]></codefragment>
+   </duplication>
+   <duplication lines="47" tokens="234">
+      <file begintoken="49497" column="110" endcolumn="15" endline="483" endtoken="49730"
+            line="437"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/service/structure/impl/DefaultContentPageStructureServiceTest.java"/>
+      <file begintoken="49981" column="104" endcolumn="15" endline="595" endtoken="50214"
+            line="549"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/service/structure/impl/DefaultContentPageStructureServiceTest.java"/>
+      <codefragment><![CDATA[		when(modelService.getAttributeValue(wagoCategoryStageComponentModel, "headline")).thenReturn(HEADLINE_VALUE);
+
+		//
+		// call the method under test
+		//
+
+		contentPageStructureService.getStructureOfPage(contentPage, catalogVersion, Locale.GERMAN,
+				intermediateFormatListener, blacklistedAttributes, noFollowAttributes, followAttributes, outputOnlyAttributes,
+				blacklistedTypes);
+
+		final Node root = intermediateFormatListener.getRoot();
+
+		//
+		// assert
+		//
+
+		// the root node contains the page
+		assertNotNull(root);
+		assertEquals(NodeType.CONTENT_PAGE, root.getNodeType());
+		assertEquals(contentPage, root.getData());
+		assertEquals("ContentPage", root.getLabel());
+
+		// the page has an attribute which is an attribute container called content slots
+		final Node pageAttributeContainer = root.getAttributes().get(0);
+		assertEquals("contentSlots", pageAttributeContainer.getLabel());
+		assertEquals(NodeType.ATTRIBUTE_CONTAINER, pageAttributeContainer.getNodeType());
+		assertNull(pageAttributeContainer.getData());
+
+		// THERE IS NO NODE FOR THE CONTENT SLOT FOR PAGE TEMPLATE!
+		// THE ALGORITHM DOES NOT OUTPUT IT, AS IT IS NOT NEEDED!
+
+		// the attribute container contains one contentSlotForPageModel
+		final Node pageAttribute = pageAttributeContainer.getAttributes().get(0);
+		assertEquals("contentSlot", pageAttribute.getLabel());
+		assertEquals(NodeType.ATTRIBUTE, pageAttribute.getNodeType());
+		assertEquals(contentSlotModel, pageAttribute.getData());
+
+		// the content slot contains an attribute container for its cms components
+		final Node cmsComponentsNode = pageAttribute.getAttributes().get(0);
+		assertEquals("cmsComponents", cmsComponentsNode.getLabel());
+		assertEquals(NodeType.ATTRIBUTE_CONTAINER, cmsComponentsNode.getNodeType());
+
+		// the attribute container contains one component, which is the wagoShowroomStageComponentModel
+		final Node cmsComponentNode = cmsComponentsNode.getComponents().get(0);
+		assertEquals("CMSComponent", cmsComponentNode.getLabel());
+		assertEquals(NodeType.CMS_COMPONENT, cmsComponentNode.getNodeType());
+		assertEquals(wagoCategoryStageComponentModel, cmsComponentNode.getData());]]></codefragment>
+   </duplication>
+   <duplication lines="32" tokens="205">
+      <file begintoken="36741" column="52" endcolumn="15" endline="652" endtoken="36945"
+            line="621"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/converters/populator/TranslationPopulatorTest.java"/>
+      <file begintoken="37201" column="44" endcolumn="15" endline="731" endtoken="37405"
+            line="700"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/converters/populator/TranslationPopulatorTest.java"/>
+      <codefragment><![CDATA[		pageComponents.add(contentSlotForPageTemplateNode);
+
+		translationPopulator.populate(pageNode, translation);
+
+		assertTrue(CollectionUtils.isNotEmpty(translation.getPage()));
+		assertEquals(1, translation.getPage().size());
+
+		final Page page = translation.getPage().get(0);
+		// the page UID has been copied from the CMSComponentModel into the JAXB elements id (important for importing later)
+		assertEquals(CMS_CONTENT_TEST_PAGE_UID, page.getId());
+
+		assertTrue(CollectionUtils.isNotEmpty(page.getComponent()));
+		assertEquals(1, page.getComponent().size());
+
+		final Component component = page.getComponent().get(0);
+		// the link components UID has been copied into the JAXB id attribute (important for importing later)
+		assertEquals(TEST_CMS_PARAGRAPH_COMPONENT_1_ID, component.getId());
+
+		assertTrue(CollectionUtils.isNotEmpty(component.getAttribute()));
+		assertEquals(1, component.getAttribute().size());
+		final SimpleAttribute simpleAttribute = component.getAttribute().get(0);
+
+		// the data has been copied from the attribute into the JAXB attribute
+		assertEquals(ATTRIBUTE_DATA, simpleAttribute.getValue());
+
+		// the content slot model for page has been added to an attribute container
+		assertTrue(CollectionUtils.isNotEmpty(page.getAttributeContainer()));
+		final AttributeContainer attributeContainer = page.getAttributeContainer().get(0);
+
+		// the attribute is present
+		final SimpleAttribute simpleAttribute2 = attributeContainer.getAttribute().get(0);
+		assertEquals("simpleAttributeCSPageTemplate", simpleAttribute2.getId());]]></codefragment>
+   </duplication>
+   <duplication lines="24" tokens="162">
+      <file begintoken="35153" column="37" endcolumn="58" endline="308" endtoken="35314"
+            line="285"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/converters/populator/TranslationPopulatorTest.java"/>
+      <file begintoken="37750" column="58" endcolumn="58" endline="812" endtoken="37911"
+            line="789"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/converters/populator/TranslationPopulatorTest.java"/>
+      <file begintoken="38102" column="58" endcolumn="58" endline="862" endtoken="38263"
+            line="839"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/converters/populator/TranslationPopulatorTest.java"/>
+      <codefragment><![CDATA[		translation.setSourceLanguage("de");
+
+		translationPopulator.populate(pageNode, translation);
+
+		assertTrue(CollectionUtils.isNotEmpty(translation.getPage()));
+		assertEquals(1, translation.getPage().size());
+
+		final Page page = translation.getPage().get(0);
+		// the page UID has been copied from the CMSComponentModel into the JAXB elements id (important for importing later)
+		assertEquals(CMS_CONTENT_TEST_PAGE_UID, page.getId());
+
+		assertTrue(CollectionUtils.isNotEmpty(page.getComponent()));
+		assertEquals(1, page.getComponent().size());
+
+		final Component componentA = page.getComponent().get(0);
+		// the link components UID has been copied into the JAXB id attribute (important for importing later)
+		assertEquals(TEST_CMS_PARAGRAPH_COMPONENT_1_ID, componentA.getId());
+
+		assertTrue(CollectionUtils.isNotEmpty(componentA.getAttribute()));
+		assertEquals(1, componentA.getAttribute().size());
+		final SimpleAttribute simpleAttribute = componentA.getAttribute().get(0);
+
+		// the data has been copied from the attribute into the JAXB attribute
+		assertEquals(ATTRIBUTE_DATA, simpleAttribute.getValue());]]></codefragment>
+   </duplication>
+   <duplication lines="27" tokens="151">
+      <file begintoken="37027" column="87" endcolumn="12" endline="694" endtoken="37177"
+            line="668"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/converters/populator/TranslationPopulatorTest.java"/>
+      <file begintoken="37487" column="91" endcolumn="12" endline="773" endtoken="37637"
+            line="747"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/converters/populator/TranslationPopulatorTest.java"/>
+      <codefragment><![CDATA[		translationPopulator = new TranslationPopulator<>(false, Set.of("contentSlotModel_1"), Set.of(), false);
+
+		translationPopulator.populate(pageNode, translation);
+
+		assertTrue(CollectionUtils.isNotEmpty(translation.getPage()));
+		assertEquals(1, translation.getPage().size());
+
+		final Page page = translation.getPage().get(0);
+		// the page UID has been copied from the CMSComponentModel into the JAXB elements id (important for importing later)
+		assertEquals(CMS_CONTENT_TEST_PAGE_UID, page.getId());
+
+		assertTrue(CollectionUtils.isNotEmpty(page.getComponent()));
+		assertEquals(1, page.getComponent().size());
+
+		final Component component = page.getComponent().get(0);
+		// the link components UID has been copied into the JAXB id attribute (important for importing later)
+		assertEquals(TEST_CMS_PARAGRAPH_COMPONENT_1_ID, component.getId());
+
+		// the attribute has been skipped, the attributes collection is empty
+		assertTrue(CollectionUtils.isEmpty(component.getAttribute()));
+
+		// the content slot model for page was ignored
+		assertTrue(CollectionUtils.isEmpty(page.getAttributeContainer()));
+	}
+
+	@Test
+	public void testPagePopulationContentSlotForPage()]]></codefragment>
+   </duplication>
+   <duplication lines="33" tokens="142">
+      <file begintoken="36059" column="52" endcolumn="12" endline="513" endtoken="36200"
+            line="481"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/converters/populator/TranslationPopulatorTest.java"/>
+      <file begintoken="36576" column="53" endcolumn="12" endline="615" endtoken="36717"
+            line="591"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/converters/populator/TranslationPopulatorTest.java"/>
+      <codefragment><![CDATA[		when(attributeNode.isLocalized()).thenReturn(true);
+		when(attributeNode.getData()).thenReturn(null);
+
+		translationPopulator.populate(pageNode, translation);
+
+		assertTrue(CollectionUtils.isNotEmpty(translation.getPage()));
+		assertEquals(1, translation.getPage().size());
+
+		final Page page = translation.getPage().get(0);
+		// the page UID has been copied from the CMSComponentModel into the JAXB elements id (important for importing later)
+		assertEquals(CMS_CONTENT_TEST_PAGE_UID, page.getId());
+
+		assertTrue(CollectionUtils.isNotEmpty(page.getComponent()));
+		assertEquals(1, page.getComponent().size());
+
+		final Component component = page.getComponent().get(0);
+		// the link components UID has been copied into the JAXB id attribute (important for importing later)
+		assertEquals(TEST_CMS_PARAGRAPH_COMPONENT_1_ID, component.getId());
+
+		// the attribute has been skipped, the attributes collection is empty
+		assertTrue(CollectionUtils.isEmpty(component.getAttribute()));
+	}
+
+	/**
+	 * An attribute is skipped and is not part of the result. Localized objects that contain data which is not of String
+	 * type are skipped.
+	 * <p>
+	 * The page comes with a CMSLinkComponent, that has a single attribute. The resulting JAXB translation object,
+	 * contains the page, the CMSLinkComponent and the HTML-Escaped attribute.
+	 * </p>
+	 */
+	@Test
+	public void testSkipAttributeLocalizedObject()]]></codefragment>
+   </duplication>
+   <duplication lines="33" tokens="142">
+      <file begintoken="45743" column="35" endcolumn="15" endline="65" endtoken="45884"
+            line="33"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/pkconverter/impl/SolrIndexedPropertyModelPKConverterTest.java"/>
+      <file begintoken="45937" column="46" endcolumn="15" endline="65" endtoken="46078"
+            line="33"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/pkconverter/impl/WagoBoundedSolrIndexedPropertyModelPKConverterTest.java"/>
+      <file begintoken="46131" column="35" endcolumn="15" endline="65" endtoken="46272"
+            line="33"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/pkconverter/impl/WagoBulletPointItemModelPKConverterTest.java"/>
+      <file begintoken="46325" column="30" endcolumn="15" endline="65" endtoken="46466"
+            line="33"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/pkconverter/impl/WagoResultTypeModelPKConverterTest.java"/>
+      <codefragment><![CDATA[	private SolrIndexedPropertyModel model;
+
+	@Mock
+	private PKCollectingDomainNodeTraversalListener listener;
+
+	@Captor
+	private ArgumentCaptor<AbstractItemModel> abstractItemModelCaptor;
+
+	@Captor
+	private ArgumentCaptor<String> typeCaptor;
+
+	@Captor
+	private ArgumentCaptor<PKCollectingDomainNodeTraversalListener> listenerCaptor;
+
+	@Before
+	public void before()
+	{
+		doNothing().when(pkConverter).add(org.mockito.ArgumentMatchers.any(AbstractItemModel.class), org.mockito.ArgumentMatchers.any(String.class),
+				org.mockito.ArgumentMatchers.any(PKCollectingDomainNodeTraversalListener.class));
+	}
+
+	/**
+	 * The add method is called using the correct parameters
+	 */
+	@Test
+	public void testConvert()
+	{
+		pkConverter.convert(model, listener);
+
+		verify(pkConverter).add(abstractItemModelCaptor.capture(), typeCaptor.capture(), listenerCaptor.capture());
+
+		assertEquals(model, abstractItemModelCaptor.getValue());
+		assertEquals(SolrIndexedPropertyModel._TYPECODE, typeCaptor.getValue());]]></codefragment>
+   </duplication>
+   <duplication lines="17" tokens="139">
+      <file begintoken="44704" column="21" endcolumn="1" endline="100" endtoken="44842"
+            line="84"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/pkconverter/impl/MediaContainerModelPKConverterTest.java"/>
+      <file begintoken="45194" column="35" endcolumn="1" endline="120" endtoken="45332"
+            line="104"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/pkconverter/impl/MediaModelPKConverterTest.java"/>
+      <codefragment><![CDATA[		assertEquals(model, abstractItems.get(0));
+		assertEquals(MediaContainerModel._TYPECODE, types.get(0));
+		assertEquals(listener, listeners.get(0));
+
+		assertEquals(mediaModelA, abstractItems.get(1));
+		assertEquals(MediaModel._TYPECODE, types.get(1));
+		assertEquals(listener, listeners.get(1));
+
+		assertEquals(mediaModelB, abstractItems.get(2));
+		assertEquals(MediaModel._TYPECODE, types.get(2));
+		assertEquals(listener, listeners.get(2));
+
+		assertEquals(mediaModelC, abstractItems.get(3));
+		assertEquals(MediaModel._TYPECODE, types.get(3));
+		assertEquals(listener, listeners.get(3));
+	}
+}]]></codefragment>
+   </duplication>
+   <duplication lines="32" tokens="129">
+      <file begintoken="36072" column="48" endcolumn="12" endline="513" endtoken="36200"
+            line="482"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/converters/populator/TranslationPopulatorTest.java"/>
+      <file begintoken="36244" column="67" endcolumn="12" endline="549" endtoken="36372"
+            line="519"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/converters/populator/TranslationPopulatorTest.java"/>
+      <file begintoken="36423" column="52" endcolumn="12" endline="586" endtoken="36551"
+            line="556"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/converters/populator/TranslationPopulatorTest.java"/>
+      <file begintoken="36589" column="48" endcolumn="12" endline="615" endtoken="36717"
+            line="592"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/converters/populator/TranslationPopulatorTest.java"/>
+      <codefragment><![CDATA[		when(attributeNode.getData()).thenReturn(null);
+
+		translationPopulator.populate(pageNode, translation);
+
+		assertTrue(CollectionUtils.isNotEmpty(translation.getPage()));
+		assertEquals(1, translation.getPage().size());
+
+		final Page page = translation.getPage().get(0);
+		// the page UID has been copied from the CMSComponentModel into the JAXB elements id (important for importing later)
+		assertEquals(CMS_CONTENT_TEST_PAGE_UID, page.getId());
+
+		assertTrue(CollectionUtils.isNotEmpty(page.getComponent()));
+		assertEquals(1, page.getComponent().size());
+
+		final Component component = page.getComponent().get(0);
+		// the link components UID has been copied into the JAXB id attribute (important for importing later)
+		assertEquals(TEST_CMS_PARAGRAPH_COMPONENT_1_ID, component.getId());
+
+		// the attribute has been skipped, the attributes collection is empty
+		assertTrue(CollectionUtils.isEmpty(component.getAttribute()));
+	}
+
+	/**
+	 * An attribute is skipped and is not part of the result. Localized objects that contain data which is not of String
+	 * type are skipped.
+	 * <p>
+	 * The page comes with a CMSLinkComponent, that has a single attribute. The resulting JAXB translation object,
+	 * contains the page, the CMSLinkComponent and the HTML-Escaped attribute.
+	 * </p>
+	 */
+	@Test
+	public void testSkipAttributeLocalizedObject()]]></codefragment>
+   </duplication>
+   <duplication lines="20" tokens="125">
+      <file begintoken="36422" column="47" endcolumn="63" endline="575" endtoken="36546"
+            line="556"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/converters/populator/TranslationPopulatorTest.java"/>
+      <file begintoken="37035" column="100" endcolumn="63" endline="687" endtoken="37159"
+            line="668"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/converters/populator/TranslationPopulatorTest.java"/>
+      <file begintoken="37495" column="104" endcolumn="63" endline="766" endtoken="37619"
+            line="747"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/converters/populator/TranslationPopulatorTest.java"/>
+      <codefragment><![CDATA[		when(attributeNode.isWritable()).thenReturn(false);
+
+		translationPopulator.populate(pageNode, translation);
+
+		assertTrue(CollectionUtils.isNotEmpty(translation.getPage()));
+		assertEquals(1, translation.getPage().size());
+
+		final Page page = translation.getPage().get(0);
+		// the page UID has been copied from the CMSComponentModel into the JAXB elements id (important for importing later)
+		assertEquals(CMS_CONTENT_TEST_PAGE_UID, page.getId());
+
+		assertTrue(CollectionUtils.isNotEmpty(page.getComponent()));
+		assertEquals(1, page.getComponent().size());
+
+		final Component component = page.getComponent().get(0);
+		// the link components UID has been copied into the JAXB id attribute (important for importing later)
+		assertEquals(TEST_CMS_PARAGRAPH_COMPONENT_1_ID, component.getId());
+
+		// the attribute has been skipped, the attributes collection is empty
+		assertTrue(CollectionUtils.isEmpty(component.getAttribute()));]]></codefragment>
+   </duplication>
+   <duplication lines="20" tokens="124">
+      <file begintoken="36072" column="48" endcolumn="63" endline="501" endtoken="36195"
+            line="482"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/converters/populator/TranslationPopulatorTest.java"/>
+      <file begintoken="36244" column="67" endcolumn="63" endline="538" endtoken="36367"
+            line="519"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/converters/populator/TranslationPopulatorTest.java"/>
+      <file begintoken="36589" column="48" endcolumn="63" endline="611" endtoken="36712"
+            line="592"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/converters/populator/TranslationPopulatorTest.java"/>
+      <file begintoken="37036" column="105" endcolumn="63" endline="687" endtoken="37159"
+            line="668"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/converters/populator/TranslationPopulatorTest.java"/>
+      <file begintoken="37496" column="109" endcolumn="63" endline="766" endtoken="37619"
+            line="747"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/converters/populator/TranslationPopulatorTest.java"/>
+      <codefragment><![CDATA[		when(attributeNode.getData()).thenReturn(null);
+
+		translationPopulator.populate(pageNode, translation);
+
+		assertTrue(CollectionUtils.isNotEmpty(translation.getPage()));
+		assertEquals(1, translation.getPage().size());
+
+		final Page page = translation.getPage().get(0);
+		// the page UID has been copied from the CMSComponentModel into the JAXB elements id (important for importing later)
+		assertEquals(CMS_CONTENT_TEST_PAGE_UID, page.getId());
+
+		assertTrue(CollectionUtils.isNotEmpty(page.getComponent()));
+		assertEquals(1, page.getComponent().size());
+
+		final Component component = page.getComponent().get(0);
+		// the link components UID has been copied into the JAXB id attribute (important for importing later)
+		assertEquals(TEST_CMS_PARAGRAPH_COMPONENT_1_ID, component.getId());
+
+		// the attribute has been skipped, the attributes collection is empty
+		assertTrue(CollectionUtils.isEmpty(component.getAttribute()));]]></codefragment>
+   </duplication>
+   <duplication lines="28" tokens="118">
+      <file begintoken="44494" column="2" endcolumn="70" endline="67" endtoken="44611"
+            line="40"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/pkconverter/impl/MediaContainerModelPKConverterTest.java"/>
+      <file begintoken="44879" column="2" endcolumn="70" endline="71" endtoken="44996"
+            line="44"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/pkconverter/impl/MediaModelPKConverterTest.java"/>
+      <codefragment><![CDATA[	@Mock
+	private MediaModel mediaModelA;
+
+	@Mock
+	private MediaModel mediaModelB;
+
+	@Mock
+	private MediaModel mediaModelC;
+
+	@Mock
+	private PKCollectingDomainNodeTraversalListener listener;
+
+	@Captor
+	private ArgumentCaptor<AbstractItemModel> abstractItemModelCaptor;
+
+	@Captor
+	private ArgumentCaptor<String> typeCaptor;
+
+	@Captor
+	private ArgumentCaptor<PKCollectingDomainNodeTraversalListener> listenerCaptor;
+
+	@Before
+	public void before()
+	{
+		doNothing().when(pkConverter).add(org.mockito.ArgumentMatchers.any(AbstractItemModel.class), org.mockito.ArgumentMatchers.any(String.class),
+				org.mockito.ArgumentMatchers.any(PKCollectingDomainNodeTraversalListener.class));
+
+		doReturn(Arrays.asList(mediaModelA, mediaModelB, mediaModelC)).when(model).getMedias();]]></codefragment>
+   </duplication>
+   <duplication lines="20" tokens="115">
+      <file begintoken="36072" column="48" endcolumn="29" endline="501" endtoken="36186"
+            line="482"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/converters/populator/TranslationPopulatorTest.java"/>
+      <file begintoken="36244" column="67" endcolumn="29" endline="538" endtoken="36358"
+            line="519"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/converters/populator/TranslationPopulatorTest.java"/>
+      <file begintoken="36423" column="52" endcolumn="29" endline="575" endtoken="36537"
+            line="556"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/converters/populator/TranslationPopulatorTest.java"/>
+      <file begintoken="36589" column="48" endcolumn="29" endline="611" endtoken="36703"
+            line="592"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/converters/populator/TranslationPopulatorTest.java"/>
+      <file begintoken="36741" column="52" endcolumn="29" endline="639" endtoken="36855"
+            line="621"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/converters/populator/TranslationPopulatorTest.java"/>
+      <file begintoken="37036" column="105" endcolumn="29" endline="687" endtoken="37150"
+            line="668"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/converters/populator/TranslationPopulatorTest.java"/>
+      <file begintoken="37201" column="44" endcolumn="29" endline="718" endtoken="37315"
+            line="700"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/converters/populator/TranslationPopulatorTest.java"/>
+      <file begintoken="37496" column="109" endcolumn="29" endline="766" endtoken="37610"
+            line="747"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/converters/populator/TranslationPopulatorTest.java"/>
+      <codefragment><![CDATA[		when(attributeNode.getData()).thenReturn(null);
+
+		translationPopulator.populate(pageNode, translation);
+
+		assertTrue(CollectionUtils.isNotEmpty(translation.getPage()));
+		assertEquals(1, translation.getPage().size());
+
+		final Page page = translation.getPage().get(0);
+		// the page UID has been copied from the CMSComponentModel into the JAXB elements id (important for importing later)
+		assertEquals(CMS_CONTENT_TEST_PAGE_UID, page.getId());
+
+		assertTrue(CollectionUtils.isNotEmpty(page.getComponent()));
+		assertEquals(1, page.getComponent().size());
+
+		final Component component = page.getComponent().get(0);
+		// the link components UID has been copied into the JAXB id attribute (important for importing later)
+		assertEquals(TEST_CMS_PARAGRAPH_COMPONENT_1_ID, component.getId());
+
+		// the attribute has been skipped, the attributes collection is empty
+		assertTrue(CollectionUtils.isEmpty(component.getAttribute()));]]></codefragment>
+   </duplication>
+   <duplication lines="19" tokens="98">
+      <file begintoken="44616" column="87" endcolumn="15" endline="85" endtoken="44713"
+            line="67"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/pkconverter/impl/MediaContainerModelPKConverterTest.java"/>
+      <file begintoken="45486" column="30" endcolumn="15" endline="87" endtoken="45583"
+            line="69"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/pkconverter/impl/PageTemplateModelPKConverterTest.java"/>
+      <codefragment><![CDATA[		doReturn(Arrays.asList(mediaModelA, mediaModelB, mediaModelC)).when(model).getMedias();
+	}
+
+	/**
+	 * The add method is called using the correct parameters
+	 */
+	@Test
+	public void testConvert()
+	{
+		pkConverter.convert(model, listener);
+
+		verify(pkConverter, times(4)).add(abstractItemModelCaptor.capture(), typeCaptor.capture(), listenerCaptor.capture());
+
+		final List<AbstractItemModel> abstractItems = abstractItemModelCaptor.getAllValues();
+		final List<String> types = typeCaptor.getAllValues();
+		final List<PKCollectingDomainNodeTraversalListener> listeners = listenerCaptor.getAllValues();
+
+		assertEquals(model, abstractItems.get(0));
+		assertEquals(MediaContainerModel._TYPECODE, types.get(0));]]></codefragment>
+   </duplication>
+   <duplication lines="19" tokens="93">
+      <file begintoken="44509" column="2" endcolumn="25" endline="67" endtoken="44601"
+            line="49"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/pkconverter/impl/MediaContainerModelPKConverterTest.java"/>
+      <file begintoken="44894" column="2" endcolumn="25" endline="71" endtoken="44986"
+            line="53"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/pkconverter/impl/MediaModelPKConverterTest.java"/>
+      <file begintoken="45379" column="2" endcolumn="25" endline="68" endtoken="45471"
+            line="50"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/pkconverter/impl/PageTemplateModelPKConverterTest.java"/>
+      <codefragment><![CDATA[	@Mock
+	private PKCollectingDomainNodeTraversalListener listener;
+
+	@Captor
+	private ArgumentCaptor<AbstractItemModel> abstractItemModelCaptor;
+
+	@Captor
+	private ArgumentCaptor<String> typeCaptor;
+
+	@Captor
+	private ArgumentCaptor<PKCollectingDomainNodeTraversalListener> listenerCaptor;
+
+	@Before
+	public void before()
+	{
+		doNothing().when(pkConverter).add(org.mockito.ArgumentMatchers.any(AbstractItemModel.class), org.mockito.ArgumentMatchers.any(String.class),
+				org.mockito.ArgumentMatchers.any(PKCollectingDomainNodeTraversalListener.class));
+
+		doReturn(Arrays.asList(mediaModelA, mediaModelB, mediaModelC)).when(model).getMedias();]]></codefragment>
+   </duplication>
+   <duplication lines="15" tokens="89">
+      <file begintoken="35153" column="37" endcolumn="17" endline="299" endtoken="35241"
+            line="285"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/converters/populator/TranslationPopulatorTest.java"/>
+      <file begintoken="36072" column="48" endcolumn="17" endline="496" endtoken="36160"
+            line="482"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/converters/populator/TranslationPopulatorTest.java"/>
+      <file begintoken="36244" column="67" endcolumn="17" endline="533" endtoken="36332"
+            line="519"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/converters/populator/TranslationPopulatorTest.java"/>
+      <file begintoken="36423" column="52" endcolumn="17" endline="570" endtoken="36511"
+            line="556"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/converters/populator/TranslationPopulatorTest.java"/>
+      <file begintoken="36589" column="48" endcolumn="17" endline="606" endtoken="36677"
+            line="592"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/converters/populator/TranslationPopulatorTest.java"/>
+      <file begintoken="36741" column="52" endcolumn="17" endline="635" endtoken="36829"
+            line="621"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/converters/populator/TranslationPopulatorTest.java"/>
+      <file begintoken="37036" column="105" endcolumn="17" endline="682" endtoken="37124"
+            line="668"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/converters/populator/TranslationPopulatorTest.java"/>
+      <file begintoken="37201" column="44" endcolumn="17" endline="714" endtoken="37289"
+            line="700"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/converters/populator/TranslationPopulatorTest.java"/>
+      <file begintoken="37496" column="109" endcolumn="17" endline="761" endtoken="37584"
+            line="747"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/converters/populator/TranslationPopulatorTest.java"/>
+      <file begintoken="37750" column="58" endcolumn="17" endline="803" endtoken="37838"
+            line="789"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/converters/populator/TranslationPopulatorTest.java"/>
+      <file begintoken="38102" column="58" endcolumn="17" endline="853" endtoken="38190"
+            line="839"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/converters/populator/TranslationPopulatorTest.java"/>
+      <codefragment><![CDATA[		translation.setSourceLanguage("de");
+
+		translationPopulator.populate(pageNode, translation);
+
+		assertTrue(CollectionUtils.isNotEmpty(translation.getPage()));
+		assertEquals(1, translation.getPage().size());
+
+		final Page page = translation.getPage().get(0);
+		// the page UID has been copied from the CMSComponentModel into the JAXB elements id (important for importing later)
+		assertEquals(CMS_CONTENT_TEST_PAGE_UID, page.getId());
+
+		assertTrue(CollectionUtils.isNotEmpty(page.getComponent()));
+		assertEquals(1, page.getComponent().size());
+
+		final Component componentA = page.getComponent().get(0);]]></codefragment>
+   </duplication>
+   <duplication lines="17" tokens="87">
+      <file begintoken="44509" column="2" endcolumn="84" endline="65" endtoken="44595"
+            line="49"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/pkconverter/impl/MediaContainerModelPKConverterTest.java"/>
+      <file begintoken="44894" column="2" endcolumn="84" endline="69" endtoken="44980"
+            line="53"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/pkconverter/impl/MediaModelPKConverterTest.java"/>
+      <file begintoken="45379" column="2" endcolumn="84" endline="66" endtoken="45465"
+            line="50"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/pkconverter/impl/PageTemplateModelPKConverterTest.java"/>
+      <file begintoken="45744" column="2" endcolumn="84" endline="51" endtoken="45830"
+            line="35"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/pkconverter/impl/SolrIndexedPropertyModelPKConverterTest.java"/>
+      <file begintoken="45938" column="2" endcolumn="84" endline="51" endtoken="46024"
+            line="35"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/pkconverter/impl/WagoBoundedSolrIndexedPropertyModelPKConverterTest.java"/>
+      <file begintoken="46132" column="2" endcolumn="84" endline="51" endtoken="46218"
+            line="35"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/pkconverter/impl/WagoBulletPointItemModelPKConverterTest.java"/>
+      <file begintoken="46326" column="2" endcolumn="84" endline="51" endtoken="46412"
+            line="35"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/pkconverter/impl/WagoResultTypeModelPKConverterTest.java"/>
+      <codefragment><![CDATA[	@Mock
+	private PKCollectingDomainNodeTraversalListener listener;
+
+	@Captor
+	private ArgumentCaptor<AbstractItemModel> abstractItemModelCaptor;
+
+	@Captor
+	private ArgumentCaptor<String> typeCaptor;
+
+	@Captor
+	private ArgumentCaptor<PKCollectingDomainNodeTraversalListener> listenerCaptor;
+
+	@Before
+	public void before()
+	{
+		doNothing().when(pkConverter).add(org.mockito.ArgumentMatchers.any(AbstractItemModel.class), org.mockito.ArgumentMatchers.any(String.class),
+				org.mockito.ArgumentMatchers.any(PKCollectingDomainNodeTraversalListener.class));]]></codefragment>
+   </duplication>
+   <duplication lines="15" tokens="83">
+      <file begintoken="48932" column="105" endcolumn="57" endline="326" endtoken="49014"
+            line="312"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/service/structure/impl/DefaultContentPageStructureServiceTest.java"/>
+      <file begintoken="49182" column="52" endcolumn="57" endline="368" endtoken="49264"
+            line="354"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/service/structure/impl/DefaultContentPageStructureServiceTest.java"/>
+      <codefragment><![CDATA[		when(cmsPageService.getOwnContentSlotsForPage(contentPage)).thenReturn(List.of(contentSlotForPageModel));
+
+		contentPageStructureService.getStructureOfPage(contentPage, catalogVersion, Locale.GERMAN,
+				intermediateFormatListener, blacklistedAttributes, noFollowAttributes, followAttributes, outputOnlyAttributes,
+				blacklistedTypes);
+
+		final Node root = intermediateFormatListener.getRoot();
+
+		// DEBUG output node structure
+		final PrintWriter writer = new PrintWriter(new OutputStreamWriter(System.out, StandardCharsets.UTF_8));
+		root.dump(0, writer);
+		writer.flush();
+
+		assertNotNull(root);
+		assertEquals(NodeType.CONTENT_PAGE, root.getNodeType());]]></codefragment>
+   </duplication>
+   <duplication lines="9" tokens="76">
+      <file begintoken="44627" column="3" endcolumn="15" endline="84" endtoken="44702"
+            line="76"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/pkconverter/impl/MediaContainerModelPKConverterTest.java"/>
+      <file begintoken="45117" column="3" endcolumn="15" endline="104" endtoken="45192"
+            line="96"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/pkconverter/impl/MediaModelPKConverterTest.java"/>
+      <file begintoken="45497" column="3" endcolumn="15" endline="86" endtoken="45572"
+            line="78"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/pkconverter/impl/PageTemplateModelPKConverterTest.java"/>
+      <codefragment><![CDATA[		pkConverter.convert(model, listener);
+
+		verify(pkConverter, times(4)).add(abstractItemModelCaptor.capture(), typeCaptor.capture(), listenerCaptor.capture());
+
+		final List<AbstractItemModel> abstractItems = abstractItemModelCaptor.getAllValues();
+		final List<String> types = typeCaptor.getAllValues();
+		final List<PKCollectingDomainNodeTraversalListener> listeners = listenerCaptor.getAllValues();
+
+		assertEquals(model, abstractItems.get(0));]]></codefragment>
+   </duplication>
+</pmd-cpd>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd-cpd>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/actions/WagoBackofficeCMSItemCloneStrategy.java"
+         totalNumberOfTokens="150"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/actions/WagoBackofficeCronJobModelCloneStrategy.java"
+         totalNumberOfTokens="190"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/actions/WagoBackofficeEventModelCloneStrategy.java"
+         totalNumberOfTokens="145"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/actions/WagoBackofficeFilterCategoryCloneStrategy.java"
+         totalNumberOfTokens="135"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/actions/WagoBackofficeFormDeepcloneStrategy.java"
+         totalNumberOfTokens="92"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/actions/WagoBackofficeFormReportAction.java"
+         totalNumberOfTokens="82"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/actions/WagoBackofficeMediaContainerCloneStrategy.java"
+         totalNumberOfTokens="118"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/actions/WagoBackofficeMediaModelCloneStrategy.java"
+         totalNumberOfTokens="118"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/actions/WagoBackofficePOSCloneStrategy.java"
+         totalNumberOfTokens="205"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/actions/WagoBackofficeWagoMessageCloneStrategy.java"
+         totalNumberOfTokens="150"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/actions/WagoDisableB2BCustomerAction.java"
+         totalNumberOfTokens="148"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/actions/WagoDisableB2BUnitAction.java"
+         totalNumberOfTokens="148"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/actions/WagoEnableB2BCustomerAction.java"
+         totalNumberOfTokens="149"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/actions/WagoEnableB2BUnitAction.java"
+         totalNumberOfTokens="149"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/actions/WagoIgnoreDynamicAttributesCloningContext.java"
+         totalNumberOfTokens="149"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/actions/WagoUpdateAccountManagerAction.java"
+         totalNumberOfTokens="89"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/actions/syncstatus/WagoSyncStatusAction.java"
+         totalNumberOfTokens="134"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/classification/WagoClassificationTabEditorAreaRenderer.java"
+         totalNumberOfTokens="271"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/dataaccess/facades/search/WagoCatalogVersionFieldSearchFacadeStrategy.java"
+         totalNumberOfTokens="101"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/dataaccess/facades/search/WagoFlexibleSearchPageable.java"
+         totalNumberOfTokens="804"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/i18n/WagoBackofficeLocaleService.java"
+         totalNumberOfTokens="403"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/renderes/WagoImageLocalizationInformationPreviewRenderer.java"
+         totalNumberOfTokens="820"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/services/WagoModelSavingExceptionTranslationHandler.java"
+         totalNumberOfTokens="89"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/widgets/WagobackofficeController.java"
+         totalNumberOfTokens="14"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/widgets/editors/localized/WagoLocalizedEditor.java"
+         totalNumberOfTokens="211"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/widgets/syncstatus/WagoSyncStatusController.java"
+         totalNumberOfTokens="108"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/widgets/userprofile/localesetting/WagoLocaleSettingController.java"
+         totalNumberOfTokens="325"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/wizard/WagoMediaContentUpdateHandler.java"
+         totalNumberOfTokens="360"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/testsrc/com/wago/core/backoffice/actions/WagoBackofficeFilterCategoryCloneStrategyTest.java"
+         totalNumberOfTokens="151"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/testsrc/com/wago/core/backoffice/actions/WagoBackofficePOSCloneStrategyTest.java"
+         totalNumberOfTokens="206"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/testsrc/com/wago/core/backoffice/actions/WagoBackofficeWagoMessageCloneStrategyTest.java"
+         totalNumberOfTokens="348"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/testsrc/com/wago/core/backoffice/actions/WagoIgnoreDynamicAttributesCloningContextTest.java"
+         totalNumberOfTokens="157"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/testsrc/com/wago/core/backoffice/widgets/editors/localized/WagoLocalizedEditorTest.java"
+         totalNumberOfTokens="317"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/testsrc/com/wago/core/backoffice/wizard/WagoMediaContentUpdateHandlerTest.java"
+         totalNumberOfTokens="410"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/src/com/wago/core/backoffice/constants/WagocorebackofficeConstants.java"
+         totalNumberOfTokens="21"/>
+   <duplication lines="23" tokens="134">
+      <file begintoken="1400" column="1" endcolumn="96" endline="39" endtoken="1533"
+            line="17"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/actions/WagoDisableB2BCustomerAction.java"/>
+      <file begintoken="1698" column="1" endcolumn="96" endline="39" endtoken="1831"
+            line="17"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/actions/WagoEnableB2BCustomerAction.java"/>
+      <codefragment><![CDATA[{
+	@Resource(name = "userService")
+	private UserService userService;
+
+	@Override
+	public boolean canPerform(final ActionContext<B2BCustomerModel> ctx)
+	{
+		final Object data = ctx.getData();
+
+		if (data instanceof final B2BCustomerModel b2bCustomerModel)
+		{
+
+            final UserModel currentUser = this.userService.getCurrentUser();
+			final boolean isUserMemberOfAdminGroup = this.userService.isMemberOfGroup(currentUser,
+					this.userService.getAdminUserGroup());
+			final boolean isUserMemberOfB2BAdminGroup = this.userService.isMemberOfGroup(currentUser,
+					this.userService.getUserGroupForUID("b2badmingroup"));
+			final boolean isEcommerceSupportUser = this.userService.isMemberOfGroup(currentUser,
+					this.userService.getUserGroupForUID("ecommercesupportgroup"));
+
+			final boolean isActive = b2bCustomerModel.getActive();
+
+			return (isUserMemberOfAdminGroup || isUserMemberOfB2BAdminGroup || isEcommerceSupportUser) && isActive;]]></codefragment>
+   </duplication>
+   <duplication lines="22" tokens="134">
+      <file begintoken="1549" column="1" endcolumn="96" endline="38" endtoken="1682"
+            line="17"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/actions/WagoDisableB2BUnitAction.java"/>
+      <file begintoken="1848" column="1" endcolumn="96" endline="40" endtoken="1981"
+            line="17"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/actions/WagoEnableB2BUnitAction.java"/>
+      <codefragment><![CDATA[{
+	@Resource(name = "userService")
+	private UserService userService;
+
+	@Override
+	public boolean canPerform(final ActionContext<B2BUnitModel> ctx)
+	{
+		final Object data = ctx.getData();
+
+		if (data instanceof final B2BUnitModel b2bUnitModel)
+		{
+            final UserModel currentUser = this.userService.getCurrentUser();
+			final boolean isUserMemberOfAdminGroup = this.userService.isMemberOfGroup(currentUser,
+					this.userService.getAdminUserGroup());
+			final boolean isUserMemberOfB2BAdminGroup = this.userService.isMemberOfGroup(currentUser,
+					this.userService.getUserGroupForUID("b2badmingroup"));
+			final boolean isEcommerceSupportUser = this.userService.isMemberOfGroup(currentUser,
+					this.userService.getUserGroupForUID("ecommercesupportgroup"));
+
+			final boolean isActive = b2bUnitModel.getActive();
+
+			return (isUserMemberOfAdminGroup || isUserMemberOfB2BAdminGroup || isEcommerceSupportUser) && isActive;]]></codefragment>
+   </duplication>
+   <duplication lines="12" tokens="79">
+      <file begintoken="1441" column="62" endcolumn="27" endline="37" endtoken="1519"
+            line="26"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/actions/WagoDisableB2BCustomerAction.java"/>
+      <file begintoken="1590" column="54" endcolumn="27" endline="36" endtoken="1668"
+            line="26"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/actions/WagoDisableB2BUnitAction.java"/>
+      <file begintoken="1739" column="62" endcolumn="27" endline="37" endtoken="1817"
+            line="26"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/actions/WagoEnableB2BCustomerAction.java"/>
+      <file begintoken="1889" column="54" endcolumn="27" endline="38" endtoken="1967"
+            line="27"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/actions/WagoEnableB2BUnitAction.java"/>
+      <codefragment><![CDATA[		if (data instanceof final B2BCustomerModel b2bCustomerModel)
+		{
+
+            final UserModel currentUser = this.userService.getCurrentUser();
+			final boolean isUserMemberOfAdminGroup = this.userService.isMemberOfGroup(currentUser,
+					this.userService.getAdminUserGroup());
+			final boolean isUserMemberOfB2BAdminGroup = this.userService.isMemberOfGroup(currentUser,
+					this.userService.getUserGroupForUID("b2badmingroup"));
+			final boolean isEcommerceSupportUser = this.userService.isMemberOfGroup(currentUser,
+					this.userService.getUserGroupForUID("ecommercesupportgroup"));
+
+			final boolean isActive = b2bCustomerModel.getActive();]]></codefragment>
+   </duplication>
+</pmd-cpd>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd-cpd>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagointegration/src/com/wago/integration/aop/WagoBatchHeaderAspect.java"
+         totalNumberOfTokens="670"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagointegration/src/com/wago/integration/constants/WagointegrationConstants.java"
+         totalNumberOfTokens="42"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagointegration/src/com/wago/integration/export/strategy/WagoAzureExportStrategy.java"
+         totalNumberOfTokens="115"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagointegration/src/com/wago/integration/hotfolder/WagoAzureBlobRemoteMoveMessageHandler.java"
+         totalNumberOfTokens="273"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagointegration/src/com/wago/integration/hotfolder/WagoDelegatingPassThroughMessageHandler.java"
+         totalNumberOfTokens="56"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagointegration/src/com/wago/integration/hotfolder/WagoErrorFileNameGenerator.java"
+         totalNumberOfTokens="288"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagointegration/src/com/wago/integration/hotfolder/WagoFileNameGenerator.java"
+         totalNumberOfTokens="229"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagointegration/src/com/wago/integration/hotfolder/WagoIntegrationExecutionContext.java"
+         totalNumberOfTokens="65"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagointegration/src/com/wago/integration/hotfolder/WagoIntegrationJobPerformable.java"
+         totalNumberOfTokens="794"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagointegration/src/com/wago/integration/hotfolder/WagoMessageHeaders.java"
+         totalNumberOfTokens="35"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagointegration/src/com/wago/integration/hotfolder/WagoRetryImportJobPerformable.java"
+         totalNumberOfTokens="351"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagointegration/src/com/wago/integration/hotfolder/WagoTimestampFileNameGenerator.java"
+         totalNumberOfTokens="133"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagointegration/src/com/wago/integration/impex/data/WagoAzureFileData.java"
+         totalNumberOfTokens="47"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagointegration/src/com/wago/integration/service/WagoAzureFileService.java"
+         totalNumberOfTokens="109"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagointegration/src/com/wago/integration/service/data/impl/WagoAzureFileAccessStrategy.java"
+         totalNumberOfTokens="512"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagointegration/src/com/wago/integration/service/impl/DefaultWagoAzureFileService.java"
+         totalNumberOfTokens="1037"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagointegration/testsrc/com/wago/integration/hotfolder/WagoErrorFileNameGeneratorTest.java"
+         totalNumberOfTokens="378"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagointegration/testsrc/com/wago/integration/hotfolder/WagoRetryImportJobPerformableTest.java"
+         totalNumberOfTokens="231"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagointegration/testsrc/com/wago/integration/hotfolder/WagoTimestampFileNameGeneratorTest.java"
+         totalNumberOfTokens="145"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagointegration/testsrc/com/wago/integration/service/data/impl/WagoAzureFileAccessStrategyTest.java"
+         totalNumberOfTokens="209"/>
+</pmd-cpd>

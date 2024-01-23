@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd-cpd>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmswebservices/src/com/wago/cmswebservices/constants/WagocmswebservicesConstants.java"
+         totalNumberOfTokens="112"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmswebservices/web/src/com/wago/cmswebservices/config/CommerceSwaggerConfig.java"
+         totalNumberOfTokens="36"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmswebservices/web/src/com/wago/cmswebservices/controllers/WagoNonCmsItemController.java"
+         totalNumberOfTokens="456"/>
+</pmd-cpd>

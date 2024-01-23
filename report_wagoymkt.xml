@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.12.4">
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoymkt/src/com/wago/ymkt/constants/WagoymktConstants.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoymkt/src/com/wago/ymkt/process/WagoYmktFormInteractionAction.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoymkt/src/com/wago/ymkt/service/WagoMarketingAreaService.java">
+<error line="17" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="24" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoymkt/src/com/wago/ymkt/service/WagoYmkInteractionApiService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoymkt/src/com/wago/ymkt/service/WagoYmktApiService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoymkt/src/com/wago/ymkt/service/WagoYmktContactApiService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoymkt/src/com/wago/ymkt/service/WagoYmktFormService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoymkt/src/com/wago/ymkt/service/WagoYmktInterestApiService.java">
+<error line="15" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoymkt/src/com/wago/ymkt/service/WagoYmktProductApiService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoymkt/src/com/wago/ymkt/service/WagoYmktSubscriptionApiService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoymkt/src/com/wago/ymkt/service/WagoymktService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoymkt/src/com/wago/ymkt/service/impl/DefaultWagoMarketingAreaService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoymkt/src/com/wago/ymkt/service/impl/DefaultWagoYmkInteractionApiService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoymkt/src/com/wago/ymkt/service/impl/DefaultWagoYmktContactApiService.java">
+<error line="37" column="4" severity="warning" message="Variable access definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+<error line="55" column="92" severity="warning" message="&apos;+&apos; should be on a new line." source="com.puppycrawl.tools.checkstyle.checks.whitespace.OperatorWrapCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoymkt/src/com/wago/ymkt/service/impl/DefaultWagoYmktFormService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoymkt/src/com/wago/ymkt/service/impl/DefaultWagoYmktInterestApiService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoymkt/src/com/wago/ymkt/service/impl/DefaultWagoYmktProductApiService.java">
+<error line="35" column="4" severity="warning" message="Static variable definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoymkt/src/com/wago/ymkt/service/impl/DefaultWagoYmktSubscriptionApiService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoymkt/src/com/wago/ymkt/service/impl/DefaultWagoymktService.java">
+<error line="67" column="4" severity="warning" message="Static variable definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoymkt/src/com/wago/ymkt/service/impl/WagoFakeConsentService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoymkt/src/com/wago/ymkt/sync/CronjobAbortedException.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoymkt/src/com/wago/ymkt/sync/WagoLogProgressConsumer.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoymkt/src/com/wago/ymkt/sync/customer/populator/WagoSMCMarketingAreaFallbackPopulator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoymkt/src/com/wago/ymkt/sync/interests/WagoYmktInterestSyncPerformable.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoymkt/src/com/wago/ymkt/sync/product/DefaultWagoYmktProductSyncService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoymkt/src/com/wago/ymkt/sync/product/WagoYmktProductSyncJobPerformable.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoymkt/src/com/wago/ymkt/sync/product/WagoYmktProductSyncService.java">
+<error line="24" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="32" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoymkt/src/com/wago/ymkt/sync/product/populator/WagoYmktProductPopulator.java">
+<error line="16" column="95" severity="warning" message="Don&apos;t use trailing comments." source="com.puppycrawl.tools.checkstyle.checks.TrailingCommentCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoymkt/src/com/wago/ymkt/wforms/DefaultWagoYmktInterestService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoymkt/src/com/wago/ymkt/wforms/WagoFormResultToMapConverter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoymkt/src/com/wago/ymkt/wforms/WagoGenericFormResultEnricher.java">
+<error line="17" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoymkt/src/com/wago/ymkt/wforms/WagoSalutationTitleEnricher.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoymkt/src/com/wago/ymkt/wforms/WagoYmktActionExecutor.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoymkt/src/com/wago/ymkt/wforms/WagoYmktCountryEnricher.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoymkt/src/com/wago/ymkt/wforms/WagoYmktInterestService.java">
+<error line="22" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoymkt/testsrc/com/wago/ymkt/process/WagoYmktFormInteractionActionTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoymkt/testsrc/com/wago/ymkt/wforms/WagoSalutationTitleEnricherTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoymkt/testsrc/com/wago/ymkt/wforms/WagoYmktCountryEnricherTest.java">
+</file>
+</checkstyle>

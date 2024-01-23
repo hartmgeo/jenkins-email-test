@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.12.4">
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/cmscockpit/browser/filters/AbstractUiExperienceFilter.java">
+<error line="31" column="4" severity="warning" message="Variable access definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/cmscockpit/browser/filters/DesktopUiExperienceBrowserFilter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/cmscockpit/browser/filters/MobileUiExperienceBrowserFilter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/cmscockpit/components/contentbrowser/DefaultCmsPageContentBrowser.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/cmscockpit/components/contentbrowser/DefaultCmsPageMainAreaPreviewComponentFactory.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/cmscockpit/components/listview/impl/WagoCloneContentElementAction.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/cmscockpit/components/listview/impl/WagoCmsElementSyncAction.java">
+<error line="165" column="25" severity="info" message="Catching &apos;Exception&apos; is not allowed." source="com.puppycrawl.tools.checkstyle.checks.coding.IllegalCatchCheck"/>
+<error line="176" column="19" severity="info" message="Catching &apos;Exception&apos; is not allowed." source="com.puppycrawl.tools.checkstyle.checks.coding.IllegalCatchCheck"/>
+<error line="285" column="16" severity="warning" message="Unnecessary parentheses around expression." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/cmscockpit/components/sectionpanel/WagoCategoryDrillableSelectorSection.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/cmscockpit/components/sectionpanel/renderer/WagoCatalogVersionSectionSelectorSectionRenderer.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/cmscockpit/components/sectionpanel/renderer/WagoCatalogVersionSelectorListRenderer.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/cmscockpit/components/sectionpanel/renderer/WagoEnvironmentSectionRenderer.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/cmscockpit/components/sectionpanel/renderer/WagoSiteSectionSelectorSectionRenderer.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/cmscockpit/components/sectionpanel/renderer/WagoSiteSelectorListRenderer.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/cmscockpit/editor/UiExperienceLevelEnumEditor.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/cmscockpit/editor/WagoWysiwygUiEditor.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/cmscockpit/services/impl/DefaultCMSCockpitLivePreviewService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/cmscockpit/services/impl/WagoCmsSearchProvider.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/cmscockpit/services/impl/WagoGenericQuerySearchProvider.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/cmscockpit/session/impl/DefaultCatalogBrowserArea.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/cmscockpit/session/impl/DefaultCmsCockpitPerspective.java">
+<error line="44" column="4" severity="warning" message="Variable access definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/cmscockpit/session/impl/DefaultCmsPageBrowserModel.java">
+<error line="264" column="14" severity="warning" message="Unnecessary parentheses around expression." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+<error line="291" column="7" severity="warning" message="Extra HTML tag found: &lt;/p&gt;" source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
+<error line="293" column="7" severity="warning" message="Extra HTML tag found: &lt;/p&gt;" source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
+<error line="306" column="7" severity="warning" message="Extra HTML tag found: &lt;/p&gt;" source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
+<error line="308" column="7" severity="warning" message="Extra HTML tag found: &lt;/p&gt;" source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/cmscockpit/session/impl/DefaultLiveEditBrowserArea.java">
+<error line="103" severity="warning" message="Line is longer than 130 characters (found 146)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="249" column="12" severity="warning" message="Don&apos;t use trailing comments." source="com.puppycrawl.tools.checkstyle.checks.TrailingCommentCheck"/>
+<error line="326" severity="warning" message="Line is longer than 130 characters (found 141)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/cmscockpit/session/impl/DefaultLiveEditBrowserModel.java">
+<error line="47" column="40" severity="warning" message="Unclosed HTML tag found: &lt;b&gt;Live Edit Perspective" source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
+<error line="48" column="4" severity="warning" message="Extra HTML tag found: &lt;/p&gt;" source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
+<error line="97" column="7" severity="warning" message="Extra HTML tag found: &lt;/p&gt;" source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/cmscockpit/session/impl/DefaultLiveEditContentBrowser.java">
+<error line="203" column="7" severity="warning" message="Constructor definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+<error line="380" column="13" severity="info" message="Catching &apos;Exception&apos; is not allowed." source="com.puppycrawl.tools.checkstyle.checks.coding.IllegalCatchCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/cmscockpit/session/impl/DefaultWCMSPerspective.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/cmscockpit/sitewizard/AcceleratorWizardHelper.java">
+<error line="90" severity="warning" message="Line is longer than 130 characters (found 187)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="172" column="7" severity="info" message="Catching &apos;Exception&apos; is not allowed." source="com.puppycrawl.tools.checkstyle.checks.coding.IllegalCatchCheck"/>
+<error line="296" column="18" severity="warning" message="&apos;;&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+<error line="296" column="19" severity="warning" message="Don&apos;t use trailing comments." source="com.puppycrawl.tools.checkstyle.checks.TrailingCommentCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/cmscockpit/sitewizard/B2BAcceleratorWizardHelper.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/cmscockpit/sitewizard/CMSSiteUtils.java">
+<error line="73" column="4" severity="warning" message="Variable access definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+<error line="327" column="7" severity="info" message="Catching &apos;Exception&apos; is not allowed." source="com.puppycrawl.tools.checkstyle.checks.coding.IllegalCatchCheck"/>
+<error line="379" column="17" severity="warning" message="Unnecessary parentheses around expression." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+<error line="381" column="22" severity="warning" message="Unnecessary parentheses around expression." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+<error line="381" column="23" severity="warning" message="Unnecessary parentheses around expression." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/cmscockpit/sitewizard/SummaryPage.java">
+<error line="65" column="4" severity="warning" message="Variable access definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+<error line="66" column="4" severity="warning" message="Variable access definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+<error line="67" column="4" severity="warning" message="Variable access definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+<error line="79" column="65" severity="warning" message="Don&apos;t use trailing comments." source="com.puppycrawl.tools.checkstyle.checks.TrailingCommentCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/cmscockpit/sitewizard/ThemeSelectorPage.java">
+<error line="35" column="69" severity="warning" message="Don&apos;t use trailing comments." source="com.puppycrawl.tools.checkstyle.checks.TrailingCommentCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/cmscockpit/wizard/strategies/CmsImageMediaPredefinedValuesStrategy.java">
+<error line="32" column="4" severity="warning" message="Variable access definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/cockpit/WagoCockpitConfigurationService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/cockpit/WagoContentTransferConfigService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/cockpit/daos/WagoCockpitConfigurationDao.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/cockpit/daos/WagoContentTransferConfigDao.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/cockpit/daos/impl/DefaultWagoCockpitConfigurationDao.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/cockpit/daos/impl/DefaultWagoContentTransferConfigDao.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/cockpit/impl/DefaultWagoCockpitConfigurationService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/cockpit/impl/DefaultWagoContentTransferConfigService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/cockpit/model/editor/impl/WagoSelectFacetNamesUIEditor.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/cockpit/model/editor/impl/WagoSelectUIEditor.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/cockpit/model/referenceeditor/collection/WagoCollectionEditor.java">
+<error line="64" column="34" severity="warning" message="Unnecessary parentheses around expression." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/cockpit/model/referenceeditor/simple/impl/WagoCollectionUIEditor.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/cockpit/model/referenceeditor/simple/impl/WagoContentCategoryPageReferenceEditor.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/cockpit/model/referenceeditor/simple/impl/WagoContentCategoryPageReferenceEventListener.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/cockpit/model/referenceeditor/simple/impl/WagoDefaultSimpleReferenceUIEditor.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/cockpit/model/referenceeditor/simple/impl/WagoMediaSimpleReferenceSelector.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/cockpit/model/referenceeditor/simple/impl/WagoNavigatableLabelUIEditor.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/cockpit/model/referenceeditor/simple/impl/WagoSimpleMediaReferenceUIEditor.java">
+<error line="37" column="11" severity="warning" message="Unnecessary parentheses around expression." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+<error line="42" column="11" severity="warning" message="Unnecessary parentheses around expression." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+<error line="53" column="14" severity="warning" message="Unnecessary parentheses around expression." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+<error line="88" column="11" severity="warning" message="Unnecessary parentheses around expression." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/cockpit/service/impl/DefaultWagoCMSAdminPageService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/cockpit/service/impl/WagoGenericRandomNameProducerImpl.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/cockpit/service/impl/WagoMediaEditorSectionConfiguration.java">
+<error line="32" severity="warning" message="Line is longer than 130 characters (found 155)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="76" severity="warning" message="Line is longer than 130 characters (found 139)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/cockpit/service/impl/WagoPropertyCache.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/cockpit/service/impl/WagoTypeCache.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/cockpit/service/impl/WagoWorkflowNewItemServiceImpl.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/cockpit/services/values/impl/DefaultWagoWorkflowGenericItemObjectHandler.java">
+<error line="76" column="23" severity="warning" message="Unnecessary parentheses around expression." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+<error line="76" column="52" severity="warning" message="Unnecessary parentheses around expression." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/cockpit/services/workflow/impl/WagoCmsWorkflowServiceImpl.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/cockpit/wizard/media/WagoUploadMediaFirstPage.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/cockpit/wizard/resolver/DefaultLanguageStatusResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/cockpit/wizard/resolver/DefaultSocialMediaResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/cockpit/wizard/strategies/DefaultImageMediaPredefinedValuesStrategy.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/components/liveedit/DefaultAcceleratorPreviewLoader.java">
+<error line="76" column="63" severity="warning" message="Unnecessary parentheses around expression." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+<error line="81" column="70" severity="warning" message="Unnecessary parentheses around expression." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/components/liveedit/DefaultLiveEditPopupEditDialog.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/components/liveedit/DefaultLiveEditView.java">
+<error line="93" column="61" severity="warning" message="Unnecessary parentheses around assignment right-hand side." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/components/liveedit/listview/impl/AbstractCatalogAwareListViewAction.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/components/liveedit/listview/impl/TransferPageAction.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/components/liveedit/listview/impl/TransferPageActionListener.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/components/liveedit/listview/impl/TranslationNotificationAction.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/components/liveedit/listview/impl/TranslationNotificationActionListener.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/components/liveedit/listview/impl/TranslationSyncAction.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/components/liveedit/listview/impl/TranslationSyncActionListener.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/constants/WagoCockpitsConstants.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/resolver/WagoPreviewUrlPageResolver.java">
+<error line="43" column="4" severity="warning" message="Variable access definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/resolver/WagoURL.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/resolver/WagoURLParser.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/services/meta/impl/WagoDebuggingExtensibleTypeService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/setup/CockpitSystemSetup.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/ticket/email/context/AcceleratorCustomerTicketContext.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/src/com/wago/cockpits/wizards/WagoUploadMediaSecondPageController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/testsrc/com/wago/cockpits/cmscockpit/components/listview/impl/WagoCmsElementSyncActionTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/testsrc/com/wago/cockpits/cmscockpit/services/impl/WagoGenericQuerySearchProviderTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/testsrc/com/wago/cockpits/cmscockpit/sitewizard/AcceleratorWizardHelperTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/testsrc/com/wago/cockpits/cmscockpit/sitewizard/CMSSiteUtilsTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/testsrc/com/wago/cockpits/cockpit/daos/impl/DefaultWagoContentTransferConfigDaoTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/testsrc/com/wago/cockpits/cockpit/impl/DefaultWagoCockpitConfigurationServiceTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/testsrc/com/wago/cockpits/cockpit/impl/DefaultWagoContentTransferConfigServiceTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/testsrc/com/wago/cockpits/cockpit/service/impl/DefaultWagoCMSAdminPageServiceTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/testsrc/com/wago/cockpits/cockpit/service/impl/WagoGenericRandomNameProducerImplTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/testsrc/com/wago/cockpits/cockpit/service/impl/WagoMediaEditorSectionConfigurationTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/testsrc/com/wago/cockpits/cockpit/service/impl/WagoWorkflowNewItemServiceImplTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/testsrc/com/wago/cockpits/cockpit/wizard/media/WagoUploadMediaFirstPageTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/testsrc/com/wago/cockpits/components/liveedit/DefaultAcceleratorPreviewLoaderTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/testsrc/com/wago/cockpits/components/liveedit/listview/impl/TransferPageActionListenerTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/testsrc/com/wago/cockpits/resolver/WagoPreviewUrlPageResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocockpits/testsrc/com/wago/cockpits/resolver/WagoURLParserTest.java">
+</file>
+</checkstyle>

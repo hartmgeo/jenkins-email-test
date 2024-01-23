@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd-cpd>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/CheckOrderService.java"
+         totalNumberOfTokens="11"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/consignment/AllowShipmentAction.java"
+         totalNumberOfTokens="274"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/consignment/CancelConsignmentAction.java"
+         totalNumberOfTokens="55"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/consignment/ReceiveConsignmentStatusAction.java"
+         totalNumberOfTokens="213"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/consignment/SendCancelMessageAction.java"
+         totalNumberOfTokens="22"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/consignment/SendConsignmentToWarehouseAction.java"
+         totalNumberOfTokens="97"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/consignment/SendDeliveryMessageAction.java"
+         totalNumberOfTokens="120"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/consignment/SubprocessEndAction.java"
+         totalNumberOfTokens="186"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/consignment/WaitBeforeTransmissionAction.java"
+         totalNumberOfTokens="26"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/order/AbstractFraudCheckAction.java"
+         totalNumberOfTokens="453"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/order/AbstractOrderAction.java"
+         totalNumberOfTokens="97"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/order/CancelWholeOrderAuthorizationAction.java"
+         totalNumberOfTokens="246"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/order/CheckAuthorizeOrderPaymentAction.java"
+         totalNumberOfTokens="142"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/order/CheckOrderAction.java"
+         totalNumberOfTokens="132"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/order/CheckTransactionReviewStatusAction.java"
+         totalNumberOfTokens="627"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/order/FraudCheckOrderAction.java"
+         totalNumberOfTokens="462"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/order/FraudCheckOrderInternalAction.java"
+         totalNumberOfTokens="428"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/order/GetPaymentDetailsAction.java"
+         totalNumberOfTokens="54"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/order/NotifyCustomerAboutFraudAction.java"
+         totalNumberOfTokens="107"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/order/OrderExportAction.java"
+         totalNumberOfTokens="94"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/order/OrderManualCheckedAction.java"
+         totalNumberOfTokens="226"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/order/PrepareOrderForManualCheckAction.java"
+         totalNumberOfTokens="136"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/order/ReserveOrderAmountAction.java"
+         totalNumberOfTokens="38"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/order/ScheduleForCleanUpAction.java"
+         totalNumberOfTokens="377"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/order/SendAuthorizationFailedNotificationAction.java"
+         totalNumberOfTokens="93"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/order/SendFraudErrorNotificationAction.java"
+         totalNumberOfTokens="93"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/order/SendOrderCancelledNotificationAction.java"
+         totalNumberOfTokens="105"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/order/SendOrderCompletedNotificationAction.java"
+         totalNumberOfTokens="105"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/order/SendOrderPlacedNotificationAction.java"
+         totalNumberOfTokens="95"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/order/SendPaymentFailedNotificationAction.java"
+         totalNumberOfTokens="105"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/order/SplitOrderAction.java"
+         totalNumberOfTokens="308"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/order/SubprocessesCompletedAction.java"
+         totalNumberOfTokens="171"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/order/TakePaymentAction.java"
+         totalNumberOfTokens="198"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/constants/WagoFulfilmentProcessConstants.java"
+         totalNumberOfTokens="50"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/events/OrderCancelledEvent.java"
+         totalNumberOfTokens="27"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/events/OrderExportEvent.java"
+         totalNumberOfTokens="27"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/events/OrderImportEvent.java"
+         totalNumberOfTokens="7"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/exceptions/PaymentMethodException.java"
+         totalNumberOfTokens="27"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/impl/DefaultCheckOrderService.java"
+         totalNumberOfTokens="149"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/jobs/CleanUpFraudOrderJob.java"
+         totalNumberOfTokens="209"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/order/WagoExportOrderService.java"
+         totalNumberOfTokens="14"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/order/WagoImportOrderService.java"
+         totalNumberOfTokens="18"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/order/impl/DefaultWagoExportOrderService.java"
+         totalNumberOfTokens="208"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/order/impl/DefaultWagoImportOrderService.java"
+         totalNumberOfTokens="265"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/strategy/impl/SplitByAvailableCount.java"
+         totalNumberOfTokens="200"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/strategy/impl/SplitByDeliveryMode.java"
+         totalNumberOfTokens="68"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/strategy/impl/SplitByEntryDeliveryAddress.java"
+         totalNumberOfTokens="119"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/strategy/impl/SplitByPoS.java"
+         totalNumberOfTokens="50"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/strategy/impl/SplitByWarehouse.java"
+         totalNumberOfTokens="478"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/warehouse/DefaultWarehouse2ProcessAdapter.java"
+         totalNumberOfTokens="199"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/warehouse/MockProcess2WarehouseAdapter.java"
+         totalNumberOfTokens="429"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/order/impl/DefaultWagoExportOrderServiceTest.java"
+         totalNumberOfTokens="542"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/order/impl/DefaultWagoImportOrderServiceTest.java"
+         totalNumberOfTokens="209"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/CheckAuthorizeOrderPaymentTest.java"
+         totalNumberOfTokens="263"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/CheckTransactionReviewStatusActionTest.java"
+         totalNumberOfTokens="543"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/DefaultCheckOrderServiceTest.java"
+         totalNumberOfTokens="192"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/OrderManualCheckedTest.java"
+         totalNumberOfTokens="360"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/PrepareOrderForManualCheckTest.java"
+         totalNumberOfTokens="173"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/ScheduleForCleanUpActionTest.java"
+         totalNumberOfTokens="374"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/SendAuthorizationFailedNotificationTest.java"
+         totalNumberOfTokens="95"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/SendFraudErrorNotificationTest.java"
+         totalNumberOfTokens="95"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/SendOrderCompletedNotificationTest.java"
+         totalNumberOfTokens="95"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/SendOrderFraudCustomerNotificationEventTest.java"
+         totalNumberOfTokens="139"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/SendPaymentFailedNotificationTest.java"
+         totalNumberOfTokens="95"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/TaskServiceStub.java"
+         totalNumberOfTokens="453"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/CancelWholeOrderAuthorization.java"
+         totalNumberOfTokens="7"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/CheckAuthorizeOrderPayment.java"
+         totalNumberOfTokens="10"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/CheckOrder.java"
+         totalNumberOfTokens="7"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/CheckTransactionReviewStatus.java"
+         totalNumberOfTokens="7"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/FraudCheckOrder.java"
+         totalNumberOfTokens="7"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/FraudCheckOrderInternal.java"
+         totalNumberOfTokens="7"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/NotifyCustomerAboutFraud.java"
+         totalNumberOfTokens="7"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/OrderManualChecked.java"
+         totalNumberOfTokens="7"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/PrepareOrderForManualCheck.java"
+         totalNumberOfTokens="7"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/ReserveOrderAmount.java"
+         totalNumberOfTokens="7"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/ScheduleForCleanUp.java"
+         totalNumberOfTokens="7"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/SendAuthorizationFailedNotification.java"
+         totalNumberOfTokens="7"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/SendFraudErrorNotification.java"
+         totalNumberOfTokens="7"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/SendOrderCompletedNotification.java"
+         totalNumberOfTokens="7"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/SendOrderPlacedNotification.java"
+         totalNumberOfTokens="7"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/SendPaymentFailedNotification.java"
+         totalNumberOfTokens="7"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/SplitOrder.java"
+         totalNumberOfTokens="271"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/SubprocessesCompleted.java"
+         totalNumberOfTokens="93"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/TakePayment.java"
+         totalNumberOfTokens="7"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/TestActionTemp.java"
+         totalNumberOfTokens="165"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/consignmentfulfilment/AbstractTestConsActionTemp.java"
+         totalNumberOfTokens="80"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/consignmentfulfilment/AllowShipment.java"
+         totalNumberOfTokens="7"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/consignmentfulfilment/CalculatePayment.java"
+         totalNumberOfTokens="7"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/consignmentfulfilment/CancelConsignment.java"
+         totalNumberOfTokens="7"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/consignmentfulfilment/ReceiveConsignmentStatus.java"
+         totalNumberOfTokens="7"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/consignmentfulfilment/SendCancelMessage.java"
+         totalNumberOfTokens="7"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/consignmentfulfilment/SendConsignmentToWarehouse.java"
+         totalNumberOfTokens="7"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/consignmentfulfilment/SendDeliveryMessage.java"
+         totalNumberOfTokens="7"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/consignmentfulfilment/SendPaymentFailedMessage.java"
+         totalNumberOfTokens="7"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/consignmentfulfilment/SendPickedUpMessage.java"
+         totalNumberOfTokens="7"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/consignmentfulfilment/SubprocessEnd.java"
+         totalNumberOfTokens="104"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/consignmentfulfilment/WaitBeforeTransmission.java"
+         totalNumberOfTokens="7"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/beans/ActionExecution.java"
+         totalNumberOfTokens="54"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/beans/QueueService.java"
+         totalNumberOfTokens="5"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/beans/QueueServiceImpl.java"
+         totalNumberOfTokens="7"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/events/TestEventListenerCountingEvents.java"
+         totalNumberOfTokens="68"/>
+   <duplication lines="45" tokens="301">
+      <file begintoken="2877" column="68" endcolumn="1" endline="116" endtoken="3177"
+            line="72"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/order/FraudCheckOrderAction.java"/>
+      <file begintoken="3306" column="60" endcolumn="1" endline="110" endtoken="3606"
+            line="65"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/order/FraudCheckOrderInternalAction.java"/>
+      <codefragment><![CDATA[				.getDouble("wagofulfilmentprocess.fraud.scoreToleranceExternal");
+
+		final OrderModel order = process.getOrder();
+		final FraudServiceResponse response = getFraudService().recognizeOrderSymptoms(getProviderName(), order);
+		final double score = response.getScore();
+		if (score < scoreLimit)
+		{
+			final FraudReportModel fraudReport = createFraudReport(providerName, response, order, FraudStatus.OK);
+			final OrderHistoryEntryModel historyEntry = createHistoryLog(providerName, order, FraudStatus.OK, null);
+			order.setFraudulent(Boolean.FALSE);
+			order.setPotentiallyFraudulent(Boolean.FALSE);
+			order.setStatus(OrderStatus.FRAUD_CHECKED);
+			modelService.save(fraudReport);
+			modelService.save(historyEntry);
+			modelService.save(order);
+			return Transition.OK;
+		}
+		else if (score < scoreLimit + scoreTolerance)
+		{
+			final FraudReportModel fraudReport = createFraudReport(providerName, response, order, FraudStatus.CHECK);
+			final OrderHistoryEntryModel historyEntry = createHistoryLog(providerName, order, FraudStatus.CHECK,
+					fraudReport.getCode());
+			order.setFraudulent(Boolean.FALSE);
+			order.setPotentiallyFraudulent(Boolean.TRUE);
+			order.setStatus(OrderStatus.FRAUD_CHECKED);
+			modelService.save(fraudReport);
+			modelService.save(historyEntry);
+			modelService.save(order);
+			return Transition.POTENTIAL;
+		}
+		else
+		{
+			final FraudReportModel fraudReport = createFraudReport(providerName, response, order, FraudStatus.FRAUD);
+			final OrderHistoryEntryModel historyEntry = createHistoryLog(providerName, order, FraudStatus.FRAUD,
+					fraudReport.getCode());
+			order.setFraudulent(Boolean.TRUE);
+			order.setPotentiallyFraudulent(Boolean.FALSE);
+			order.setStatus(OrderStatus.FRAUD_CHECKED);
+			modelService.save(fraudReport);
+			modelService.save(historyEntry);
+			modelService.save(order);
+			return Transition.FRAUD;
+		}
+	}
+}]]></codefragment>
+   </duplication>
+   <duplication lines="25" tokens="105">
+      <file begintoken="2109" column="3" endcolumn="2" endline="74" endtoken="2213"
+            line="50"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/order/CheckTransactionReviewStatusAction.java"/>
+      <file begintoken="3884" column="3" endcolumn="2" endline="57" endtoken="3988"
+            line="33"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/order/OrderManualCheckedAction.java"/>
+      <codefragment><![CDATA[		public static Set<String> getStringValues()
+		{
+			final Set<String> res = new HashSet<String>();
+			for (final Transition transitions : Transition.values())
+			{
+				res.add(transitions.toString());
+			}
+			return res;
+		}
+	}
+
+	@Override
+	public Set<String> getTransitions()
+	{
+		return Transition.getStringValues();
+	}
+
+	@Override
+	public final String execute(final OrderProcessModel process) throws RetryLaterException, Exception
+	{
+		return executeAction(process).toString();
+	}
+
+	protected Transition executeAction(final OrderProcessModel process)
+	{]]></codefragment>
+   </duplication>
+</pmd-cpd>

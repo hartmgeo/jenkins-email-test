@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd-cpd>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagogigya/src/com/wago/wagogigya/GSObjectUtils.java"
+         totalNumberOfTokens="282"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagogigya/src/com/wago/wagogigya/WagogigyaStandalone.java"
+         totalNumberOfTokens="90"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagogigya/src/com/wago/wagogigya/constants/CDCFieldConstants.java"
+         totalNumberOfTokens="234"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagogigya/src/com/wago/wagogigya/constants/WagogigyaConstants.java"
+         totalNumberOfTokens="53"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagogigya/src/com/wago/wagogigya/event/WagoLiteRegistrationEvent.java"
+         totalNumberOfTokens="617"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagogigya/src/com/wago/wagogigya/event/WagoLiteRegistrationEventListener.java"
+         totalNumberOfTokens="46"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagogigya/src/com/wago/wagogigya/populators/DefaultWagoCustomGigyaUserReversePopulator.java"
+         totalNumberOfTokens="1382"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagogigya/src/com/wago/wagogigya/populators/DefaultWagoGigyaUserPopulator.java"
+         totalNumberOfTokens="793"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagogigya/src/com/wago/wagogigya/populators/DefaultWagoGigyaUserReversePopulator.java"
+         totalNumberOfTokens="131"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagogigya/src/com/wago/wagogigya/service/WagoGigyaApiService.java"
+         totalNumberOfTokens="46"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagogigya/src/com/wago/wagogigya/service/WagogigyaService.java"
+         totalNumberOfTokens="17"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagogigya/src/com/wago/wagogigya/service/impl/DefaultWagoGigyaApiService.java"
+         totalNumberOfTokens="401"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagogigya/src/com/wago/wagogigya/service/impl/DefaultWagoGigyaLoginService.java"
+         totalNumberOfTokens="269"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagogigya/src/com/wago/wagogigya/service/impl/DefaultWagogigyaService.java"
+         totalNumberOfTokens="296"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagogigya/src/com/wago/wagogigya/service/impl/WagoGsObjectConverter.java"
+         totalNumberOfTokens="756"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagogigya/src/com/wago/wagogigya/setup/WagogigyaSystemSetup.java"
+         totalNumberOfTokens="64"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagogigya/testsrc/com/wago/wagogigya/GSObjectUtilsTest.java"
+         totalNumberOfTokens="242"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagogigya/testsrc/com/wago/wagogigya/constants/WagogigyaConstantsTest.java"
+         totalNumberOfTokens="174"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagogigya/testsrc/com/wago/wagogigya/populators/DefaultWagoCustomGigyaUserReversePopulatorTest.java"
+         totalNumberOfTokens="297"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagogigya/testsrc/com/wago/wagogigya/service/impl/WagoGsObjectConverterTest.java"
+         totalNumberOfTokens="276"/>
+   <duplication lines="11" tokens="72">
+      <file begintoken="1398" column="2" endcolumn="9" endline="62" endtoken="1469"
+            line="52"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagogigya/src/com/wago/wagogigya/populators/DefaultWagoCustomGigyaUserReversePopulator.java"/>
+      <file begintoken="3511" column="2" endcolumn="9" endline="34" endtoken="3582"
+            line="24"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagogigya/src/com/wago/wagogigya/populators/DefaultWagoGigyaUserReversePopulator.java"/>
+      <codefragment><![CDATA[	@Override
+	public void populate(final GSResponse gsResponse, final CustomerModel gigyaUser)
+	{
+		if (gsResponse.hasData())
+		{
+			final GSObject data = gsResponse.getData();
+			gigyaUser.setGyIsOriginGigya(true);
+			final List<GigyaFieldMappingModel> allMappings = getGigyaFieldMappingGenericDao().find();
+			allMappings.stream()
+					.filter(mapping -> isSyncDirectionFromG2H(mapping.getSyncDirection())
+							&& mapping.isCustom()]]></codefragment>
+   </duplication>
+</pmd-cpd>

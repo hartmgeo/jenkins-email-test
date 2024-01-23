@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.12.4">
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagogigya/src/com/wago/wagogigya/GSObjectUtils.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagogigya/src/com/wago/wagogigya/WagogigyaStandalone.java">
+<error line="39" column="72" severity="warning" message="Don&apos;t use trailing comments." source="com.puppycrawl.tools.checkstyle.checks.TrailingCommentCheck"/>
+<error line="40" column="61" severity="warning" message="Don&apos;t use trailing comments." source="com.puppycrawl.tools.checkstyle.checks.TrailingCommentCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagogigya/src/com/wago/wagogigya/constants/CDCFieldConstants.java">
+<error line="36" column="7" severity="warning" message="Static variable definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+<error line="37" column="7" severity="warning" message="Static variable definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagogigya/src/com/wago/wagogigya/constants/WagogigyaConstants.java">
+<error line="29" column="4" severity="warning" message="Static variable definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagogigya/src/com/wago/wagogigya/event/WagoLiteRegistrationEvent.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagogigya/src/com/wago/wagogigya/event/WagoLiteRegistrationEventListener.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagogigya/src/com/wago/wagogigya/populators/DefaultWagoCustomGigyaUserReversePopulator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagogigya/src/com/wago/wagogigya/populators/DefaultWagoGigyaUserPopulator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagogigya/src/com/wago/wagogigya/populators/DefaultWagoGigyaUserReversePopulator.java">
+<error line="35" column="45" severity="warning" message="Don&apos;t use trailing comments." source="com.puppycrawl.tools.checkstyle.checks.TrailingCommentCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagogigya/src/com/wago/wagogigya/service/WagoGigyaApiService.java">
+<error line="32" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="38" column="7" severity="warning" message="Unused @param tag for &apos;object&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="42" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagogigya/src/com/wago/wagogigya/service/WagogigyaService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagogigya/src/com/wago/wagogigya/service/impl/DefaultWagoGigyaApiService.java">
+<error line="85" column="7" severity="info" message="Catching &apos;Exception&apos; is not allowed." source="com.puppycrawl.tools.checkstyle.checks.coding.IllegalCatchCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagogigya/src/com/wago/wagogigya/service/impl/DefaultWagoGigyaLoginService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagogigya/src/com/wago/wagogigya/service/impl/DefaultWagogigyaService.java">
+<error line="57" column="4" severity="warning" message="Static variable definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagogigya/src/com/wago/wagogigya/service/impl/WagoGsObjectConverter.java">
+<error line="23" severity="warning" message="Line is longer than 130 characters (found 173)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="43" column="10" severity="info" message="Catching &apos;Exception&apos; is not allowed." source="com.puppycrawl.tools.checkstyle.checks.coding.IllegalCatchCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagogigya/src/com/wago/wagogigya/setup/WagogigyaSystemSetup.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagogigya/testsrc/com/wago/wagogigya/GSObjectUtilsTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagogigya/testsrc/com/wago/wagogigya/constants/WagogigyaConstantsTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagogigya/testsrc/com/wago/wagogigya/populators/DefaultWagoCustomGigyaUserReversePopulatorTest.java">
+<error line="68" column="35" severity="warning" message="&apos;{&apos; at column 33 should be on a new line." source="com.puppycrawl.tools.checkstyle.checks.blocks.LeftCurlyCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagogigya/testsrc/com/wago/wagogigya/service/impl/WagoGsObjectConverterTest.java">
+</file>
+</checkstyle>

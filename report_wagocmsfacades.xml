@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.12.4">
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmsfacades/src/com/wago/cmsfacades/WagocmsfacadesStandalone.java">
+<error line="47" column="72" severity="warning" message="Don&apos;t use trailing comments." source="com.puppycrawl.tools.checkstyle.checks.TrailingCommentCheck"/>
+<error line="48" column="61" severity="warning" message="Don&apos;t use trailing comments." source="com.puppycrawl.tools.checkstyle.checks.TrailingCommentCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmsfacades/src/com/wago/cmsfacades/attributeconverters/WagoGenericAttributeQualifierPredicate.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmsfacades/src/com/wago/cmsfacades/attributeconverters/WagoSerializingCmsDateConverter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmsfacades/src/com/wago/cmsfacades/attributeconverters/WagoSerializingCmsLinkComponentPopulator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmsfacades/src/com/wago/cmsfacades/attributeconverters/WagoSerializingCmsMediaConverter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmsfacades/src/com/wago/cmsfacades/attributeconverters/WagoSerializingCmsProductConverter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmsfacades/src/com/wago/cmsfacades/attributeconverters/faq/WagoFaqRatingAttributeToDataContentConverter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmsfacades/src/com/wago/cmsfacades/attributeconverters/faq/WagoFaqRatingDataContentToAttributeConverter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmsfacades/src/com/wago/cmsfacades/attributeconverters/noncmsitem/WagoFacetNamePredicate.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmsfacades/src/com/wago/cmsfacades/attributeconverters/noncmsitem/WagoNonCmsItemDataToItemModelConverter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmsfacades/src/com/wago/cmsfacades/attributeconverters/noncmsitem/WagoNonCmsItemModelToDataConverter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmsfacades/src/com/wago/cmsfacades/attributeconverters/noncmsitem/WagoNonCmsItemQualifierPredicate.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmsfacades/src/com/wago/cmsfacades/attributeconverters/noncmsitem/WagoStringToStringConverter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmsfacades/src/com/wago/cmsfacades/cmsitems/WagoSerializingLocalizedConverter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmsfacades/src/com/wago/cmsfacades/cmsitems/WagoSerializingLocalizedPopulator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmsfacades/src/com/wago/cmsfacades/cmsitems/predicates/WagoSerializingWhitelistPredicate.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmsfacades/src/com/wago/cmsfacades/cmsitems/validator/WagoCmsLinkComponentValidator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmsfacades/src/com/wago/cmsfacades/constants/WagocmsfacadesConstants.java">
+<error line="27" column="5" severity="warning" message="Static variable definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmsfacades/src/com/wago/cmsfacades/language/DefaultWagoLanguageFacade.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmsfacades/src/com/wago/cmsfacades/media/DefaultWagoMediaFacade.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmsfacades/src/com/wago/cmsfacades/media/populator/WagoMediaSearchByCodeNamedQueryDataPopulator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmsfacades/src/com/wago/cmsfacades/noncmsitem/DefaultWagoNonCmsItemSearchFacade.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmsfacades/src/com/wago/cmsfacades/noncmsitem/WagoNonCmsItemSearchFacade.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmsfacades/src/com/wago/cmsfacades/noncmsitem/populators/WagoEmployeeNCIPopulator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmsfacades/src/com/wago/cmsfacades/noncmsitem/populators/WagoGenericFormNCIPopulator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmsfacades/src/com/wago/cmsfacades/noncmsitem/populators/WagoGenericNonCmsItemPopulator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmsfacades/src/com/wago/cmsfacades/noncmsitem/populators/WagoLanguageContainerNCIPopulator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmsfacades/src/com/wago/cmsfacades/noncmsitem/populators/WagoMediaContainerNCIPopulator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmsfacades/src/com/wago/cmsfacades/noncmsitem/strategy/WagoFacetSearchStrategy.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmsfacades/src/com/wago/cmsfacades/noncmsitem/strategy/WagoGenericNCISearchService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmsfacades/src/com/wago/cmsfacades/noncmsitem/strategy/WagoNonCmsItemSearchStrategy.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmsfacades/src/com/wago/cmsfacades/service/WagocmsfacadesService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmsfacades/src/com/wago/cmsfacades/service/impl/DefaultWagocmsfacadesService.java">
+<error line="64" column="4" severity="warning" message="Static variable definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmsfacades/src/com/wago/cmsfacades/synchronization/itemvisitors/WagoConfigurableItemVisitor.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmsfacades/src/com/wago/cmsfacades/synchronization/itemvisitors/WagoConfigurableItemVisitorRegistry.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmsfacades/src/com/wago/cmsfacades/types/populator/WagoAbstractFilteredSubTypeCMSItemDropdownComponentTypeAttributePopulator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmsfacades/src/com/wago/cmsfacades/types/populator/WagoBlacklistSubTypesCMSItemDropdownComponentTypeAttributePopulator.java">
+<error line="12" column="4" severity="warning" message="Unclosed HTML tag found: &lt;ul&gt;" source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmsfacades/src/com/wago/cmsfacades/types/populator/WagoPageTemplateModelPopulator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmsfacades/src/com/wago/cmsfacades/types/populator/WagoStringlistComponentTypeAttributePopulator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmsfacades/src/com/wago/cmsfacades/types/populator/WagoWhitlistSubTypesCMSItemDropdownComponentTypeAttributePopulator.java">
+<error line="12" column="4" severity="warning" message="Unclosed HTML tag found: &lt;ul&gt;" source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
+</file>
+</checkstyle>

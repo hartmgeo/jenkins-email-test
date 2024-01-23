@@ -1,0 +1,1372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.12.4">
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/commerceservices/searchquery/populators/WagoCommerceSearchBoundedFacetsPopulator.java">
+<error line="28" column="55" severity="warning" message="Name &apos;FACET_SEARCH_CONFIG_TYPE&apos; must match pattern &apos;^[A-Z]+$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ClassTypeParameterNameCheck"/>
+<error line="28" column="81" severity="warning" message="Name &apos;INDEXED_TYPE_SORT_TYPE&apos; must match pattern &apos;^[A-Z]+$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ClassTypeParameterNameCheck"/>
+<error line="29" severity="warning" message="Line is longer than 130 characters (found 173)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/commerceservices/searchquery/populators/WagoCommerceSearchWagoSearchSolrQueryPopulator.java">
+<error line="20" column="61" severity="warning" message="Name &apos;INDEXED_PROPERTY_TYPE&apos; must match pattern &apos;^[A-Z]+$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ClassTypeParameterNameCheck"/>
+<error line="20" column="84" severity="warning" message="Name &apos;INDEXED_TYPE_SORT_TYPE&apos; must match pattern &apos;^[A-Z]+$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ClassTypeParameterNameCheck"/>
+<error line="21" severity="warning" message="Line is longer than 130 characters (found 172)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/commerceservices/searchquery/populators/WagoSearchFiltersPopulator.java">
+<error line="35" column="41" severity="warning" message="Name &apos;FACET_SEARCH_CONFIG_TYPE&apos; must match pattern &apos;^[A-Z]+$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ClassTypeParameterNameCheck"/>
+<error line="35" column="67" severity="warning" message="Name &apos;INDEXED_TYPE_SORT_TYPE&apos; must match pattern &apos;^[A-Z]+$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ClassTypeParameterNameCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/commerceservices/searchresponse/populators/WagoCommerceSearchResponseConditionalSortFilteringIndexedTypePopulator.java">
+<error line="48" column="85" severity="warning" message="Name &apos;FACET_SEARCH_CONFIG_TYPE&apos; must match pattern &apos;^[A-Z]+$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ClassTypeParameterNameCheck"/>
+<error line="48" column="111" severity="warning" message="Name &apos;INDEXED_TYPE_TYPE&apos; must match pattern &apos;^[A-Z]+$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ClassTypeParameterNameCheck"/>
+<error line="48" column="130" severity="warning" message="Name &apos;INDEXED_PROPERTY_TYPE&apos; must match pattern &apos;^[A-Z]+$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ClassTypeParameterNameCheck"/>
+<error line="48" column="153" severity="warning" message="Name &apos;SEARCH_RESULT_TYPE&apos; must match pattern &apos;^[A-Z]+$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ClassTypeParameterNameCheck"/>
+<error line="50" severity="warning" message="Line is longer than 130 characters (found 175)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/commerceservices/searchresponse/populators/WagoCommerceSearchResponseLocationSearchPopulator.java">
+<error line="23" column="64" severity="warning" message="Name &apos;FACET_SEARCH_CONFIG_TYPE&apos; must match pattern &apos;^[A-Z]+$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ClassTypeParameterNameCheck"/>
+<error line="23" column="90" severity="warning" message="Name &apos;INDEXED_TYPE_TYPE&apos; must match pattern &apos;^[A-Z]+$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ClassTypeParameterNameCheck"/>
+<error line="23" column="109" severity="warning" message="Name &apos;INDEXED_PROPERTY_TYPE&apos; must match pattern &apos;^[A-Z]+$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ClassTypeParameterNameCheck"/>
+<error line="23" column="132" severity="warning" message="Name &apos;INDEXED_TYPE_SORT_TYPE&apos; must match pattern &apos;^[A-Z]+$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ClassTypeParameterNameCheck"/>
+<error line="25" severity="warning" message="Line is longer than 130 characters (found 202)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="52" column="17" severity="warning" message="Unnecessary parentheses around return value." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/commerceservices/solrfacetsearch/populators/WagoAvailableLanguageSearchFiltersPopulator.java">
+<error line="25" column="58" severity="warning" message="Name &apos;FACET_SEARCH_CONFIG_TYPE&apos; must match pattern &apos;^[A-Z]+$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ClassTypeParameterNameCheck"/>
+<error line="25" column="84" severity="warning" message="Name &apos;INDEXED_TYPE_SORT_TYPE&apos; must match pattern &apos;^[A-Z]+$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ClassTypeParameterNameCheck"/>
+<error line="26" severity="warning" message="Line is longer than 130 characters (found 173)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/commerceservices/solrfacetsearch/populators/WagoBaseStoreCodeSearchFiltersPopulator.java">
+<error line="24" column="54" severity="warning" message="Name &apos;FACET_SEARCH_CONFIG_TYPE&apos; must match pattern &apos;^[A-Z]+$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ClassTypeParameterNameCheck"/>
+<error line="24" column="80" severity="warning" message="Name &apos;INDEXED_TYPE_SORT_TYPE&apos; must match pattern &apos;^[A-Z]+$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ClassTypeParameterNameCheck"/>
+<error line="25" severity="warning" message="Line is longer than 130 characters (found 173)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/commerceservices/solrfacetsearch/populators/WagoSearchPagePopulator.java">
+<error line="22" column="38" severity="warning" message="Name &apos;FACET_SEARCH_CONFIG_TYPE&apos; must match pattern &apos;^[A-Z]+$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ClassTypeParameterNameCheck"/>
+<error line="22" column="64" severity="warning" message="Name &apos;INDEXED_TYPE_TYPE&apos; must match pattern &apos;^[A-Z]+$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ClassTypeParameterNameCheck"/>
+<error line="22" column="83" severity="warning" message="Name &apos;INDEXED_PROPERTY_TYPE&apos; must match pattern &apos;^[A-Z]+$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ClassTypeParameterNameCheck"/>
+<error line="22" column="106" severity="warning" message="Name &apos;INDEXED_TYPE_SORT_TYPE&apos; must match pattern &apos;^[A-Z]+$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ClassTypeParameterNameCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/commerceservices/solrfacetsearch/populators/WagoSearchResponseBreadcrumbsPopulator.java">
+<error line="44" column="53" severity="warning" message="Name &apos;FACET_SEARCH_CONFIG_TYPE&apos; must match pattern &apos;^[A-Z]+$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ClassTypeParameterNameCheck"/>
+<error line="44" column="79" severity="warning" message="Name &apos;INDEXED_TYPE_TYPE&apos; must match pattern &apos;^[A-Z]+$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ClassTypeParameterNameCheck"/>
+<error line="44" column="98" severity="warning" message="Name &apos;INDEXED_TYPE_SORT_TYPE&apos; must match pattern &apos;^[A-Z]+$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ClassTypeParameterNameCheck"/>
+<error line="46" severity="warning" message="Line is longer than 130 characters (found 196)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="164" column="14" severity="warning" message="Unnecessary parentheses around expression." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/commerceservices/solrfacetsearch/populators/WagoSearchResponseConditionalFacetGroupPopulator.java">
+<error line="31" column="63" severity="warning" message="Name &apos;FACET_SEARCH_CONFIG_TYPE&apos; must match pattern &apos;^[A-Z]+$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ClassTypeParameterNameCheck"/>
+<error line="31" column="89" severity="warning" message="Name &apos;INDEXED_TYPE_TYPE&apos; must match pattern &apos;^[A-Z]+$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ClassTypeParameterNameCheck"/>
+<error line="31" column="108" severity="warning" message="Name &apos;INDEXED_PROPERTY_TYPE&apos; must match pattern &apos;^[A-Z]+$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ClassTypeParameterNameCheck"/>
+<error line="31" column="131" severity="warning" message="Name &apos;INDEXED_TYPE_SORT_TYPE&apos; must match pattern &apos;^[A-Z]+$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ClassTypeParameterNameCheck"/>
+<error line="33" severity="warning" message="Line is longer than 130 characters (found 202)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/commerceservices/solrfacetsearch/populators/WagoSearchResponseFacetGroupPopulator.java">
+<error line="32" column="52" severity="warning" message="Name &apos;FACET_SEARCH_CONFIG_TYPE&apos; must match pattern &apos;^[A-Z]+$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ClassTypeParameterNameCheck"/>
+<error line="32" column="78" severity="warning" message="Name &apos;INDEXED_TYPE_TYPE&apos; must match pattern &apos;^[A-Z]+$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ClassTypeParameterNameCheck"/>
+<error line="32" column="97" severity="warning" message="Name &apos;INDEXED_PROPERTY_TYPE&apos; must match pattern &apos;^[A-Z]+$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ClassTypeParameterNameCheck"/>
+<error line="32" column="120" severity="warning" message="Name &apos;INDEXED_TYPE_SORT_TYPE&apos; must match pattern &apos;^[A-Z]+$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ClassTypeParameterNameCheck"/>
+<error line="34" severity="warning" message="Line is longer than 130 characters (found 202)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/commerceservices/solrfacetsearch/populators/WagoSearchResponseFacetsPopulator.java">
+<error line="32" column="48" severity="warning" message="Name &apos;FACET_SEARCH_CONFIG_TYPE&apos; must match pattern &apos;^[A-Z]+$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ClassTypeParameterNameCheck"/>
+<error line="32" column="74" severity="warning" message="Name &apos;INDEXED_TYPE_TYPE&apos; must match pattern &apos;^[A-Z]+$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ClassTypeParameterNameCheck"/>
+<error line="32" column="93" severity="warning" message="Name &apos;INDEXED_PROPERTY_TYPE&apos; must match pattern &apos;^[A-Z]+$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ClassTypeParameterNameCheck"/>
+<error line="32" column="116" severity="warning" message="Name &apos;INDEXED_TYPE_SORT_TYPE&apos; must match pattern &apos;^[A-Z]+$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ClassTypeParameterNameCheck"/>
+<error line="34" severity="warning" message="Line is longer than 130 characters (found 202)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/commerceservices/solrfacetsearch/populators/WagoSearchResponseFreeTextSearchPopulator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/commerceservices/solrfacetsearch/populators/WagoSearchResponseQueryPopulator.java">
+<error line="21" column="47" severity="warning" message="Name &apos;FACET_SEARCH_CONFIG_TYPE&apos; must match pattern &apos;^[A-Z]+$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ClassTypeParameterNameCheck"/>
+<error line="21" column="73" severity="warning" message="Name &apos;INDEXED_TYPE_TYPE&apos; must match pattern &apos;^[A-Z]+$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ClassTypeParameterNameCheck"/>
+<error line="21" column="92" severity="warning" message="Name &apos;SEARCH_QUERY_TYPE&apos; must match pattern &apos;^[A-Z]+$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ClassTypeParameterNameCheck"/>
+<error line="21" column="111" severity="warning" message="Name &apos;SEARCH_RESULT_TYPE&apos; must match pattern &apos;^[A-Z]+$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ClassTypeParameterNameCheck"/>
+<error line="23" severity="warning" message="Line is longer than 130 characters (found 201)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/commerceservices/solrfacetsearch/populators/WagoSearchResponseSortsPopulator.java">
+<error line="56" column="47" severity="warning" message="Name &apos;FACET_SEARCH_CONFIG_TYPE&apos; must match pattern &apos;^[A-Z]+$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ClassTypeParameterNameCheck"/>
+<error line="56" column="73" severity="warning" message="Name &apos;INDEXED_TYPE_TYPE&apos; must match pattern &apos;^[A-Z]+$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ClassTypeParameterNameCheck"/>
+<error line="56" column="92" severity="warning" message="Name &apos;INDEXED_PROPERTY_TYPE&apos; must match pattern &apos;^[A-Z]+$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ClassTypeParameterNameCheck"/>
+<error line="56" column="115" severity="warning" message="Name &apos;SEARCH_RESULT_TYPE&apos; must match pattern &apos;^[A-Z]+$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ClassTypeParameterNameCheck"/>
+<error line="58" severity="warning" message="Line is longer than 130 characters (found 176)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/commerceservices/solrfacetsearch/populators/facets/WagoFacetDataUtils.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/commerceservices/solrfacetsearch/populators/facets/WagoFacetValueDataFactory.java">
+<error line="19" severity="warning" message="Line is longer than 130 characters (found 166)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="21" severity="warning" message="Line is longer than 130 characters (found 173)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/commerceservices/solrfacetsearch/populators/facets/WagoFacetValueDisplayNameProviderStrategy.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/commerceservices/solrfacetsearch/populators/facets/filter/WagoFacetDataFacetQueriesFilter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/commerceservices/solrfacetsearch/populators/facets/filter/WagoFacetDataFilter.java">
+<error line="19" column="7" severity="warning" message="Unused @param tag for &apos;solrSearchResult&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/commerceservices/solrfacetsearch/populators/facets/filter/WagoFacetDataValuesFilter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/commerceservices/solrfacetsearch/populators/facets/impl/DefaultWagoFacetValueDataFactory.java">
+<error line="147" severity="warning" message="Line is longer than 130 characters (found 149)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/commerceservices/solrfacetsearch/populators/facets/impl/DefaultWagoFacetValueDisplayNameProviderStrategy.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/commerceservices/solrfacetsearch/populators/facets/populator/WagoFacetDataBasicPopulator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/commerceservices/solrfacetsearch/populators/facets/populator/WagoFacetDataBoundedPopulator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/commerceservices/solrfacetsearch/populators/facets/populator/WagoFacetDataConditionalFacetGroupPopulator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/commerceservices/solrfacetsearch/populators/facets/populator/WagoFacetDataDefaultOptionNamePopulator.java">
+<error line="33" column="11" severity="warning" message="Unnecessary parentheses around expression." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/commerceservices/solrfacetsearch/populators/facets/populator/WagoFacetDataFacetGroupPopulator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/commerceservices/solrfacetsearch/populators/facets/populator/WagoFacetDataPopulator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/commerceservices/solrfacetsearch/populators/facets/populator/WagoFacetDataValuesPopulator.java">
+<error line="68" severity="warning" message="Line is longer than 130 characters (found 168)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/constants/WagosearchConstants.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/dao/WagoSearchPromotedItemDao.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/dao/WagoSolrIndexDataDao.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/dao/impl/DefaultWagoSearchPromotedItemDao.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/dao/impl/DefaultWagoSolrIndexDataDao.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/direct/WagoDirectSolrSearchRequestConverterData.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/direct/WagoDirectSolrSearchRequestDataBuilder.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/direct/WagoDirectSolrSearchResultConverterData.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/direct/WagoDirectSolrSearchService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/direct/impl/DefaultWagoDirectSolrSearchService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/direct/impl/WagoDirectSolrSearchException.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/direct/populator/WagoDirectSolrSearchResultDataPopulator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/direct/populator/WagoDirectSolrSearchSolrQueryBasicQueryPopulator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/direct/populator/WagoDirectSolrSearchSolrQueryEdismaxPopulator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/direct/populator/WagoDirectSolrSearchSolrQueryFilterQuerysPopulator.java">
+<error line="8" severity="warning" message="Line is longer than 130 characters (found 132)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/direct/populator/WagoDirectSolrSearchSolrQueryPopulator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/direct/populator/WagoDirectSolrSearchSolrQuerySortsPopulator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/direct/populator/WagoDirectSolrSearchSolrQuerySpellingPopulator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/facetvisibility/evaluator/WagoAbstractSolrFacetVisibilityRuleEvaluator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/facetvisibility/evaluator/impl/WagoOtherFacetSelectedSolrFacetVisibilityRuleEvaluator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/facetvisibility/evaluator/impl/WagoOtherFacetValueSelectedSolrFacetVisibilityRuleEvaluator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/facetvisibility/service/WagoFacetVisibilityRuleService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/facetvisibility/service/impl/DefaultWagoFacetVisibilityRuleService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/WagoHtmlIndexingUtils.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoAbstractAvailableLanguageValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoAbstractBlogElementComponentValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoAbstractBlogNewDateValueResolver.java">
+<error line="17" column="1" severity="warning" message="Type Javadoc comment is missing @param &lt;T&gt; tag." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocTypeCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoAbstractBlogPreviewValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoAbstractCMSComponentAvailableLanguageValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoAbstractDownloadContainerCategoryValueResolver.java">
+<error line="52" column="26" severity="warning" message="Unnecessary parentheses around lambda value." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoAbstractPointOfServiceCompetencesValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoAutocompleteTermValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoBlogContentArticleAvailableLanguagesValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoBlogContentArticleNewDateValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoBlogContentArticlePreviewDescriptionValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoBlogContentArticlePreviewHeadlineValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoBlogContentCategoryValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoBlogElementContentCategoryValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoBlogElementNewDateValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoBlogElementPreviewDescriptionValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoBlogElementPreviewHeadlineValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoBlogLandingPageAvailableLanguagesValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoBlogLandingPageNewDateValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoBlogLandingPagePreviewDescriptionValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoBlogLandingPagePreviewHeadlineValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoBlogPreviewImageValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoBlogReadMoreUrlValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoBlogTagsValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoCMSElementPreviewImageValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoCompetitorProductCodeNGramValueResolver.java">
+<error line="31" severity="warning" message="Line is longer than 130 characters (found 135)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoCompetitorProductCodeValueResolver.java">
+<error line="27" severity="warning" message="Line is longer than 130 characters (found 152)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoCompetitorProductCompetitorValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoContentArticlePageBlogTypeValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoContentArticlePageCategoryReferenceValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoContentArticlePageReferenceApplicationTypeValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoContentCategoryGroupValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoContentPageAvailableLanguageValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoContentPageBaseStoreCodesValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoContentPageBlogTypeValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoContentPageBreadcrumbValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoContentPageCategoryReferenceValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoContentPageContentValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoContentPageKeywordsValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoContentPagePreviewImageUrlValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoContentPageResultTypeValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoContentPageRootBreadcrumbValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoContentPageStageHeadlineValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoContentPageTemplateValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoContentPageUrlValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoDateValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoDocumentCategoryValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoDownloadContainerAllCategoriesValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoDownloadContainerAppCategoryValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoDownloadContainerBaseStoreCodesValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoDownloadContainerCategoriesValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoDownloadContainerDocCategory1ValueResolver.java">
+<error line="51" column="25" severity="warning" message="Unnecessary parentheses around lambda value." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoDownloadContainerDocCategory2ValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoDownloadContainerDocumentCategoryValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoDownloadContainerHighlightedValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoDownloadContainerIndCategoryValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoDownloadContainerIsVersionedValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoDownloadContainerKeywordsValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoDownloadContainerLanguagesValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoDownloadContainerMediaDateValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoDownloadContainerMediaFileTypeValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoDownloadContainerMediaResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoDownloadContainerProductCodesValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoDownloadContainerProductCountValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoDownloadContainerQualifierValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoDownloadContainerUiiNumbersValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoDownloadContentValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoDownloadDatasheetProductCodeValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoDownloadDescriptionValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoDownloadDocumentUrlResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoDownloadFilesLanguageResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoDownloadMediaValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoDownloadOnlineOfflineDateValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoDownloadPrintOrderValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoDownloadProductCategoriesValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoDownloadProductCertificatesValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoDownloadProductFamiliesValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoDownloadProductSeriesValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoDownloadStatusResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoDownloadValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoElementBlogLinkTargetValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoElementBlogReadMoreLabelValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoElementBlogReadMoreUrlValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoElementComponentPageValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoEventDateAvailableLanguageValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoEventDateBaseStoreCodesValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoEventDateImageUrlValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoEventDateModelSeminarNoValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoEventDateUrlValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoEventSortValueResolver.java">
+<error line="28" column="4" severity="warning" message="Variable access definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoFaqAvailableLanguageValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoFaqBaseStoreCodesValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoFaqFilterCategoriesValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoFaqProductCategoriesValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoFaqQuestionCategoryHierarchyValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoFaqQuestionRelevantValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoItemAvailableLanguageValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoItemClassNameValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoItemDateValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoItemLowerCaseStringValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoItemSpElValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoItemStringValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoJobAdvertismentAvailableLanguageValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoJobAdvertismentBaseStoreCodesValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoLocalizedBaseStorePosValueResolver.java">
+<error line="34" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="69" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="93" severity="warning" message="Line is longer than 130 characters (found 156)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="98" severity="warning" message="Line is longer than 130 characters (found 166)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoLocalizedBaseStoreValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoLocalizedValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoMasterTemplateValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoPointOfServiceBaseStoreCodesValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoPointOfServiceCompetencesNamesValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoPointOfServiceCompetencesUidValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoPointOfServiceConfigurationEmailValueResolver.java">
+<error line="76" column="63" severity="warning" message="Unnecessary parentheses around expression." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoPointOfServiceContactSortValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoPointOfServiceContactTypeValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoPointOfServiceContentUrlValueResolver.java">
+<error line="35" severity="warning" message="Line is longer than 130 characters (found 133)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="57" severity="warning" message="Line is longer than 130 characters (found 133)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoPointOfServiceContinentValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoPointOfServiceCountriesValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoPointOfServiceDisplayNameValueResolver.java">
+<error line="30" column="15" severity="warning" message="Unnecessary parentheses around string &quot;lowercase&quot;." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+<error line="41" column="80" severity="warning" message="&apos;{&apos; at column 76 should be on a new line." source="com.puppycrawl.tools.checkstyle.checks.blocks.LeftCurlyCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoPointOfServiceEmailValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoPointOfServiceFormattedAddressValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoPointOfServiceLocalizedCountriesValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoPointOfServiceLocationIndependenceValueResolver.java">
+<error line="37" severity="warning" message="Line is longer than 130 characters (found 133)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoPointOfServiceLocationValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoPointOfServiceOldContentUrlValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoPointOfServicePhoneValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoPointOfServicePostCodeRangeValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoPointOfServicePostCodesValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoPointOfServicePriorityValueResolver.java">
+<error line="38" severity="warning" message="Line is longer than 130 characters (found 133)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoPointOfServiceTaskAreaValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoProductAccessoryFlagValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoProductApprovalsCategoryCodeValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoProductBaseStoreCodesValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoProductClassificationAttributesFlexValueResolver.java">
+<error line="64" severity="warning" message="Line is longer than 130 characters (found 141)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoProductCompetitorProductsValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoProductEPLANProductValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoProductFamilyNameValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoProductHasFollowUpProductValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoProductInfoArticleValueResolver.java">
+<error line="48" column="54" severity="warning" message="Unnecessary parentheses around lambda value." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoProductMarkAsNewUntilValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoProductNummericValueRangeValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoProductPurchasableValueResolver.java">
+<error line="46" column="26" severity="warning" message="Unnecessary parentheses around lambda value." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoProductReferencesValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoProductShowFamilyNameValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoProductStatusValueResolver.java">
+<error line="48" column="4" severity="warning" message="Variable access definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+<error line="49" column="4" severity="warning" message="Variable access definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+<error line="50" column="4" severity="warning" message="Variable access definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+<error line="51" column="4" severity="warning" message="Variable access definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoProductSubstituteValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoProductWholesalerNumberValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoStaticStringValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/indexer/value/resolver/WagoStringLengthValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/job/WagoSolrIndexDataEmptySourceCleanupJobPerformable.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/job/WagoSolrSyncronizeDataJobPerformable.java">
+<error line="41" column="4" severity="warning" message="Variable access definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+<error line="53" column="79" severity="warning" message="Don&apos;t use trailing comments." source="com.puppycrawl.tools.checkstyle.checks.TrailingCommentCheck"/>
+<error line="60" column="30" severity="warning" message="&apos;;&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+<error line="60" column="31" severity="warning" message="Don&apos;t use trailing comments." source="com.puppycrawl.tools.checkstyle.checks.TrailingCommentCheck"/>
+<error line="91" severity="warning" message="Line is longer than 130 characters (found 208)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="92" column="61" severity="warning" message="Unnecessary parentheses around expression." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/listener/WagoFacetSearchListener.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/model/handler/WagoFacetGroupSolrIndexedTypeAttributeHandler.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/model/interceptors/WagoConditionalFacetGroupValidateInterceptor.java">
+<error line="34" column="111" severity="warning" message="&apos;+&apos; should be on a new line." source="com.puppycrawl.tools.checkstyle.checks.whitespace.OperatorWrapCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/model/interceptors/WagoFacetGroupValidateInterceptor.java">
+<error line="28" severity="warning" message="Line is longer than 130 characters (found 131)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="29" severity="warning" message="Line is longer than 130 characters (found 190)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/model/interceptors/WagoSolrFacetSearchConfigPrepareInterceptor.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/model/interceptors/WagoSolrFacetSearchConfigValidateInterceptor.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/model/interceptors/WagoSolrIndexedPropertyConditionalFacetPrepareInterceptor.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/model/interceptors/WagoSolrIndexedPropertyValidateInterceptor.java">
+<error line="25" column="4" severity="warning" message="Variable access definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+<error line="53" column="35" severity="warning" message="Unnecessary parentheses around expression." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/model/interceptors/WagoSolrSortValidateInterceptor.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/multipletypes/WagoMultipleIndexedTypesFacetSearchQueryFieldsPopulator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/nameprovider/WagoClassificationNumberFormatFacetValueDisplayNameProvider.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/nameprovider/WagoContinentFacetValueDisplayNameProvider.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/nameprovider/WagoFaqTypeFacetValueDisplayNameProvider.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/populator/WagoAbstractFacetVisibilityConfigPopulator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/populator/WagoBoostFieldPopulator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/populator/WagoCategoryAwareFacetVisibilityConfigPopulator.java">
+<error line="25" severity="warning" message="Line is longer than 130 characters (found 151)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/populator/WagoFacetQueryPopulator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/populator/WagoGlobalFacetVisibilityConfigPopulator.java">
+<error line="24" severity="warning" message="Line is longer than 130 characters (found 137)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/populator/WagoSearchIndexedPropertyPopulator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/populator/WagoSearchPromotedItemPopulator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/populator/WagoSolrFacetVisibilityRulePopulator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/resolver/WagoSearchCategoryResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/resolver/impl/DefaultWagoSearchCategoryResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/service/WagoSearchBoostFieldService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/service/WagoSearchPromotedItemService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/service/WagoVisibilityConfigurationService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/service/impl/DefaultWagoSearchBoostFieldService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/service/impl/DefaultWagoSearchPromotedItemService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/service/impl/DefaultWagoVisibilityConfigurationService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/setup/WagosearchSystemSetup.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solr/impl/DefaultWagoIndexerService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solr/solrfacetsearch/impl/WagoSolrProductSearchAutocompleteService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solr/solrfacetsearch/search/WagoSearchQuery.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solr/solrfacetsearch/suggester/impl/WagoSolrAutoSuggestService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solr/suggestion/WagoAutocompleteSuggestionService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solr/suggestion/impl/DefaultWagoAutocompleteSuggestionService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/WagoSolrDebugData.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/config/factories/WagoFacetValueDataComparatorFactory.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/config/factories/impl/DefaultWagoFacetValueDataComparatorFactory.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/config/factories/impl/DefaultWagoFlexibleSearchQuerySpecFactory.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/converters/populator/WagoFacetSearchConfigPopulator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/converters/populator/WagoIndexedTypeSortFunctionQueryPopulator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/converters/populator/WagoIndexedTypeSortResultTypePopulator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/converters/populator/WagoSolrServerConfigPopulator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/facetsearchquery/populators/WagoFacetSearchQueryAdditionalFacetPopulator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/facetsearchquery/populators/WagoFacetSearchQueryBlogTimeFilterPopulator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/facetsearchquery/populators/WagoFacetSearchQueryFacetQueryPopulator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/facetsearchquery/populators/WagoFacetSearchQueryFieldsPopulator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/facetsearchquery/populators/WagoFacetSearchQueryTimeFilterPopulator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/facetsearchresult/populators/WagoFacetSearchDebugDataPopulator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/facetsearchresult/populators/WagoFacetSearchResultAdditionalDataPopulator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/impl/WagoDocumentsSolrService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/impl/populators/WagoFacetSearchQueryEdismaxPopulator.java">
+<error line="43" column="4" severity="warning" message="Variable access definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/impl/populators/WagoLucenenQuerySyntaxHelper.java">
+<error line="51" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="70" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="85" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="109" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/indexer/cron/WagoSolrIndexerHotUpdateJob.java">
+<error line="138" column="10" severity="info" message="Catching &apos;Exception&apos; is not allowed." source="com.puppycrawl.tools.checkstyle.checks.coding.IllegalCatchCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/indexer/cron/WagoSolrIndexerJob.java">
+<error line="43" column="10" severity="info" message="Catching &apos;Exception&apos; is not allowed." source="com.puppycrawl.tools.checkstyle.checks.coding.IllegalCatchCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/indexer/cron/WagoSolrPrepareDataJob.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/indexer/impl/WagoIndexer.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/indexer/impl/WagoIndexingUtils.java">
+<error line="72" column="36" severity="warning" message="Unnecessary parentheses around expression." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/indexer/impl/WagoPrepareDataIndexer.java">
+<error line="142" severity="warning" message="Line is longer than 130 characters (found 132)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/indexer/impl/WagoPrepareDataIndexerContextFactory.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/indexer/impl/WagoSolrDataExporter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/indexer/impl/debug/WagoSolrIndexerDebugData.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/indexer/impl/debug/WagoSolrIndexerDebugHelper.java">
+<error line="20" column="4" severity="warning" message="Variable access definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/indexer/impl/utils/WagoAutosuggestMapUtils.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/indexer/impl/utils/WagoSolrInputDocumentUtils.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/indexer/listeners/WagoPrepareDataSessionInitializationListener.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/indexer/strategies/impl/WagoPrepareSolrDataIndexerStrategy.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/indexer/workers/impl/WagoDefaultIndexerWorker.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/populators/FacetValueDataAscendingComparator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/populators/WagoCommerceIndexedPropertyPopulator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/populators/WagoConditionalFacetGroupPopulator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/populators/WagoContentSearchSolrQueryPopulator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/populators/WagoDefaultOptionFacetPopulator.java">
+<error line="49" column="35" severity="warning" message="Unnecessary parentheses around expression." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/populators/WagoFacetGroupPopulator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/populators/WagoFacetPopulator.java">
+<error line="34" column="34" severity="warning" message="Unnecessary parentheses around expression." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+<error line="48" column="17" severity="warning" message="Unnecessary parentheses around expression." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/populators/WagoFacetSearchDebugDataQueryPopulator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/populators/WagoFacetSearchQuerySortsPopulator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/populators/WagoFacetSearchQuerySpellcheckPopulator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/populators/WagoFacetSearchResultFacetQueryPopulator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/populators/WagoIndexedPropertyPopulator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/populators/WagoIndexedTypePopulator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/populators/WagoResultTypePopulator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/populators/WagoSearchResponseFacetFilterPopulator.java">
+<error line="35" column="53" severity="warning" message="Name &apos;FACET_SEARCH_CONFIG_TYPE&apos; must match pattern &apos;^[A-Z]+$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ClassTypeParameterNameCheck"/>
+<error line="35" column="79" severity="warning" message="Name &apos;INDEXED_TYPE_TYPE&apos; must match pattern &apos;^[A-Z]+$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ClassTypeParameterNameCheck"/>
+<error line="35" column="98" severity="warning" message="Name &apos;INDEXED_PROPERTY_TYPE&apos; must match pattern &apos;^[A-Z]+$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ClassTypeParameterNameCheck"/>
+<error line="35" column="121" severity="warning" message="Name &apos;INDEXED_TYPE_SORT_TYPE&apos; must match pattern &apos;^[A-Z]+$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ClassTypeParameterNameCheck"/>
+<error line="37" severity="warning" message="Line is longer than 130 characters (found 202)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/populators/WagoSearchResultTypeFiltersPopulator.java">
+<error line="36" column="51" severity="warning" message="Name &apos;FACET_SEARCH_CONFIG_TYPE&apos; must match pattern &apos;^[A-Z]+$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ClassTypeParameterNameCheck"/>
+<error line="36" column="77" severity="warning" message="Name &apos;INDEXED_TYPE_SORT_TYPE&apos; must match pattern &apos;^[A-Z]+$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ClassTypeParameterNameCheck"/>
+<error line="37" severity="warning" message="Line is longer than 130 characters (found 174)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/populators/WagoSearchResultTypeFunctions.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/populators/WagoSearchSortPopulator.java">
+<error line="29" column="38" severity="warning" message="Name &apos;FACET_SEARCH_CONFIG_TYPE&apos; must match pattern &apos;^[A-Z]+$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ClassTypeParameterNameCheck"/>
+<error line="29" column="64" severity="warning" message="Name &apos;INDEXED_PROPERTY_TYPE&apos; must match pattern &apos;^[A-Z]+$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ClassTypeParameterNameCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/populators/WagoSolrIndexedTypeDirectSearchQueryBuilderPopulator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/populators/WagoSpatialSearchQueryFacetsPopulator.java">
+<error line="36" column="4" severity="warning" message="Variable access definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+<error line="37" column="4" severity="warning" message="Variable access definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/provider/exception/WagoValueProviderException.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/provider/impl/AbstractWagoMessageResolvingFacetValueDisplayNameProvider.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/provider/impl/DefaultWagoCategorySource.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/provider/impl/DefaultWagoFamilyCategorySource.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/provider/impl/WagoCategoryFacetDisplayNameProvider.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/provider/impl/WagoColorImageProductValueResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/provider/impl/WagoContentCategoryFacetDisplayNameProvider.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/provider/impl/WagoCountryFacetValueDisplayNameProvider.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/provider/impl/WagoDateFacetDisplayNameProvider.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/provider/impl/WagoDownloadLanguagesNameProvider.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/provider/impl/WagoFunctionalAreaDisplayNameProvider.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/provider/impl/WagoItemIdentityProvider.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/provider/impl/WagoNoopTopValuesProvider.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/provider/impl/WagoPointOfServiceCompetencesFacetDisplayNameProvider.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/provider/impl/WagoPointOfServiceImageValueProvider.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/provider/impl/WagoPointOfServiceTypeFacetDisplayNameProvider.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/provider/impl/WagoProductUrlValueProvider.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/search/WagoFacetField.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/search/WagoFacetQueryField.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/search/WagoFieldNameTranslator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/search/WagoResultTypeService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/search/daos/WagoResultTypeDao.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/search/daos/impl/DefaultWagoResultTypeDao.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/search/impl/DefaultWagoFacetSearchService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/search/impl/DefaultWagoFieldNameTranslator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/search/impl/DefaultWagoResultTypeService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/search/impl/JsonFacetDomain.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/search/impl/WagoFacetSearchQueryFacetsPopulator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/search/impl/WagoFacetSearchQueryOperatorTranslatorWrapper.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/search/impl/WagoJsonFacetParam.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/search/impl/WagoJsonFacetParamBuilder.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/search/impl/WagoSolrSearchResult.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/solr/impl/DefaultWagoSolrIndexService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/solr/impl/WagoSolrCloudSearchProvider.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/solr/impl/WagoSolrDecompoundProvider.java">
+<error line="73" column="13" severity="info" message="Catching &apos;Exception&apos; is not allowed." source="com.puppycrawl.tools.checkstyle.checks.coding.IllegalCatchCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/solr/impl/WagoSolrStandaloneSearchProvider.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/solr/impl/WagoSolrStoppwordProvider.java">
+<error line="66" column="7" severity="info" message="Catching &apos;Exception&apos; is not allowed." source="com.puppycrawl.tools.checkstyle.checks.coding.IllegalCatchCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/solr/impl/WagoSolrSynonymProvider.java">
+<error line="72" column="7" severity="info" message="Catching &apos;Exception&apos; is not allowed." source="com.puppycrawl.tools.checkstyle.checks.coding.IllegalCatchCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/solrfacetsearch/strategies/DefaultWagoIndexerStrategy.java">
+<error line="36" column="4" severity="warning" message="Variable access definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+<error line="91" column="7" severity="info" message="Catching &apos;Exception&apos; is not allowed." source="com.puppycrawl.tools.checkstyle.checks.coding.IllegalCatchCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/sort/WagoSolrSortVisibilityRuleEvaluator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/sort/WagoSolrSortVisibilityRuleService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/sort/impl/DefaultWagoSolrSortVisibilityRuleService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/sort/impl/WagoFilterQueryExistsSolrSortVisibilityRuleEvaluator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/sort/impl/WagoSpatialSearchSolrSortVisibilityRuleEvaluator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/src/com/wago/search/utils/SolrFacetSearchConfigModelUtils.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/commerceservices/searchquery/populators/WagoCommerceSearchBoundedFacetsPopulatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/commerceservices/searchquery/populators/WagoSearchFiltersPopulatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/commerceservices/searchresponse/populators/WagoCommerceSearchResponseConditionalSortFilteringIndexedTypePopulatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/commerceservices/searchresponse/populators/WagoCommerceSearchResponseLocationSearchPopulatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/commerceservices/solrfacetsearch/populators/WagoBaseStoreCodeSearchFiltersPopulatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/commerceservices/solrfacetsearch/populators/WagoSearchPagePopulatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/commerceservices/solrfacetsearch/populators/WagoSearchResponseBreadcrumbsPopulatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/commerceservices/solrfacetsearch/populators/WagoSearchResponseConditionalFacetGroupPopulatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/commerceservices/solrfacetsearch/populators/WagoSearchResponseFacetGroupPopulatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/commerceservices/solrfacetsearch/populators/WagoSearchResponseFacetsPopulatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/commerceservices/solrfacetsearch/populators/WagoSearchResponseSortsPopulatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/commerceservices/solrfacetsearch/populators/facets/WagoFacetDataUtilsTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/commerceservices/solrfacetsearch/populators/facets/filter/WagoFacetDataFacetQueriesFilterTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/commerceservices/solrfacetsearch/populators/facets/filter/WagoFacetDataValuesFilterTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/commerceservices/solrfacetsearch/populators/facets/impl/DefaultWagoFacetValueDataFactoryTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/commerceservices/solrfacetsearch/populators/facets/impl/DefaultWagoFacetValueDisplayNameProviderStrategyTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/commerceservices/solrfacetsearch/populators/facets/populator/WagoFacetDataBasicPopulatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/commerceservices/solrfacetsearch/populators/facets/populator/WagoFacetDataBoundedPopulatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/commerceservices/solrfacetsearch/populators/facets/populator/WagoFacetDataConditionalFacetGroupPopulatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/commerceservices/solrfacetsearch/populators/facets/populator/WagoFacetDataDefaultOptionNamePopulatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/commerceservices/solrfacetsearch/populators/facets/populator/WagoFacetDataFacetGroupPopulatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/commerceservices/solrfacetsearch/populators/facets/populator/WagoFacetDataValuesPopulatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/dao/impl/DefaultWagoSolrIndexDataDaoTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/direct/WagoDirectSolrSearchRequestDataBuilderTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/direct/impl/DefaultWagoDirectSolrSearchServiceTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/direct/populator/WagoDirectSolrSearchResultDataPopulatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/direct/populator/WagoDirectSolrSearchSolrQueryBasicQueryPopulatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/direct/populator/WagoDirectSolrSearchSolrQueryEdismaxPopulatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/direct/populator/WagoDirectSolrSearchSolrQueryFilterQuerysPopulatorTest.java">
+<error line="7" severity="warning" message="Line is longer than 130 characters (found 132)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="59" column="4" severity="warning" message="Each variable declaration must be in its own statement." source="com.puppycrawl.tools.checkstyle.checks.coding.MultipleVariableDeclarationsCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/direct/populator/WagoDirectSolrSearchSolrQueryPopulatorTest.java">
+<error line="36" column="4" severity="warning" message="Each variable declaration must be in its own statement." source="com.puppycrawl.tools.checkstyle.checks.coding.MultipleVariableDeclarationsCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/direct/populator/WagoDirectSolrSearchSolrQuerySortsPopulatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/direct/populator/WagoDirectSolrSearchSolrQuerySpellingPopulatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/WagoHtmlIndexingUtilsTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoAbstractAvailableLanguageValueResolverTest.java">
+<error line="46" column="4" severity="warning" message="Each variable declaration must be in its own statement." source="com.puppycrawl.tools.checkstyle.checks.coding.MultipleVariableDeclarationsCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoAbstractBlogElementComponentValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoAbstractBlogNewDateValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoAbstractBlogPreviewValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoAbstractDownloadContainerCategoryValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoAbstractPointOfServiceCompetencesValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoAutocompleteTermValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoBlogContentArticleAvailableLanguagesValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoBlogContentArticleNewDateValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoBlogContentArticlePreviewDescriptionValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoBlogContentArticlePreviewHeadlineValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoBlogContentCategoryValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoBlogElementNewDateValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoBlogElementPreviewDescriptionValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoBlogElementPreviewHeadlineValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoBlogLandingPageAvailableLanguagesValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoBlogLandingPageNewDateValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoBlogLandingPagePreviewDescriptionValueResolverTest.java">
+<error line="52" column="36" severity="warning" message="&apos;{&apos; at column 34 should be on a new line." source="com.puppycrawl.tools.checkstyle.checks.blocks.LeftCurlyCheck"/>
+<error line="61" column="43" severity="warning" message="&apos;{&apos; at column 41 should be on a new line." source="com.puppycrawl.tools.checkstyle.checks.blocks.LeftCurlyCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoBlogLandingPagePreviewHeadlineValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoBlogPreviewImageValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoBlogReadMoreUrlValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoBlogTagsValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoCMSContentArticlePreviewImageValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoCompetitorProductCodeNGramValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoCompetitorProductCodeValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoCompetitorProductCompetitorValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoContentArticlePageBlogTypeValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoContentArticlePageCategoryReferenceValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoContentArticlePageReferenceApplicationTypeValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoContentCategoryGroupValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoContentPageAvailableLanguageValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoContentPageBaseStoreCodesValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoContentPageBlogPageTypeValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoContentPageBreadcrumbValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoContentPageCategoryReferenceValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoContentPageContentValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoContentPageKeywordsValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoContentPagePreviewImageUrlValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoContentPageResultTypeValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoContentPageRootBreadcrumbValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoContentPageStageHeadlineValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoContentPageTemplateValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoContentPageUrlValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoDownloadContainerAllCategoriesValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoDownloadContainerAppCategoryValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoDownloadContainerBaseStoreCodesValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoDownloadContainerCategoriesValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoDownloadContainerDocCategory1ValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoDownloadContainerDocCategory2ValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoDownloadContainerHighlightedValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoDownloadContainerIndCategoryValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoDownloadContainerKeywordsValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoDownloadContainerLanguagesValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoDownloadContainerMediaDateValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoDownloadContainerMediaFileTypeValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoDownloadContainerMediaResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoDownloadContainerProductCodesValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoDownloadContainerProductCountValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoDownloadContainerQualifierValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoDownloadContainerUiiNumbersValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoDownloadDatasheetProductCodeValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoDownloadDescriptionValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoDownloadDocumentUrlResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoDownloadFilesLanguageResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoDownloadMediaValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoDownloadOnlineOfflineDateValueResolverTest.java">
+<error line="3" severity="warning" message="Line is longer than 130 characters (found 132)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="4" severity="warning" message="Line is longer than 130 characters (found 131)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoDownloadPrintOrderValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoDownloadProductCategoriesValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoDownloadProductCertificatesValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoDownloadProductFamiliesValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoDownloadProductSeriesValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoDownloadStatusResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoElementComponentPageValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoEventDateAvailableLanguageValueResolverTest.java">
+<error line="46" column="4" severity="warning" message="Each variable declaration must be in its own statement." source="com.puppycrawl.tools.checkstyle.checks.coding.MultipleVariableDeclarationsCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoEventDateBaseStoreCodesValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoEventDateImageUrlValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoEventDateModelSeminarNoValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoEventDateUrlValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoEventSortValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoFaqAvailableLanguageValueResolverTest.java">
+<error line="42" column="4" severity="warning" message="Each variable declaration must be in its own statement." source="com.puppycrawl.tools.checkstyle.checks.coding.MultipleVariableDeclarationsCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoFaqBaseStoreCodesValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoFaqFilterCategoriesValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoFaqProductCategoriesValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoFaqQuestionRelevantValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoItemAvailableLanguageValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoItemClassNameValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoItemDateValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoItemLowerCaseStringValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoItemSpElValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoItemStringValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoJobAdvertismentAvailableLanguageValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoJobAdvertismentBaseStoreCodesValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoLocalizedBaseStorePosValueResolverTest.java">
+<error line="92" column="60" severity="warning" message="&apos;{&apos; at column 58 should be on a new line." source="com.puppycrawl.tools.checkstyle.checks.blocks.LeftCurlyCheck"/>
+<error line="98" column="46" severity="warning" message="&apos;{&apos; at column 44 should be on a new line." source="com.puppycrawl.tools.checkstyle.checks.blocks.LeftCurlyCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoLocalizedBaseStoreValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoLocalizedValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoMasterTemplateValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoPointOfServiceBaseStoreCodesValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoPointOfServiceCompetencesNamesValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoPointOfServiceCompetencesUidValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoPointOfServiceConfigurationEmailValueResolverTest.java">
+<error line="44" column="4" severity="warning" message="Static variable definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoPointOfServiceContactSortValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoPointOfServiceContactTypeValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoPointOfServiceContentUrlValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoPointOfServiceContinentValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoPointOfServiceCountriesValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoPointOfServiceDisplayNameValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoPointOfServiceEmailValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoPointOfServiceFormattedAddressValueProviderTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoPointOfServiceLocalizedCountriesValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoPointOfServiceLocationIndependenceValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoPointOfServiceLocationValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoPointOfServicePhoneValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoPointOfServicePostCodeRangeValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoPointOfServicePostCodesValueResolverTest.java">
+<error line="42" column="4" severity="warning" message="Each variable declaration must be in its own statement." source="com.puppycrawl.tools.checkstyle.checks.coding.MultipleVariableDeclarationsCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoPointOfServicePriorityValueResolverTest.java">
+<error line="62" severity="warning" message="Line is longer than 130 characters (found 181)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoPointOfServiceTaskAreaValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoProductAccessoryFlagValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoProductApprovalsCategoryCodeValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoProductBaseStoreCodesValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoProductClassificationAttributesFlexValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoProductCompetitorProductsValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoProductEPLANProductValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoProductHasFollowUpProductValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoProductInfoArticleValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoProductMarkAsNewUntilValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoProductNummericValueRangeValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoProductPurchasableValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoProductReferencesValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoProductStatusValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoProductSubstituteValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoProductWholesalerNumberValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoSeminarNoResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoStaticStringValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/indexer/value/resolver/WagoStringLengthValueResolverTest.java">
+<error line="23" column="4" severity="warning" message="Static variable definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+<error line="25" column="4" severity="warning" message="Static variable definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+<error line="27" column="4" severity="warning" message="Static variable definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+<error line="29" severity="warning" message="Line is longer than 130 characters (found 178)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="31" severity="warning" message="Line is longer than 130 characters (found 139)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="33" severity="warning" message="Line is longer than 130 characters (found 138)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/job/WagoSolrIndexDataEmptySourceCleanupJobPerformableTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/job/WagoSolrSyncronizeDataJobPerformableTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/listener/WagoFacetSearchListenerTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/model/handler/WagoFacetGroupSolrIndexedTypeAttributeHandlerTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/model/interceptors/WagoConditionalFacetGroupValidateInterceptorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/model/interceptors/WagoFacetGroupValidateInterceptorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/model/interceptors/WagoSolrFacetSearchConfigPrepareInterceptorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/model/interceptors/WagoSolrFacetSearchConfigValidateInterceptorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/model/interceptors/WagoSolrIndexedPropertyConditionalFacetPrepareInterceptorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/model/interceptors/WagoSolrIndexedPropertyValidateInterceptorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/model/interceptors/WagoSolrSortValidateInterceptorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/multipletypes/WagoMultipleIndexedTypesFacetSearchQueryFieldsPopulatorTest.java">
+<error line="51" column="4" severity="warning" message="Each variable declaration must be in its own statement." source="com.puppycrawl.tools.checkstyle.checks.coding.MultipleVariableDeclarationsCheck"/>
+<error line="53" column="4" severity="warning" message="Each variable declaration must be in its own statement." source="com.puppycrawl.tools.checkstyle.checks.coding.MultipleVariableDeclarationsCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/nameprovider/WagoClassificationNumberFormatFacetValueDisplayNameProviderTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/nameprovider/WagoFaqTypeFacetValueDisplayNameProviderTest.java">
+<error line="29" column="4" severity="warning" message="Static variable definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+<error line="30" column="4" severity="warning" message="Static variable definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+<error line="31" column="4" severity="warning" message="Static variable definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+<error line="32" column="4" severity="warning" message="Static variable definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+<error line="33" column="4" severity="warning" message="Static variable definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+<error line="34" column="4" severity="warning" message="Static variable definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/populator/WagoBoostFieldPopulatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/populator/WagoCategoryAwareFacetVisibilityConfigPopulatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/populator/WagoSearchIndexedPropertyPopulatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/populator/WagoSolrFacetVisibilityRulePopulatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/service/impl/DefaultWagoSearchBoostFieldServiceTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/service/impl/DefaultWagoSearchPromotedItemServiceTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/service/impl/DefaultWagoVisibilityConfigurationServiceTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/setup/WagosearchSystemSetupTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solr/solrfacetsearch/impl/WagoSolrProductSearchAutocompleteServiceTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solr/solrfacetsearch/suggester/impl/WagoSolrAutoSuggestServiceTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solr/suggestion/impl/DefaultWagoAutocompleteSuggestionServiceTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/config/factories/impl/DefaultWagoFacetValueDataComparatorFactoryTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/config/factories/impl/DefaultWagoFlexibleSearchQuerySpecFactoryTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/converters/populator/WagoIndexedTypeSortResultTypePopulatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/converters/populator/WagoSolrServerConfigPopulatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/facetsearchquery/populators/WagoFacetSearchQueryAdditionalFacetPopulatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/facetsearchquery/populators/WagoFacetSearchQueryBlogTimeFilterPopulatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/facetsearchquery/populators/WagoFacetSearchQueryFieldsPopulatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/facetsearchquery/populators/WagoFacetSearchQueryTimeFilterPopulatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/facetsearchresult/populators/WagoFacetSearchDebugDataPopulatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/facetsearchresult/populators/WagoFacetSearchResultAdditionalDataPopulatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/impl/WagoDocumentsSolrServiceTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/impl/populators/WagoFacetSearchQueryEdismaxPopulatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/impl/populators/WagoLucenenQuerySyntaxHelperTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/indexer/cron/WagoSolrIndexerHotUpdateJobTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/indexer/cron/WagoSolrPrepareDataJobTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/indexer/impl/WagoIndexerTest.java">
+<error line="97" severity="warning" message="Line is longer than 130 characters (found 222)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/indexer/impl/WagoIndexingUtilsTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/indexer/impl/WagoPrepareDataIndexerContextFactoryTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/indexer/impl/WagoPrepareDataIndexerTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/indexer/impl/WagoSolrDataExporterTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/indexer/impl/debug/WagoSolrIndexerDebugHelperTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/indexer/impl/utils/WagoAutosuggestMapUtilsTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/indexer/impl/utils/WagoSolrInputDocumentUtilsTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/indexer/strategies/impl/WagoPrepareSolrDataIndexerStrategyTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/populator/WagoSearchResultTypeFiltersPopulatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/populator/WagoSearchSortPopulatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/populators/FacetValueDataAscendingComparatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/populators/WagoCommerceIndexedPropertyPopulatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/populators/WagoConditionalFacetGroupPopulatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/populators/WagoContentSearchSolrQueryPopulatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/populators/WagoDefaultOptionFacetPopulatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/populators/WagoFacetGroupPopulatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/populators/WagoFacetPopulatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/populators/WagoFacetSearchDebugDataQueryPopulatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/populators/WagoFacetSearchQuerySortsPopulatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/populators/WagoIndexedPropertyPopulatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/populators/WagoIndexedTypePopulatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/populators/WagoResultTypePopulatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/populators/WagoSearchResultTypeFunctionsTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/populators/WagoSolrIndexedTypeDirectSearchQueryBuilderPopulatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/populators/WagoSpatialSearchQueryFacetsPopulatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/provider/impl/AbstractWagoMessageResolvingFacetValueDisplayNameProviderTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/provider/impl/DefaultWagoCategorySourceTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/provider/impl/WagoCategoryFacetDisplayNameProviderTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/provider/impl/WagoColorImageProductValueResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/provider/impl/WagoContentCategoryFacetDisplayNameProviderTest.java">
+<error line="3" severity="warning" message="Line is longer than 130 characters (found 141)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/provider/impl/WagoCountryFacetValueDisplayNameProviderTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/provider/impl/WagoDownloadLanguagesNameProviderTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/provider/impl/WagoItemIdentityProviderTest.java">
+<error line="34" column="4" severity="warning" message="Static variable definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+<error line="35" column="4" severity="warning" message="Static variable definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/provider/impl/WagoNoopTopValuesProviderTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/provider/impl/WagoPointOfServiceCompetencesFacetDisplayNameProviderTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/provider/impl/WagoPointOfServiceTypeFacetDisplayNameProviderTest.java">
+<error line="3" severity="warning" message="Line is longer than 130 characters (found 131)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/search/daos/impl/DefaultWagoResultTypeDaoTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/search/impl/DefaultWagoFacetSearchServiceTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/search/impl/DefaultWagoFieldNameTranslatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/search/impl/DefaultWagoResultTypeServiceTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/search/impl/WagoFacetSearchQueryFacetsPopulatorTest.java">
+<error line="58" column="4" severity="warning" message="Variable access definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+<error line="59" column="4" severity="warning" message="Variable access definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+<error line="60" column="4" severity="warning" message="Variable access definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+<error line="61" column="4" severity="warning" message="Variable access definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+<error line="352" column="87" severity="warning" message="Don&apos;t use trailing comments." source="com.puppycrawl.tools.checkstyle.checks.TrailingCommentCheck"/>
+<error line="354" column="87" severity="warning" message="Don&apos;t use trailing comments." source="com.puppycrawl.tools.checkstyle.checks.TrailingCommentCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/search/impl/WagoFacetSearchQueryOperatorTranslatorWrapperTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/search/impl/WagoJsonFacetParamBuilderTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/solr/impl/DefaultWagoSolrIndexServiceTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/solr/impl/WagoSolrCloudSearchProviderTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/solr/impl/WagoSolrDecompoundProviderTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/solr/impl/WagoSolrStoppwordProviderTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/solr/impl/WagoSolrSynonymProviderTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/solrfacetsearch/strategies/DefaultWagoIndexerStrategyTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/sort/impl/DefaultWagoSolrSortVisibilityRuleServiceTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/sort/impl/WagoFilterQueryExistsSolrSortVisibilityRuleEvaluatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearch/testsrc/com/wago/search/sort/impl/WagoSpatialSearchSolrSortVisibilityRuleEvaluatorTest.java">
+</file>
+</checkstyle>

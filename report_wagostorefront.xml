@@ -1,0 +1,1276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.12.4">
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/annotations/WagoRestController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/breadcrumbs/WagoContactDetailPageBreadcrumbBuilder.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/breadcrumbs/WagoContactFilterPageBreadcrumbBuilder.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/breadcrumbs/WagoContentPageBreadcrumbBuilder.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/breadcrumbs/WagoDownloadBreadcrumbBuilder.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/breadcrumbs/WagoFilterCategoryBreadcrumbBuilder.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/breadcrumbs/WagoJobAdvertisementBreadcrumbBuilder.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/breadcrumbs/WagoPOSBreadcrumbBuilder.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/breadcrumbs/WagoProductBreadcrumbBuilder.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/breadcrumbs/WagoSearchBreadcrumbBuilder.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/breadcrumbs/WagoSeminarLikePageBreadcrumbBuilder.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/cdc/ControllerConstants.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/cdc/CookieUtils.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/cdc/DefaultWagoGigyaAutoLoginStrategy.java">
+<error line="109" column="7" severity="info" message="Catching &apos;Exception&apos; is not allowed." source="com.puppycrawl.tools.checkstyle.checks.coding.IllegalCatchCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/cdc/GigyaCookieValueGenerator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/cdc/WagoGigyaBeforeViewHandler.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/checkout/steps/validation/impl/DefaultDeliveryAddressCheckoutStepValidator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/checkout/steps/validation/impl/DefaultDeliveryMethodCheckoutStepValidator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/checkout/steps/validation/impl/DefaultPaymentCheckoutStepValidator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/checkout/steps/validation/impl/DefaultSummaryCheckoutStepValidator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/checkout/steps/validation/impl/ResponsiveDeliveryAddressCheckoutStepValidator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/checkout/steps/validation/impl/ResponsiveDeliveryMethodCheckoutStepValidator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/checkout/steps/validation/impl/ResponsivePaymentCheckoutStepValidator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/checkout/steps/validation/impl/ResponsiveSummaryCheckoutStepValidator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/component/slot/impl/DefaultWagoCMSPageSlotComponentService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/config/WagoDeliveryDateControllerConfig.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/config/WagoEventFormMappingConfig.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/constants/WagoWebConstants.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/constraint/ConstraintConstants.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/constraint/DeliveryDate.java">
+<error line="37" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="44" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/constraint/PostalCode.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/constraint/WagoEqualFields.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/constraint/WagoOneOfMandatory.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/constraint/WagoPassword.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/constraint/WagoValidCaptcha.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/constraint/impl/DeliveryDateValidator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/constraint/impl/PostalCodeValidator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/constraint/impl/WagoEqualFieldsValidator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/constraint/impl/WagoOneOfMandatoryValidator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/constraint/impl/WagoPasswordValidator.java">
+<error line="46" column="17" severity="warning" message="Unnecessary parentheses around identifier &apos;e&apos;." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/constraint/impl/WagoValidCaptchaValidator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/ControllerConstants.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/api/WagoCartApiController.java">
+<error line="75" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/api/WagoDevController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/cms/AbstractCMSComponentController.java">
+<error line="39" column="1" severity="warning" message="Type Javadoc comment is missing @param &lt;T&gt; tag." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocTypeCheck"/>
+<error line="62" column="27" severity="warning" message="Don&apos;t use trailing comments." source="com.puppycrawl.tools.checkstyle.checks.TrailingCommentCheck"/>
+<error line="112" column="29" severity="warning" message="Don&apos;t use trailing comments." source="com.puppycrawl.tools.checkstyle.checks.TrailingCommentCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/cms/CMSPageUrlResolvingController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/cms/CartSuggestionComponentController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/cms/CategoryFeatureComponentController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/cms/DefaultCMSComponentController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/cms/DynamicBannerComponentController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/cms/FooterComponentController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/cms/NavigationBarComponentController.java">
+<error line="42" column="103" severity="warning" message="Don&apos;t use trailing comments." source="com.puppycrawl.tools.checkstyle.checks.TrailingCommentCheck"/>
+<error line="48" column="102" severity="warning" message="Don&apos;t use trailing comments." source="com.puppycrawl.tools.checkstyle.checks.TrailingCommentCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/cms/ProductCarouselComponentController.java">
+<error line="104" column="41" severity="warning" message="Don&apos;t use trailing comments." source="com.puppycrawl.tools.checkstyle.checks.TrailingCommentCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/cms/ProductReferencesComponentController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/cms/PurchasedCategorySuggestionComponentController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/cms/SearchBoxComponentController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/cms/SimpleResponsiveBannerComponentController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/cms/SubCategoryListComponentController.java">
+<error line="45" column="61" severity="warning" message="Don&apos;t use trailing comments." source="com.puppycrawl.tools.checkstyle.checks.TrailingCommentCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/cms/WagoAbstractMainArticleComponentController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/cms/WagoAccountCmsLinkComponentController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/cms/WagoBlogOverviewComponentController.java">
+<error line="66" column="7" severity="info" message="Catching &apos;Exception&apos; is not allowed." source="com.puppycrawl.tools.checkstyle.checks.coding.IllegalCatchCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/cms/WagoCalculationListerComponentController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/cms/WagoCareerListComponentController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/cms/WagoCategoryNavigationComponentController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/cms/WagoCloudCalculationToolComponentController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/cms/WagoColumnComponentController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/cms/WagoContactFormComponentController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/cms/WagoCountrySelectionComponentController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/cms/WagoCrossSellingProductComponentController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/cms/WagoEditorialComponentController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/cms/WagoElementComponentController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/cms/WagoFilterCategoryNavigationComponentController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/cms/WagoFormComponentBase.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/cms/WagoFormComponentController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/cms/WagoFormUSPHeaderComponentController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/cms/WagoGridContactItemComponentController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/cms/WagoGridVideoItemComponentController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/cms/WagoHeaderComponentController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/cms/WagoHeatMapComponentController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/cms/WagoHomePageStageComponentController.java">
+<error line="98" column="32" severity="warning" message="Unnecessary parentheses around return value." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/cms/WagoImageMapComponentController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/cms/WagoInteractiveInfographicComponentController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/cms/WagoLandingStageComponentController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/cms/WagoMainArticleImageFocusComponentController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/cms/WagoMainArticlePushComponentController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/cms/WagoMainArticleTextFocusComponentController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/cms/WagoMainArticleUSPFocusComponentController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/cms/WagoMiniNewsletterRegistrationComponentController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/cms/WagoMiniSamplelistComponentController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/cms/WagoPOSListComponentController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/cms/WagoPowerEfficiencyCalculatorController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/cms/WagoReferenceFilterComponentController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/cms/WagoRegistrationBenefitOverviewComponentController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/cms/WagoSupportComponentController.java">
+<error line="56" column="75" severity="warning" message="Unnecessary parentheses around expression." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/cms/WagoTableComponentController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/cms/WagoTeaserComponentController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/cms/WagoThumbnailNavigationComponentController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/cms/WagoTimelineComponentController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/faq/AbstractWagoFaqPageController.java">
+<error line="77" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="100" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/faq/WagoDefaultFaqPageController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/faq/WagoFaqVoteController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/faq/WagoProductFaqPageController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/integration/BaseIntegrationController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/integration/FraudUpdateController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/integration/MerchantCallbackController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/misc/AbstractWagoContactInformationFormController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/misc/AddToCartController.java">
+<error line="155" severity="warning" message="Line is longer than 130 characters (found 131)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/misc/AnonymousConsentController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/misc/EstimateTaxesController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/misc/FavIconController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/misc/MiniCartController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/misc/MiniWagoComparisonlistController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/misc/MiniWagoSampleListController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/misc/MiniWagoWatchlistController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/misc/ProductController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/misc/SiteMapController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/misc/StoreSessionController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/misc/WagoBingSiteAuthController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/misc/WagoCartValidationController.java">
+<error line="51" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="65" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="87" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/misc/WagoContentSlotController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/misc/WagoCurrentUserController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/misc/WagoDeliveryDateController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/misc/WagoGlobalExceptionHandler.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/misc/WagoGlobalJsonExceptionHandler.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/misc/WagoMessageServiceController.java">
+<error line="47" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/misc/WagoPreviewModeController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/misc/WagoPrintOrderController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/misc/WagoPrintOrderPageController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/misc/WagoProductDatasheetController.java">
+<error line="301" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/misc/WagoProductZipDownloadController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/misc/WagoSamplelListController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/misc/WagoWatchlistController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/CartPageController.java">
+<error line="82" column="3" severity="warning" message="Don&apos;t use trailing comments." source="com.puppycrawl.tools.checkstyle.checks.TrailingCommentCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/DefaultPageController.java">
+<error line="203" column="105" severity="warning" message="Don&apos;t use trailing comments." source="com.puppycrawl.tools.checkstyle.checks.TrailingCommentCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/DefaultWagoCDCEndpointService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/DefaultWagoHtmlCacheHeaderStrategy.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/DownloadPageController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/GuestOrderController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/HomePageController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/LoginPageController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/PreviewContentPageController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/ProductPageController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/TimelineDetailPageController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/UxTemplatePageController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/WagRssFeedController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/WagoAbstractContactDetailPageController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/WagoAbstractOCCController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/WagoAbstractPageController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/WagoAccountOrdersController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/WagoCDCEndpointService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/WagoComparisonlistPageController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/WagoContactDetailPageController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/WagoContactFilterPageController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/WagoContactPageController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/WagoContactPopupController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/WagoCrossreferencesSearchPageController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/WagoDownloadHistoryPageController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/WagoDownloadPageController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/WagoErrorPageController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/WagoFaqFilterPageController.java">
+<error line="40" column="4" severity="warning" message="Variable access definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/WagoGigyaLoginController.java">
+<error line="77" column="7" severity="info" message="Catching &apos;Exception&apos; is not allowed." source="com.puppycrawl.tools.checkstyle.checks.coding.IllegalCatchCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/WagoGuestOrderPageController.java">
+<error line="93" column="192" severity="warning" message="&apos;{&apos; at column 186 should be on a new line." source="com.puppycrawl.tools.checkstyle.checks.blocks.LeftCurlyCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/WagoHtmlCacheHeaderStrategy.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/WagoInstantQuoteController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/WagoJobAdDetailPageController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/WagoJobAdFilterPageController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/WagoNewsletterOptoutPageController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/WagoOptOutController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/WagoProductLineController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/WagoProductPageCustomerController.java">
+<error line="58" severity="warning" message="Unused Javadoc tag." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/WagoQuotePageController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/WagoRetailerCartPageController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/WagoSampleListPageController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/WagoWatchlistPageController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/account/AbstractAccountPageController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/account/AccountPageController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/account/WagoAddressBookController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/account/WagoCustomerArticleNumberPageController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/account/WagoCustomerProjectPageController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/account/WagoGyAccountPageController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/account/WagoUpdatePasswordController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/checkout/AbstractCheckoutController.java">
+<error line="64" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/checkout/CheckoutController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/checkout/SingleStepCheckoutApiController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/checkout/SingleStepCheckoutPageController.java">
+<error line="285" column="7" severity="info" message="Catching &apos;Exception&apos; is not allowed." source="com.puppycrawl.tools.checkstyle.checks.coding.IllegalCatchCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/search/WagoAbstractCategoryPageController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/search/WagoAbstractSearchPageController.java">
+<error line="215" column="76" severity="warning" message="Don&apos;t use trailing comments." source="com.puppycrawl.tools.checkstyle.checks.TrailingCommentCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/search/WagoCategoryPageController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/search/WagoDirectHitSearchData.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/search/WagoEPLANFilterPageController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/search/WagoFilterCategoryPageController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/search/WagoSearchAutocompleteSuggestionsController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/search/WagoSearchEmpyPageController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/search/WagoSearchFlyoutController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/search/WagoSearchPageController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/search/WagoSearchTabState.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/seminar/WagoAbstractEventPageController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/seminar/WagoEventAjaxController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/seminar/detail/WagoEventDetailPageController.java">
+<error line="45" column="53" severity="warning" message="Unnecessary parentheses around lambda value." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/seminar/detail/WagoInfoEventDetailPageController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/seminar/detail/WagoSeminarDetailPageController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/seminar/registration/DefaultWagoEventRegistrationFormFactory.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/seminar/registration/WagoEventRegistrationFormFactory.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/seminar/registration/WagoEventRegistrationFormFactoryFactory.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/seminar/registration/WagoEventRegistrationPageController.java">
+<error line="210" column="49" severity="warning" message="Don&apos;t use trailing comments." source="com.puppycrawl.tools.checkstyle.checks.TrailingCommentCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/seminar/registration/WagoEventRegistrationThankYouPageController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/seminar/registration/WagoInfoEventRegistrationPage.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/seminar/registration/WagoSeminarRegistrationFormFactoryDE.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/pages/seminar/registration/WagoSeminarRegistrationPage.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/util/GlobalMessage.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/util/GlobalMessages.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/util/WagoImagemapPopupComponentModelCoordinateComparator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/controllers/util/WagoInternalRequestService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/dto/WagoCartApiRequest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/dto/WagoCartApiResponse.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/dto/WagoUserInformation.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/filters/AnonymousCheckoutFilter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/filters/BrowseHistoryFilter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/filters/CartRestorationFilter.java">
+<error line="81" column="11" severity="warning" message="Unnecessary parentheses around expression." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+<error line="82" column="16" severity="warning" message="Unnecessary parentheses around expression." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+<error line="112" column="48" severity="warning" message="Unnecessary parentheses around expression." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/filters/CustomerLocationRestorationFilter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/filters/HtmlResponseWrapper.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/filters/HybrisStorefrontContextLoaderListener.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/filters/RequestLoggerFilter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/filters/StaticResourceFilter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/filters/StorefrontFilter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/filters/UrlEncoderFilter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/filters/UrlPathFilter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/filters/WagoCMSLinkShortcutFilter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/filters/WagoCacheTagViewHandler.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/filters/WagoComparisonlistRestorationFilter.java">
+<error line="54" column="19" severity="warning" message="Unnecessary parentheses around expression." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+<error line="69" column="14" severity="warning" message="Unnecessary parentheses around expression." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+<error line="71" column="19" severity="warning" message="Unnecessary parentheses around expression." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/filters/WagoDownloadLinkFilter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/filters/WagoDownloadLinkFilterStateMachine.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/filters/WagoGigyaLoginFilter.java">
+<error line="144" column="16" severity="info" message="Catching &apos;Exception&apos; is not allowed." source="com.puppycrawl.tools.checkstyle.checks.coding.IllegalCatchCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/filters/WagoGigyaLogoutSuccessHandler.java">
+<error line="81" column="17" severity="warning" message="Unnecessary parentheses around expression." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+<error line="82" column="22" severity="warning" message="Unnecessary parentheses around expression." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/filters/WagoGlobalLanguageHeaderFilter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/filters/WagoLegacyMediaFolderFilter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/filters/WagoMessageFilter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/filters/WagoProductLinkFilter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/filters/WagoPublicDownloadFilter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/filters/WagoResponseCodeFilter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/filters/WagoRobotsTxtFilter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/filters/WagoSampleListRestorationFilter.java">
+<error line="57" column="19" severity="warning" message="Unnecessary parentheses around expression." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+<error line="72" column="14" severity="warning" message="Unnecessary parentheses around expression." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+<error line="74" column="19" severity="warning" message="Unnecessary parentheses around expression." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/filters/WagoSessionRepairFilter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/filters/WagoShortLinkFilter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/filters/WagoTimezoneFilter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/filters/WagoURLRedirectFilter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/filters/WagoWatchlistRestorationFilter.java">
+<error line="79" column="11" severity="warning" message="Unnecessary parentheses around expression." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+<error line="81" column="16" severity="warning" message="Unnecessary parentheses around expression." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+<error line="105" column="16" severity="warning" message="Unnecessary parentheses around expression." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/filters/cms/CMSSiteFilter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/filters/cms/WagoContextInformationLoadFilter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/filters/logging/WagoLog4JFilter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/filters/session/WagoDebugSessionPropertyFilter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/filters/util/CookieValueExtractor.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/filters/util/WagoAdminHostFilter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/forms/AbstractOrderForm.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/forms/B2BUnitAddressForm.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/forms/CaptchaSolution.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/forms/ContactForm.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/forms/DatasheetConfigurationForm.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/forms/PlaceOrderForm.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/forms/QuoteForm.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/forms/SelectOption.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/forms/SetProjectForm.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/forms/SortForm.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/forms/WagoAddAllToCartForm.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/forms/WagoAddToCartForm.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/forms/WagoB2BCustomerForm.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/forms/WagoB2BUnitForm.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/forms/WagoContactForm.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/forms/WagoContactVCardForm.java">
+<error line="229" column="7" severity="warning" message="Unused @param tag for &apos;postCode&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/forms/WagoCrossReferenceAssistanceForm.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/forms/WagoGenericContactInformationForm.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/forms/WagoGyUpdateProfileForm.java">
+<error line="30" column="33" severity="warning" message="&apos;;&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+<error line="30" column="34" severity="warning" message="Don&apos;t use trailing comments." source="com.puppycrawl.tools.checkstyle.checks.TrailingCommentCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/forms/WagoLoginForm.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/forms/WagoNewContactForm.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/forms/WagoStoreFinderForm.java">
+<error line="15" column="22" severity="warning" message="Don&apos;t use trailing comments." source="com.puppycrawl.tools.checkstyle.checks.TrailingCommentCheck"/>
+<error line="17" column="22" severity="warning" message="Don&apos;t use trailing comments." source="com.puppycrawl.tools.checkstyle.checks.TrailingCommentCheck"/>
+<error line="19" column="30" severity="warning" message="Don&apos;t use trailing comments." source="com.puppycrawl.tools.checkstyle.checks.TrailingCommentCheck"/>
+<error line="21" column="29" severity="warning" message="Don&apos;t use trailing comments." source="com.puppycrawl.tools.checkstyle.checks.TrailingCommentCheck"/>
+<error line="34" column="37" severity="warning" message="Don&apos;t use trailing comments." source="com.puppycrawl.tools.checkstyle.checks.TrailingCommentCheck"/>
+<error line="44" column="37" severity="warning" message="Don&apos;t use trailing comments." source="com.puppycrawl.tools.checkstyle.checks.TrailingCommentCheck"/>
+<error line="86" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/forms/WagoUpdateProfileForm.java">
+<error line="263" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/forms/WagoZipDownloadForm.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/forms/happening/WagoEventRegistrationForm.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/forms/happening/WagoRegistrationFormConverter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/forms/happening/WagoSeminarEventRegistrationFormDE.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/forms/populators/WagoGenericContactInformationFormDataPopulator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/forms/populators/WagoGenericContactInformationFormPopulator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/forms/uxtemplates/UxTemplatePageForm.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/forms/validation/B2BUnitAddressFormValidator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/forms/validation/WagoB2BCustomerRegistrationValidator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/forms/validation/WagoContactVCardFormValidator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/forms/validation/WagoEventRegistrationFormValidator.java">
+<error line="33" column="64" severity="warning" message="Unnecessary parentheses around expression." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/forms/validation/WagoEventRegistrationState.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/forms/validation/WagoNewContactFormValidator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/forms/validation/WagoQuoteFormValidator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/forms/validation/WagoStoreLocatorFormValidator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/interceptors/BeforeControllerHandler.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/interceptors/BeforeControllerHandlerInterceptor.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/interceptors/BeforeViewHandlerInterceptor.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/interceptors/beforecontroller/DeviceDetectionBeforeControllerHandler.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/interceptors/beforecontroller/RequireHardLoginBeforeControllerHandler.java">
+<error line="85" column="11" severity="warning" message="Unnecessary parentheses around expression." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/interceptors/beforecontroller/SecurityUserCheckBeforeControllerHandler.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/interceptors/beforecontroller/ThemeBeforeControllerHandler.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/interceptors/beforecontroller/WagoWCMSPreviewBeforeControllerHandler.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/interceptors/beforeview/AnalyticsPropertiesBeforeViewHandler.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/interceptors/beforeview/CartRestorationBeforeViewHandler.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/interceptors/beforeview/CmsPageBeforeViewHandler.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/interceptors/beforeview/DebugInfoBeforeViewHandler.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/interceptors/beforeview/GoogleMapsBeforeViewHandler.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/interceptors/beforeview/SeoRobotsFollowBeforeViewHandler.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/interceptors/beforeview/UiThemeResourceBeforeViewHandler.java">
+<error line="102" column="42" severity="warning" message="Unnecessary parentheses around expression." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/interceptors/beforeview/WagoAppstoreMetaDataBeforeViewHandler.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/interceptors/beforeview/WagoBeforeViewHandler.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/interceptors/beforeview/WagoCookieNoticeBeforeViewHandler.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/interceptors/beforeview/WagoDataLayerPropertiesBeforeViewHandler.java">
+<error line="31" column="4" severity="warning" message="Variable access definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/interceptors/beforeview/WagoDevBeforeViewHandler.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/interceptors/beforeview/WagoFriendlyCaptchaConfiguratoinBeforeViewHandler.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/interceptors/beforeview/WagoHybrisAnalyticsBeforeViewHandler.java">
+<error line="56" column="106" severity="warning" message="Don&apos;t use trailing comments." source="com.puppycrawl.tools.checkstyle.checks.TrailingCommentCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/interceptors/beforeview/WagoLandingPageBeforeViewHandler.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/interceptors/beforeview/WagoLanguageSelectionBeforeViewHandler.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/interceptors/beforeview/WagoLastSearchTermBeforeViewHandler.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/interceptors/beforeview/WagoMetadataBeforeViewHandler.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/interceptors/beforeview/WagoOverlineBeforeViewHandler.java">
+<error line="73" column="19" severity="warning" message="Unnecessary parentheses around expression." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/interceptors/beforeview/WagoPreviewModeBeforeViewHandler.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/interceptors/beforeview/WagoProductOverviewUrlBeforeViewHandler.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/interceptors/beforeview/WagoRootCategoryBeforeViewHandler.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/message/WagoMessageSource.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/oci/services/impl/DefaultWagoOciService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/renderer/CMSLinkComponentRenderer.java">
+<error line="91" column="7" severity="info" message="Catching &apos;RuntimeException&apos; is not allowed." source="com.puppycrawl.tools.checkstyle.checks.coding.IllegalCatchCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/renderer/WagoPdfGenerator.java">
+<error line="38" column="7" severity="info" message="Catching &apos;Exception&apos; is not allowed." source="com.puppycrawl.tools.checkstyle.checks.coding.IllegalCatchCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/responseprocessors/ReponseProcessor.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/responseprocessors/impl/DefaultCmsShortcutLinkUrlResponseProcessor.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/responseprocessors/impl/WagoCombineTemplateResponseProcessor.java">
+<error line="76" column="53" severity="warning" message="&apos;{&apos; at column 51 should be on a new line." source="com.puppycrawl.tools.checkstyle.checks.blocks.LeftCurlyCheck"/>
+<error line="81" column="34" severity="warning" message="&apos;+&apos; should be on a new line." source="com.puppycrawl.tools.checkstyle.checks.whitespace.OperatorWrapCheck"/>
+<error line="82" column="33" severity="warning" message="&apos;+&apos; should be on a new line." source="com.puppycrawl.tools.checkstyle.checks.whitespace.OperatorWrapCheck"/>
+<error line="83" column="31" severity="warning" message="&apos;+&apos; should be on a new line." source="com.puppycrawl.tools.checkstyle.checks.whitespace.OperatorWrapCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/security/AcceleratorRememberMeServices.java">
+<error line="270" column="13" severity="warning" message="Unnecessary parentheses around identifier &apos;equalsFunction&apos;." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/security/DefaultAccessDeniedHandler.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/security/ExcludeUrlRequestMatcher.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/security/GUIDAuthenticationSuccessHandler.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/security/GUIDCookieStrategy.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/security/GuestCheckoutCartCleanStrategy.java">
+<error line="30" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/security/LoginAuthenticationFailureHandler.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/security/StorefrontAuthenticationSuccessHandler.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/security/StorefrontLogoutSuccessHandler.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/security/WagoAnonymousAuthenticationFilter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/security/WagoAuthenticationProvider.java">
+<error line="264" column="11" severity="warning" message="Unnecessary parentheses around expression." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/security/WagoAutoLoginStrategy.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/security/WagoLoginUrlAuthenticationEntryPoint.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/security/WagoOciAcceleratorAuthenticationProvider.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/security/WagoRejectUserPreAuthenticationChecks.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/security/WagoWebSecurityExpressionHandler.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/security/WagoWebSecurityExpressionRoot.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/security/cookie/AbstractBaseStoreDependentCookieGenerator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/security/cookie/CartRestoreCookieGenerator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/security/cookie/CustomerLocationCookieGenerator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/security/cookie/EnhancedCookieGenerator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/security/cookie/ServerCookie.java">
+<error line="401" column="26" severity="warning" message="Name &apos;V0_SEPARATOR&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.LocalFinalVariableNameCheck"/>
+<error line="405" column="26" severity="warning" message="Name &apos;HTTP_SEPARATOR&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.LocalFinalVariableNameCheck"/>
+<error line="417" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="464" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="516" column="7" severity="warning" message="Constructor definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/security/cookie/WagoComparisonlistRestoreCookieGenerator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/security/cookie/WagoCookieGenerator.java">
+<error line="27" column="83" severity="warning" message="Don&apos;t use trailing comments." source="com.puppycrawl.tools.checkstyle.checks.TrailingCommentCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/security/cookie/WagoLastSearchTermCookieGenerator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/security/cookie/WagoSampleListRestoreCookieGenerator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/security/cookie/WagoWatchlistRestoreCookieGenerator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/security/impl/B2BCustomerAuthenticationToken.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/security/impl/CookieMergingHttpServletRequestWrapper.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/security/impl/DefaultAutoLoginStrategy.java">
+<error line="59" column="7" severity="info" message="Catching &apos;Exception&apos; is not allowed." source="com.puppycrawl.tools.checkstyle.checks.coding.IllegalCatchCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/security/impl/DefaultCommerceRedirectStrategy.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/security/impl/DefaultGUIDCookieStrategy.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/security/impl/DefaultGuestCheckoutCartCleanStrategy.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/security/impl/DefaultWagoAutoLoginStrategy.java">
+<error line="40" column="7" severity="info" message="Catching &apos;Exception&apos; is not allowed." source="com.puppycrawl.tools.checkstyle.checks.coding.IllegalCatchCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/security/impl/WebHttpSessionRequestCache.java">
+<error line="106" column="34" severity="warning" message="Don&apos;t use trailing comments." source="com.puppycrawl.tools.checkstyle.checks.TrailingCommentCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/serializer/WagoInteractiveInfographicComponentSerializer.java">
+<error line="70" severity="warning" message="Line is longer than 130 characters (found 133)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/services/DefaultWagoCountryFlyoutFacade.java">
+<error line="139" column="10" severity="info" message="Catching &apos;Exception&apos; is not allowed." source="com.puppycrawl.tools.checkstyle.checks.coding.IllegalCatchCheck"/>
+<error line="180" column="69" severity="warning" message="Don&apos;t use trailing comments." source="com.puppycrawl.tools.checkstyle.checks.TrailingCommentCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/services/WagoCmsSmarteditDynamicAttributeService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/services/WagoCountryFlyoutFacade.java">
+<error line="19" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="29" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/tags/Functions.java">
+<error line="495" column="7" severity="info" message="Catching &apos;Exception&apos; is not allowed." source="com.puppycrawl.tools.checkstyle.checks.coding.IllegalCatchCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/tags/PaginationFunction.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/tags/TestAttributeTag.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/tags/TestIdTag.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/tags/WagoAccountServiceUrlFunctions.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/tags/WagoAddressFunctions.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/tags/WagoCacheTag.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/tags/WagoContentSectionFunctions.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/tags/WagoCropTextTag.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/tags/WagoCustomerFunctions.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/tags/WagoDateRangeFormatterTag.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/tags/WagoEvaluatePropertyTag.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/tags/WagoFacetUtils.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/tags/WagoFeatureToogleFunction.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/tags/WagoHexToRGBConverterTag.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/tags/WagoHtmlEntityDecoder.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/tags/WagoProductFunctions.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/tags/WagoStringConversionFunctions.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/tags/WagoToJsonFunction.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/tags/WagoTranslation.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/tags/WagoUrlTag.java">
+<error line="97" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/url/DefaultPreviewDataModelUrlResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/util/CSRFHandlerInterceptor.java">
+<error line="75" column="10" severity="warning" message="Avoid nested blocks." source="com.puppycrawl.tools.checkstyle.checks.blocks.AvoidNestedBlocksCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/util/CSRFRequestDataValueProcessor.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/util/CSRFTokenManager.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/util/DefaultRequestDataProcessor.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/util/DefaultWagoPageTitleResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/util/RequestContextRestrictionConverter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/util/TextUtils.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/util/WagoContactFormHelper.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/util/WagoCountryOptionsProvider.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/util/WagoFormCleanupUtils.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/util/WagoFormHelper.java">
+<error line="50" column="14" severity="warning" message="Unnecessary parentheses around return value." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/util/WagoHtmlCleanupUtils.java">
+<error line="29" column="14" severity="warning" message="Unnecessary parentheses around expression." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+<error line="30" column="19" severity="warning" message="Unnecessary parentheses around expression." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+<error line="31" column="19" severity="warning" message="Unnecessary parentheses around expression." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/util/WagoModelUtils.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/util/WagoNonDeliveryDatesFormatUtils.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/util/WagoObjectMapperFactory.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/util/WagoPageTitleResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/util/WagoResponseUtils.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/util/WagoStateOptionsProvider.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/util/WagoTitleOptionsProvider.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/util/WagoUrlUtils.java">
+<error line="51" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="182" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/util/occ/WagoOccRequest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/util/occ/WagoOccRequestBuilder.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/util/search/WagoExtendedCatchwordUtils.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/util/search/WagoProductSearchPageDataEncoderUtils.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/util/search/WagoSearchConstants.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/util/search/WagoSearchRedirectAttributesUtils.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/util/search/WagoSearchResultTypeUtils.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/util/search/WagoSearchTabStateUtils.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/web/i18n/StoreSessionLocaleResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/web/mvc/B2BAcceleratorUrlPathHelper.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/web/mvc/RequestMappingHandlerAdapterConfigurer.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/web/theme/CustomResourceBundleThemeSource.java">
+<error line="128" column="31" severity="warning" message="Unnecessary parentheses around assignment right-hand side." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+<error line="151" column="32" severity="warning" message="Unnecessary parentheses around assignment right-hand side." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+<error line="183" column="10" severity="warning" message="Avoid nested blocks." source="com.puppycrawl.tools.checkstyle.checks.blocks.AvoidNestedBlocksCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/web/theme/StorefrontResourceBundleSource.java">
+<error line="203" column="10" severity="warning" message="Avoid nested blocks." source="com.puppycrawl.tools.checkstyle.checks.blocks.AvoidNestedBlocksCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/web/theme/UiExperienceSiteThemeResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/web/view/WagoCapturingRequestWrapper.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/web/view/WagoITextUserAgent.java">
+<error line="78" column="7" severity="info" message="Catching &apos;Exception&apos; is not allowed." source="com.puppycrawl.tools.checkstyle.checks.coding.IllegalCatchCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/web/view/WagoPDFView.java">
+<error line="270" column="10" severity="info" message="Catching &apos;Exception&apos; is not allowed." source="com.puppycrawl.tools.checkstyle.checks.coding.IllegalCatchCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/web/view/WagoPDFViewResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/web/view/WagoRemoveMetadataPDFCreationListener.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/web/view/WagoViewResolver.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/web/view/renderer/WagoMediaReplacedElementFactory.java">
+<error line="214" column="10" severity="info" message="Catching &apos;Exception&apos; is not allowed." source="com.puppycrawl.tools.checkstyle.checks.coding.IllegalCatchCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/web/wrappers/RemoveEncodingHttpServletRequestWrapper.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/web/wrappers/UrlEncodeHttpRequestWrapper.java">
+<error line="71" column="12" severity="warning" message="Unnecessary parentheses around string &quot;/&quot;." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/wforms/WagoDynamicConstraintValidator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/wforms/WagoFormBlackListConstraintValidator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/wforms/WagoFormFieldPostalcodeConstraintValidator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/wforms/WagoFormFieldRegexConstraintValidator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/wforms/WagoFormFieldSizeValidator.java">
+<error line="46" column="17" severity="warning" message="Unnecessary parentheses around return value." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/wforms/WagoGenericFormValidator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/wforms/controllers/WagoGenericFormController.java">
+<error line="100" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="130" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/src/com/wago/storefront/wforms/controllers/WagoGenericFormThankyouController.java">
+<error line="43" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/breadcrumbs/WagoContentPageBreadcrumbBuilderTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/breadcrumbs/WagoDownloadBreadcrumbBuilderTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/breadcrumbs/WagoFilterCategoryBreadcrumbBuilderTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/breadcrumbs/WagoProductBreadcrumbBuilderTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/breadcrumbs/WagoSearchBreadcrumbBuilderTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/breadcrumbs/WagoSeminarLikePageBreadcrumbBuilderTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/component/slot/impl/DefaultWagoCMSPageSlotComponentServiceTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/constraint/impl/DeliveryDateValidatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/constraint/impl/PostalCodeValidatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/constraint/impl/TestPostalCodeValidation.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/constraint/impl/WagoOneOfMandatoryValidatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/constraint/impl/WagoValidCaptchaValidatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/controllers/AbstractPageControllerMockConfiguration.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/controllers/cms/CartSuggestionComponentControllerTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/controllers/cms/CategoryFeatureComponentControllerTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/controllers/cms/DefaultCMSComponentControllerTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/controllers/cms/FooterComponentControllerTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/controllers/cms/NavigationBarComponentControllerTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/controllers/cms/ProductCarouselComponentControllerTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/controllers/cms/PurchasedCategorySuggestionComponentControllerTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/controllers/cms/WagoAbstractMainArticleComponentControllerTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/controllers/cms/WagoColumnComponentControllerTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/controllers/cms/WagoElementComponentControllerTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/controllers/cms/WagoFormComponentBaseTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/controllers/cms/WagoFormUSPHeaderComponentControllerTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/controllers/cms/WagoImageMapComponentControllerTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/controllers/cms/WagoPowerEfficiencyCalculatorControllerTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/controllers/cms/WagoTableComponentControllerTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/controllers/misc/WagoCartValidationControllerTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/controllers/pages/CartPageControllerTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/controllers/pages/DefaultPageControllerTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/controllers/pages/WagoContactFilterPageControllerTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/controllers/pages/WagoFaqFilterPageControllerTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/controllers/pages/WagoJobAdFilterPageControllerTest.java">
+<error line="87" column="4" severity="warning" message="Each variable declaration must be in its own statement." source="com.puppycrawl.tools.checkstyle.checks.coding.MultipleVariableDeclarationsCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/controllers/pages/search/WagoSearchPageControllerTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/controllers/pages/seminar/WagoAbstractEventPageControllerTest.java">
+<error line="58" column="39" severity="warning" message="Unnecessary parentheses around string &quot;&lt;i&gt;&quot;." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/controllers/pages/seminar/registration/WagoEventRegistrationFormFactoryFactoryTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/controllers/util/WagoImagemapPopupComponentModelCoordinateComparatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/filters/BrowseHistoryFilterTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/filters/CartRestorationFilterTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/filters/CustomerLocationRestorationFilterTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/filters/StorefrontFilterTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/filters/WagoCacheTagViewHandlerTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/filters/WagoDownloadLinkFilterStateMachineTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/filters/WagoDownloadLinkFilterTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/filters/WagoGigyaLoginFilterTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/filters/WagoLegacyMediaFolderFilterTest.java">
+<error line="67" column="33" severity="warning" message="Unnecessary parentheses around lambda value." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+<error line="86" column="28" severity="warning" message="Unnecessary parentheses around lambda value." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/filters/WagoProductLinkFilterTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/filters/WagoPublicDownloadFilterTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/filters/WagoRobotsTxtFilterTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/filters/WagoSampleListRestorationFilterTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/filters/WagoSessionRepairFilterTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/filters/WagoShortLinkFilterTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/filters/WagoURLRedirectFilterTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/filters/cms/CMSSiteFilterTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/filters/logging/WagoLog4JFilterTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/forms/validation/WagoContactVCardFormValidatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/forms/validation/WagoEventRegistrationFormValidatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/forms/validation/WagoStoreLocatorFormValidatorTest.java">
+<error line="51" column="4" severity="warning" message="Static variable definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+<error line="52" column="4" severity="warning" message="Static variable definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+<error line="53" column="4" severity="warning" message="Static variable definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/interceptors/BeforeViewHandlerInterceptorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/interceptors/beforecontroller/RequireHardLoginBeforeControllerHandlerTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/interceptors/beforecontroller/SecurityUserCheckBeforeControllerHandlerTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/interceptors/beforecontroller/WagoWCMSPreviewBeforeControllerHandlerTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/interceptors/beforeview/CartRestorationBeforeViewHandlerTest.java">
+<error line="98" column="7" severity="info" message="Catching &apos;Exception&apos; is not allowed." source="com.puppycrawl.tools.checkstyle.checks.coding.IllegalCatchCheck"/>
+<error line="115" column="7" severity="info" message="Catching &apos;Exception&apos; is not allowed." source="com.puppycrawl.tools.checkstyle.checks.coding.IllegalCatchCheck"/>
+<error line="135" column="7" severity="info" message="Catching &apos;Exception&apos; is not allowed." source="com.puppycrawl.tools.checkstyle.checks.coding.IllegalCatchCheck"/>
+<error line="153" column="7" severity="info" message="Catching &apos;Exception&apos; is not allowed." source="com.puppycrawl.tools.checkstyle.checks.coding.IllegalCatchCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/interceptors/beforeview/SeoRobotsFollowBeforeViewHandlerTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/interceptors/beforeview/WagoAppstoreMetaDataBeforeViewHandlerTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/interceptors/beforeview/WagoLanguageSelectionBeforeViewHandlerTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/interceptors/beforeview/WagoLastSearchTermBeforeViewHandlerTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/interceptors/beforeview/WagoMetadataBeforeViewHandlerTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/interceptors/beforeview/WagoOverlineBeforeViewHandlerTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/interceptors/beforeview/WagoPreviewModeBeforeViewHandlerTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/message/WagoMessageSourceTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/renderer/CMSLinkComponentRendererTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/responseprocessors/impl/WagoCombineTemplateResponseProcessorTest.java">
+<error line="19" severity="warning" message="Line is longer than 130 characters (found 149)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="31" severity="warning" message="Line is longer than 130 characters (found 149)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="41" column="126" severity="warning" message="&apos;+&apos; should be on a new line." source="com.puppycrawl.tools.checkstyle.checks.whitespace.OperatorWrapCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/security/AcceleratorRememberMeServicesTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/security/StorefrontAuthenticationSuccessHandlerTest.java">
+<error line="83" column="4" severity="warning" message="Static variable definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+<error line="84" column="4" severity="warning" message="Static variable definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+<error line="85" column="4" severity="warning" message="Static variable definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/security/WagoAnonymousAuthenticationFilterTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/security/WagoAuthenticationProviderTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/security/WagoLoginUrlAuthenticationEntryPointTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/security/WagoWebSecurityExpressionHandlerTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/security/WagoWebSecurityExpressionRootTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/security/cookie/EnhancedCookieGeneratorTest.java">
+<error line="105" column="41" severity="warning" message="&apos;;&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+<error line="105" column="42" severity="warning" message="Don&apos;t use trailing comments." source="com.puppycrawl.tools.checkstyle.checks.TrailingCommentCheck"/>
+<error line="115" column="41" severity="warning" message="&apos;;&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+<error line="115" column="42" severity="warning" message="Don&apos;t use trailing comments." source="com.puppycrawl.tools.checkstyle.checks.TrailingCommentCheck"/>
+<error line="132" column="41" severity="warning" message="&apos;;&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+<error line="132" column="42" severity="warning" message="Don&apos;t use trailing comments." source="com.puppycrawl.tools.checkstyle.checks.TrailingCommentCheck"/>
+<error line="154" column="40" severity="warning" message="&apos;;&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+<error line="154" column="41" severity="warning" message="Don&apos;t use trailing comments." source="com.puppycrawl.tools.checkstyle.checks.TrailingCommentCheck"/>
+<error line="173" column="40" severity="warning" message="&apos;;&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+<error line="173" column="41" severity="warning" message="Don&apos;t use trailing comments." source="com.puppycrawl.tools.checkstyle.checks.TrailingCommentCheck"/>
+<error line="195" column="40" severity="warning" message="&apos;;&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+<error line="195" column="41" severity="warning" message="Don&apos;t use trailing comments." source="com.puppycrawl.tools.checkstyle.checks.TrailingCommentCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/security/cookie/WagoComparisonlistRestoreCookieGeneratorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/security/cookie/WagoCookieGeneratorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/security/impl/DefaultGUIDCookieStrategyTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/security/impl/DefaultGuestCheckoutCartCleanStrategyTest.java">
+<error line="58" column="4" severity="warning" message="Variable access definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+<error line="65" column="37" severity="warning" message="Don&apos;t use trailing comments." source="com.puppycrawl.tools.checkstyle.checks.TrailingCommentCheck"/>
+<error line="67" column="37" severity="warning" message="Don&apos;t use trailing comments." source="com.puppycrawl.tools.checkstyle.checks.TrailingCommentCheck"/>
+<error line="69" column="37" severity="warning" message="Don&apos;t use trailing comments." source="com.puppycrawl.tools.checkstyle.checks.TrailingCommentCheck"/>
+<error line="71" column="36" severity="warning" message="Don&apos;t use trailing comments." source="com.puppycrawl.tools.checkstyle.checks.TrailingCommentCheck"/>
+<error line="73" column="41" severity="warning" message="Don&apos;t use trailing comments." source="com.puppycrawl.tools.checkstyle.checks.TrailingCommentCheck"/>
+<error line="102" severity="warning" message="Line is longer than 130 characters (found 170)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="178" severity="warning" message="Line is longer than 130 characters (found 131)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="182" severity="warning" message="Line is longer than 130 characters (found 131)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="186" severity="warning" message="Line is longer than 130 characters (found 131)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/security/impl/DefaultWagoAutoLoginStrategyTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/security/impl/WebHttpSessionRequestCacheUnitTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/serializer/WagoInteractiveInfographicComponentSerializerTest.java">
+<error line="152" column="140" severity="warning" message="&apos;{&apos; at column 138 should be on a new line." source="com.puppycrawl.tools.checkstyle.checks.blocks.LeftCurlyCheck"/>
+<error line="154" column="71" severity="warning" message="&apos;{&apos; at column 67 should be on a new line." source="com.puppycrawl.tools.checkstyle.checks.blocks.LeftCurlyCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/services/DefaultWagoCountryFlyoutFacadeTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/tags/PaginationFunctionTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/tags/WagoAddressFunctionsTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/tags/WagoCacheTagTest.java">
+<error line="146" severity="warning" message="Line is longer than 130 characters (found 167)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/tags/WagoContentSectionFunctionsTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/tags/WagoFacetUtilsTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/tags/WagoFeatureToogleFunctionTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/tags/WagoHtmlEntityDecoderTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/tags/WagoProductFunctionsTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/tags/WagoStringConversionFunctionsTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/util/MetaSanitizerUtilTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/util/RequestContextRestrictionConverterTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/util/WagoContactFormHelperTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/util/WagoCountryOptionsProviderTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/util/WagoFormCleanupUtilsTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/util/WagoModelUtilsTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/util/WagoNonDeliveryDatesFormatUtilsTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/util/WagoUrlUtilsTest.java">
+<error line="90" severity="warning" message="Line is longer than 130 characters (found 322)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/util/occ/WagoOccRequestBuilderTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/util/search/WagoProductSearchPageDataEncoderUtilsTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/util/search/WagoSearchRedirectAttributesUtilsTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/util/search/WagoSearchResultTypeUtilsTest.java">
+<error line="102" column="31" severity="warning" message="Throwing &apos;Throwable&apos; is not allowed." source="com.puppycrawl.tools.checkstyle.checks.coding.IllegalThrowsCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/util/search/WagoSearchTabStateUtilsTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/web/view/WagoViewResolverTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/web/view/renderer/WagoMediaReplacedElementFactoryTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/wforms/WagoFormBlackListConstraintValidatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/wforms/WagoFormFieldPostalcodeConstraintValidatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/wforms/WagoGenericFormValidatorTest.java">
+<error line="172" column="7" severity="warning" message="Static variable definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/wforms/controllers/AlwaysFailingValidator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/testsrc/com/wago/storefront/wforms/controllers/WagoGenericFormControllerTest.java">
+</file>
+</checkstyle>

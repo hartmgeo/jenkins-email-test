@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd-cpd>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagogigyafacades/src/com/wago/gigyafacades/WagogigyafacadesStandalone.java"
+         totalNumberOfTokens="90"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagogigyafacades/src/com/wago/gigyafacades/constants/WagogigyafacadesConstants.java"
+         totalNumberOfTokens="28"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagogigyafacades/src/com/wago/gigyafacades/login/DefaultWagoGigyaLoginFacade.java"
+         totalNumberOfTokens="1008"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagogigyafacades/src/com/wago/gigyafacades/service/WagogigyafacadesService.java"
+         totalNumberOfTokens="17"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagogigyafacades/src/com/wago/gigyafacades/service/impl/DefaultWagogigyafacadesService.java"
+         totalNumberOfTokens="292"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagogigyafacades/src/com/wago/gigyafacades/setup/WagogigyafacadesSystemSetup.java"
+         totalNumberOfTokens="64"/>
+</pmd-cpd>

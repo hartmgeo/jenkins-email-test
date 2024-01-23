@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.12.4">
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoymktbackoffice/backoffice/src/com/wago/ymkt/backoffice/services/WagoymktbackofficeService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoymktbackoffice/src/com/wago/ymkt/backoffice/constants/WagoymktbackofficeConstants.java">
+</file>
+</checkstyle>

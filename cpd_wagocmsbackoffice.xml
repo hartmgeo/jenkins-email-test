@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd-cpd>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmsbackoffice/src/com/wago/cms/backoffice/constants/WagocmsbackofficeConstants.java"
+         totalNumberOfTokens="21"/>
+</pmd-cpd>

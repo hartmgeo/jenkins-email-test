@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd-cpd>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/src/com/wago/erp/WagoErpUtils.java"
+         totalNumberOfTokens="63"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/src/com/wago/erp/client/WagoErpClientInterceptor.java"
+         totalNumberOfTokens="589"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/src/com/wago/erp/client/WagoErpRestClient.java"
+         totalNumberOfTokens="22"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/src/com/wago/erp/client/WagoErpSoapClient.java"
+         totalNumberOfTokens="26"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/src/com/wago/erp/client/WagoErpWebServiceClient.java"
+         totalNumberOfTokens="22"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/src/com/wago/erp/client/converters/populators/WagoAbstractEShopOrderRequestPopulator.java"
+         totalNumberOfTokens="328"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/src/com/wago/erp/client/converters/populators/WagoAbstractEShopOrderRequestPositionPopulator.java"
+         totalNumberOfTokens="471"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/src/com/wago/erp/client/converters/populators/WagoAbstractOrderEShopOrderRequestPopulator.java"
+         totalNumberOfTokens="144"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/src/com/wago/erp/client/converters/populators/WagoEntryEShopPositionenPopulator.java"
+         totalNumberOfTokens="91"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/src/com/wago/erp/client/converters/populators/WagoProductEShopOrderRequestPopulator.java"
+         totalNumberOfTokens="264"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/src/com/wago/erp/client/converters/populators/WagoProductEShopPositionenPopulator.java"
+         totalNumberOfTokens="65"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/src/com/wago/erp/client/impl/DefaultWagoErpRestClient.java"
+         totalNumberOfTokens="208"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/src/com/wago/erp/client/impl/DefaultWagoErpSoapClient.java"
+         totalNumberOfTokens="181"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/src/com/wago/erp/client/impl/DefaultWagoErpWebServiceClient.java"
+         totalNumberOfTokens="159"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/src/com/wago/erp/client/impl/MockWagoErpRestClient.java"
+         totalNumberOfTokens="1856"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/src/com/wago/erp/client/impl/MockWagoErpWebServiceClient.java"
+         totalNumberOfTokens="1374"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/src/com/wago/erp/client/impl/WagoCircuitBreakingErpWebServiceClientDecorator.java"
+         totalNumberOfTokens="116"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/src/com/wago/erp/constants/WagoErpConstants.java"
+         totalNumberOfTokens="25"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/src/com/wago/erp/impl/DefaultWagoCommercePriceService.java"
+         totalNumberOfTokens="75"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/src/com/wago/erp/integration/WagoFireOnceTrrigger.java"
+         totalNumberOfTokens="48"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/src/com/wago/erp/integration/file/filters/WagoNoDirectoriesFileListFilter.java"
+         totalNumberOfTokens="29"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/src/com/wago/erp/integration/file/filters/WagoNoEmptyFileListFilter.java"
+         totalNumberOfTokens="30"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/src/com/wago/erp/integration/file/filters/WagoNoErrorFileFlagFileListFilter.java"
+         totalNumberOfTokens="66"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/src/com/wago/erp/integration/transformer/WagoBodyToWagoErpOrderTransformer.java"
+         totalNumberOfTokens="551"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/src/com/wago/erp/integration/transformer/WagoOrderToERPIDocTransformer.java"
+         totalNumberOfTokens="1157"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/src/com/wago/erp/order/WagoErpOrderService.java"
+         totalNumberOfTokens="14"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/src/com/wago/erp/order/converters/populators/WagoAbstractErpOrderDetailPopulator.java"
+         totalNumberOfTokens="1850"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/src/com/wago/erp/order/converters/populators/WagoErpConfirmedOrderEntryPopulator.java"
+         totalNumberOfTokens="101"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/src/com/wago/erp/order/converters/populators/WagoErpConsignmentPopulator.java"
+         totalNumberOfTokens="271"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/src/com/wago/erp/order/converters/populators/WagoErpOrderDeliveryAddressReversePopulator.java"
+         totalNumberOfTokens="211"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/src/com/wago/erp/order/converters/populators/WagoErpOrderDetailPopulator.java"
+         totalNumberOfTokens="272"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/src/com/wago/erp/order/converters/populators/WagoErpOrderEntryPopulator.java"
+         totalNumberOfTokens="668"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/src/com/wago/erp/order/converters/populators/WagoErpOrderEntryProductPopulator.java"
+         totalNumberOfTokens="305"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/src/com/wago/erp/order/converters/populators/WagoErpOrderReversePopulator.java"
+         totalNumberOfTokens="281"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/src/com/wago/erp/order/converters/populators/WagoErpSurchargePopulator.java"
+         totalNumberOfTokens="214"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/src/com/wago/erp/order/converters/populators/WagoGuestErpOrderDetailPopulator.java"
+         totalNumberOfTokens="414"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/src/com/wago/erp/order/impl/DefaultWagoErpOrderService.java"
+         totalNumberOfTokens="72"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/src/com/wago/erp/order/strategies/calculation/impl/DefaultWagoFindPriceStrategy.java"
+         totalNumberOfTokens="2688"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/src/com/wago/erp/setup/WagoErpSystemSetup.java"
+         totalNumberOfTokens="125"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/src/com/wago/erp/setup/WagoSampleErpOrdersImportService.java"
+         totalNumberOfTokens="319"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/src/com/wago/erp/user/WagoSAPAccountManagerService.java"
+         totalNumberOfTokens="253"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/testsrc/com/wago/erp/client/WagoErpSoapClientInterceptorTest.java"
+         totalNumberOfTokens="144"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/testsrc/com/wago/erp/client/WagoErpWebServiceClientInterceptorTest.java"
+         totalNumberOfTokens="144"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/testsrc/com/wago/erp/client/converters/populators/WagoAbstractOrderEShopOrderRequestPopulatorTest.java"
+         totalNumberOfTokens="719"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/testsrc/com/wago/erp/client/converters/populators/WagoEntryEShopPositionenPopulatorTest.java"
+         totalNumberOfTokens="235"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/testsrc/com/wago/erp/client/converters/populators/WagoProductEShopOrderRequestPopulatorTest.java"
+         totalNumberOfTokens="680"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/testsrc/com/wago/erp/client/converters/populators/WagoProductEShopPositionenPopulatorTest.java"
+         totalNumberOfTokens="364"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/testsrc/com/wago/erp/client/impl/DefaultWagoErpRestClientTest.java"
+         totalNumberOfTokens="354"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/testsrc/com/wago/erp/client/impl/DefaultWagoErpSoapClientTest.java"
+         totalNumberOfTokens="253"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/testsrc/com/wago/erp/client/impl/DefaultWagoErpWebServiceClientTest.java"
+         totalNumberOfTokens="223"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/testsrc/com/wago/erp/impl/DefaultWagoCommercePriceServiceTest.java"
+         totalNumberOfTokens="168"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/testsrc/com/wago/erp/integration/file/filters/WagoNoDirectoriesFileListFilterTest.java"
+         totalNumberOfTokens="123"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/testsrc/com/wago/erp/integration/transformer/WagoBodyToWagoErpOrderTransformerTest.java"
+         totalNumberOfTokens="931"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/testsrc/com/wago/erp/integration/transformer/WagoMockOrderData.java"
+         totalNumberOfTokens="943"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/testsrc/com/wago/erp/integration/transformer/WagoOrderToERPIDocTransformerIntegrationTest.java"
+         totalNumberOfTokens="1062"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/testsrc/com/wago/erp/integration/transformer/WagoOrderToERPIDocTransformerTest.java"
+         totalNumberOfTokens="786"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/testsrc/com/wago/erp/order/converters/populators/WagoErpConfirmedOrderEntryPopulatorTest.java"
+         totalNumberOfTokens="195"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/testsrc/com/wago/erp/order/converters/populators/WagoErpConsignmentPopulatorTest.java"
+         totalNumberOfTokens="414"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/testsrc/com/wago/erp/order/converters/populators/WagoErpOrderDeliveryAddressReversePopulatorTest.java"
+         totalNumberOfTokens="398"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/testsrc/com/wago/erp/order/converters/populators/WagoErpOrderDetailPopulatorTest.java"
+         totalNumberOfTokens="1929"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/testsrc/com/wago/erp/order/converters/populators/WagoErpOrderEntryPopulatorTest.java"
+         totalNumberOfTokens="1218"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/testsrc/com/wago/erp/order/converters/populators/WagoErpOrderEntryProductPopulatorTest.java"
+         totalNumberOfTokens="300"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/testsrc/com/wago/erp/order/converters/populators/WagoErpOrderReversePopulatorTest.java"
+         totalNumberOfTokens="486"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/testsrc/com/wago/erp/order/converters/populators/WagoErpSurchargePopulatorTest.java"
+         totalNumberOfTokens="285"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/testsrc/com/wago/erp/order/impl/DefaultWagoErpOrderServiceTest.java"
+         totalNumberOfTokens="110"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/testsrc/com/wago/erp/order/strategies/calculation/impl/DefaultWagoFindPriceStrategyTest.java"
+         totalNumberOfTokens="2208"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/testsrc/com/wago/erp/user/WagoSAPAccountManagerServiceTest.java"
+         totalNumberOfTokens="355"/>
+   <duplication lines="21" tokens="175">
+      <file begintoken="3188" column="3" endcolumn="35" endline="127" endtoken="3362"
+            line="107"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/src/com/wago/erp/client/impl/MockWagoErpRestClient.java"/>
+      <file begintoken="3548" column="3" endcolumn="35" endline="177" endtoken="3722"
+            line="157"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/src/com/wago/erp/client/impl/MockWagoErpRestClient.java"/>
+      <codefragment><![CDATA[		matnr.getItem().addAll(Arrays.asList(items));
+
+		final ZKSTN orderSurcharge = new ZKSTN();
+		orderSurcharge.setTEXT("Mindermengenzuschlag");
+		orderSurcharge.setPREISGES("123.45");
+		orderSurcharge.setWAERS("EUR");
+
+		final ZKSTN deliverySurcharge = new ZKSTN();
+		deliverySurcharge.setTEXT("Versandkosten");
+		deliverySurcharge.setPREISGES("543.21");
+		deliverySurcharge.setWAERS("EUR");
+
+		final ZKSTNHEAD surcharges = new ZKSTNHEAD();
+		surcharges.getZKSTN().addAll(Arrays.asList(orderSurcharge, deliverySurcharge));
+
+		final com.wago.erp.jaxb.generated.order.detail.response.Body response = new com.wago.erp.jaxb.generated.order.detail.response.Body();
+		response.setKUNNR(request.getKUNNR());
+		response.setSPRACH(request.getSPRACH());
+		response.setSUMMEGES(String.valueOf(12345.67d));
+		response.setMATNR(matnr);
+		response.setZKSTNHEAD(surcharges);]]></codefragment>
+   </duplication>
+   <duplication lines="42" tokens="160">
+      <file begintoken="18774" column="56" endcolumn="2" endline="96" endtoken="18933"
+            line="55"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/testsrc/com/wago/erp/client/impl/DefaultWagoErpSoapClientTest.java"/>
+      <file begintoken="19022" column="63" endcolumn="2" endline="95" endtoken="19181"
+            line="54"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/testsrc/com/wago/erp/client/impl/DefaultWagoErpWebServiceClientTest.java"/>
+      <codefragment><![CDATA[		defaultWagoEShopClient.setObjectFactory(objectFactory);
+		defaultWagoEShopClient.setWebServiceTemplate(webServiceTemplate);
+
+		when(webServiceTemplate.marshalSendAndReceive(request)).thenReturn(response);
+	}
+
+	/**
+	 * Test method for {@link DefaultWagoErpSoapClient#sendAndReceive(java.lang.Object, java.lang.Class)}.
+	 */
+	@Test
+	public void testSendAndReceive()
+	{
+		when(response.getValue()).thenReturn(eShopResponse);
+
+		final DTORDERSESHOPResponse result = defaultWagoEShopClient.sendAndReceive(request, DTORDERSESHOPResponse.class);
+
+		assertEquals(eShopResponse, result);
+	}
+
+	/**
+	 * Test method for {@link DefaultWagoErpSoapClient#sendAndReceive(java.lang.Object, java.lang.Class)}.
+	 */
+	@Test(expected = WebServiceFaultException.class)
+	public void testSendAndReceiveNullResponse()
+	{
+		when(webServiceTemplate.marshalSendAndReceive(request)).thenReturn(null);
+
+		defaultWagoEShopClient.sendAndReceive(request, DTORDERSESHOPResponse.class);
+	}
+
+	/**
+	 * Test method for {@link DefaultWagoErpSoapClient#sendAndReceive(java.lang.Object, java.lang.Class)}.
+	 */
+	@Test(expected = WebServiceFaultException.class)
+	public void testSendAndReceiveUnexpectedResponseClass()
+	{
+		when(response.getValue()).thenReturn(new ExchangeLogData());
+
+		when(webServiceTemplate.marshalSendAndReceive(request)).thenReturn(response);
+
+		defaultWagoEShopClient.sendAndReceive(request, DTORDERSESHOPResponse.class);
+	}]]></codefragment>
+   </duplication>
+   <duplication lines="31" tokens="140">
+      <file begintoken="2317" column="2" endcolumn="2" endline="60" endtoken="2456"
+            line="30"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/src/com/wago/erp/client/impl/DefaultWagoErpSoapClient.java"/>
+      <file begintoken="2496" column="2" endcolumn="2" endline="56" endtoken="2635"
+            line="26"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/src/com/wago/erp/client/impl/DefaultWagoErpWebServiceClient.java"/>
+      <codefragment><![CDATA[	@Override
+	@SuppressWarnings("unchecked")
+	public <T> T sendAndReceive(final Object request, final Class<T> returnType)
+	{
+		final Object response = webServiceTemplate.marshalSendAndReceive(request);
+
+		if (response instanceof JAXBElement && returnType.isAssignableFrom(((JAXBElement<T>) response).getValue().getClass()))
+		{
+			return ((JAXBElement<T>) response).getValue();
+		}
+		else
+		{
+			if (response == null)
+			{
+				throw new WebServiceFaultException("web-service response was null");
+			}
+
+			throw new WebServiceFaultException("web-service response was not instance of [" + returnType.getName() + "] but "
+					+ response.getClass().getCanonicalName());
+		}
+	}
+
+	/**
+	 * @param webServiceTemplate
+	 *           the webServiceTemplate to set
+	 */
+	@Required
+	public void setWebServiceTemplate(final WebServiceTemplate webServiceTemplate)
+	{
+		this.webServiceTemplate = webServiceTemplate;
+	}]]></codefragment>
+   </duplication>
+   <duplication lines="56" tokens="130">
+      <file begintoken="16073" column="1" endcolumn="1" endline="81" endtoken="16202"
+            line="26"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/testsrc/com/wago/erp/client/WagoErpSoapClientInterceptorTest.java"/>
+      <file begintoken="16218" column="1" endcolumn="1" endline="81" endtoken="16347"
+            line="26"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/testsrc/com/wago/erp/client/WagoErpWebServiceClientInterceptorTest.java"/>
+      <codefragment><![CDATA[{
+	private WagoErpClientInterceptor wagoErpClientInterceptor;
+
+	@Mock
+	private MessageContext messageContext;
+	@Mock
+	private WebServiceMessage responseWebServiceMessage;
+	@Mock
+	private WebServiceMessage requestWebServiceMessage;
+
+	/**
+	 * @throws java.lang.Exception
+	 */
+	@Before
+	public void setup()
+	{
+		wagoErpClientInterceptor = new WagoErpClientInterceptor();
+
+		when(messageContext.getRequest()).thenReturn(requestWebServiceMessage);
+		when(messageContext.getResponse()).thenReturn(responseWebServiceMessage);
+	}
+
+	/**
+	 * Test method for {@link WagoErpClientInterceptor#handleFault(org.springframework.ws.context.MessageContext)} .
+	 */
+	@Test
+	public void testHandleFault()
+	{
+		final boolean result = wagoErpClientInterceptor.handleFault(messageContext);
+
+		assertTrue(result);
+	}
+
+	/**
+	 * Test method for {@link WagoErpClientInterceptor#handleRequest(org.springframework.ws.context.MessageContext)} .
+	 */
+	@Test
+	public void testHandleRequest()
+	{
+		final boolean result = wagoErpClientInterceptor.handleRequest(messageContext);
+
+		assertTrue(result);
+	}
+
+	/**
+	 * Test method for {@link WagoErpClientInterceptor#handleResponse(org.springframework.ws.context.MessageContext)} .
+	 */
+	@Test
+	public void testHandleResponse()
+	{
+		final boolean result = wagoErpClientInterceptor.handleResponse(messageContext);
+
+		assertTrue(result);
+	}
+
+}]]></codefragment>
+   </duplication>
+   <duplication lines="13" tokens="109">
+      <file begintoken="25704" column="54" endcolumn="12" endline="317" endtoken="25812"
+            line="305"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/testsrc/com/wago/erp/order/converters/populators/WagoErpOrderDetailPopulatorTest.java"/>
+      <file begintoken="25829" column="50" endcolumn="12" endline="331" endtoken="25937"
+            line="319"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/testsrc/com/wago/erp/order/converters/populators/WagoErpOrderDetailPopulatorTest.java"/>
+      <codefragment><![CDATA[		when(b2bUnitModel.getUid()).thenReturn("0000105388");
+		when(objectFactory.createBody()).thenReturn(new com.wago.erp.jaxb.generated.order.detail.request.Body());
+
+		final OrderData result = new OrderData();
+		wagoErpOrderDetailPopulator.populate(wagoErpOrderModel, result);
+
+		verify(wagoErpRestClient, times(1)).postFor(requestBodyArgumentCaptor.capture(),
+				eq(com.wago.erp.jaxb.generated.order.detail.response.Body.class));
+		assertEquals("0000105388", requestBodyArgumentCaptor.getValue().getKUNNR());
+	}
+
+	@Test
+	public void testFormattingOfKunnrPadding()]]></codefragment>
+   </duplication>
+   <duplication lines="14" tokens="87">
+      <file begintoken="2843" column="3" endcolumn="14" endline="70" endtoken="2929"
+            line="57"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/src/com/wago/erp/client/impl/MockWagoErpRestClient.java"/>
+      <file begintoken="4067" column="3" endcolumn="14" endline="224" endtoken="4153"
+            line="211"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/src/com/wago/erp/client/impl/MockWagoErpRestClient.java"/>
+      <codefragment><![CDATA[		final PRICELINE priceLine = new PRICELINE();
+		priceLine.setNETWR(String.valueOf(1234.56d));
+		priceLine.setNETWRGS(String.valueOf(2345.67d));
+
+		final PRICELINES priceLines = new PRICELINES();
+		priceLines.getPRICELINE().add(priceLine);
+
+		final ARTICLEPRICE articlePrice = new ARTICLEPRICE();
+		articlePrice.setMENGE(String.valueOf(1L));
+		articlePrice.setPEINH("ST");
+		articlePrice.setWAERS("EUR");
+		articlePrice.setPRICELINES(priceLines);
+
+		final String url = "http://track.dhl-usa.com/TrackByNbr.asp?ShipmentNumber=XXXXXXXXXXXXXXXXX";]]></codefragment>
+   </duplication>
+   <duplication lines="9" tokens="82">
+      <file begintoken="16809" column="74" endcolumn="57" endline="139" endtoken="16890"
+            line="131"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/testsrc/com/wago/erp/client/converters/populators/WagoAbstractOrderEShopOrderRequestPopulatorTest.java"/>
+      <file begintoken="17815" column="116" endcolumn="57" endline="153" endtoken="17896"
+            line="145"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/testsrc/com/wago/erp/client/converters/populators/WagoProductEShopOrderRequestPopulatorTest.java"/>
+      <codefragment><![CDATA[		wagoAbstractOrderEShopOrderRequestPopulator.populate(abstractOrderModel, result);
+
+		assertEquals(B2B_UNIT_UID, result.getKunde());
+		assertEquals(KEY, result.getKennung());
+		assertEquals(LANGUAGE_CODE_VALUE, result.getSprachcode());
+		assertEquals(CURRENCY_ISOCODE, result.getWaehrung());
+		assertEquals(WAGO_SALES_ORG_CODE, result.getVkorg());
+		assertEquals(1, result.getPositionen().size());
+		assertEquals(positionen, result.getPositionen().get(0));]]></codefragment>
+   </duplication>
+   <duplication lines="14" tokens="82">
+      <file begintoken="19840" column="39" endcolumn="12" endline="128" endtoken="19921"
+            line="115"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/testsrc/com/wago/erp/integration/transformer/WagoBodyToWagoErpOrderTransformerTest.java"/>
+      <file begintoken="20078" column="38" endcolumn="12" endline="151" endtoken="20159"
+            line="140"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/testsrc/com/wago/erp/integration/transformer/WagoBodyToWagoErpOrderTransformerTest.java"/>
+      <codefragment><![CDATA[		verify(addressModel, Mockito.times(1)).setDuplicate(Boolean.TRUE);
+		verify(erpOrderAddressReversePopulator, Mockito.times(1)).populate(deliveryAddress, addressModel);
+		verify(this.wagoErpOrderModel, Mockito.times(1)).setDeliveryAddress(addressModel);
+		verify(modelService, Mockito.atLeastOnce()).save(this.wagoErpOrderModel);
+		verify(modelService, Mockito.atLeastOnce()).save(addressModel);
+
+	}
+
+	/**
+	 *
+	 * @throws Exception
+	 */
+	@Test
+	public void transformPayloadOfExistingErpOrder() {]]></codefragment>
+   </duplication>
+   <duplication lines="13" tokens="73">
+      <file begintoken="2771" column="86" endcolumn="7" endline="57" endtoken="2843"
+            line="45"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/src/com/wago/erp/client/impl/MockWagoErpRestClient.java"/>
+      <file begintoken="3385" column="92" endcolumn="7" endline="144" endtoken="3457"
+            line="132"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/src/com/wago/erp/client/impl/MockWagoErpRestClient.java"/>
+      <codefragment><![CDATA[	private com.wago.erp.jaxb.generated.order.detail.response.Body getMockedResponseBody(
+            final com.wago.erp.jaxb.generated.order.detail.request.Body request)
+	{
+		final POSDELIVERYADDRESS deliveryAddress = new POSDELIVERYADDRESS();
+		deliveryAddress.setFORENAME("Norbert's minions");
+		deliveryAddress.setSURNAME("dmc digital media GmbH");
+		deliveryAddress.setDIVISION("Wolfpack");
+		deliveryAddress.setSTREET("Rommelstraße 11");
+		deliveryAddress.setZIP("70376");
+		deliveryAddress.setCITY("Stuttgart");
+		deliveryAddress.setCOUNTRY("DE");
+
+		final PRICELINE priceLine = new PRICELINE();]]></codefragment>
+   </duplication>
+   <duplication lines="13" tokens="71">
+      <file begintoken="22838" column="87" endcolumn="15" endline="144" endtoken="22908"
+            line="132"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/testsrc/com/wago/erp/integration/transformer/WagoOrderToERPIDocTransformerTest.java"/>
+      <file begintoken="22942" column="84" endcolumn="15" endline="162" endtoken="23012"
+            line="150"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoerp/testsrc/com/wago/erp/integration/transformer/WagoOrderToERPIDocTransformerTest.java"/>
+      <codefragment><![CDATA[		when(wagoB2BCommerceUnitService.getCompanyAddress(any())).thenReturn(deliveryAddress);
+
+		final String result = wagoOrderToERPIDocTransformer.transformPayload(order);
+		assertEquals(MERGED_TEMPLATE, result);
+		verify(wagoOrderToERPIDocTransformer).mergeTemplateIntoString(capturedContextParameters.capture());
+
+		final VelocityContext context = capturedContextParameters.getValue();
+
+		assertTrue(context.containsKey("addFullAddress"));
+		assertFalse((boolean) context.get("addFullAddress"));
+
+		assertTrue(context.containsKey("deliveryAddressId"));
+		assertEquals(B2B_UNIT_ID, context.get("deliveryAddressId"));]]></codefragment>
+   </duplication>
+</pmd-cpd>

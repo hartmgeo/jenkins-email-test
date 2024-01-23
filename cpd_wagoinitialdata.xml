@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd-cpd>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoinitialdata/src/com/wago/initialdata/constants/WagoInitialDataConstants.java"
+         totalNumberOfTokens="33"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoinitialdata/src/com/wago/initialdata/dataimport/WagoCoreDataImportService.java"
+         totalNumberOfTokens="486"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoinitialdata/src/com/wago/initialdata/dataimport/WagoSampleDataImportService.java"
+         totalNumberOfTokens="462"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoinitialdata/src/com/wago/initialdata/services/WagoDirectoryImportService.java"
+         totalNumberOfTokens="293"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoinitialdata/src/com/wago/initialdata/setup/WagoInitialDataSystemSetup.java"
+         totalNumberOfTokens="379"/>
+   <duplication lines="10" tokens="74">
+      <file begintoken="57" column="2" endcolumn="69" endline="36" endtoken="130" line="27"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoinitialdata/src/com/wago/initialdata/dataimport/WagoCoreDataImportService.java"/>
+      <file begintoken="547" column="2" endcolumn="69" endline="37" endtoken="620"
+            line="28"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoinitialdata/src/com/wago/initialdata/dataimport/WagoSampleDataImportService.java"/>
+      <codefragment><![CDATA[	@Override
+	protected void importAllData(final AbstractSystemSetup systemSetup, final SystemSetupContext context,
+			final ImportData importData, final boolean syncCatalogs)
+	{
+		for (final String catalogName : importData.getCatalogNames())
+		{
+			systemSetup.logInfo(context, String.format("Begin importing catalog data for [%s]", catalogName));
+			importCatalog(context.getExtensionName(), catalogName);
+		}
+		super.importAllData(systemSetup, context, importData, syncCatalogs);]]></codefragment>
+   </duplication>
+</pmd-cpd>

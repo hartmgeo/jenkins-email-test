@@ -1,0 +1,774 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd-cpd>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/cart/WagoRetailerFacade.java"
+         totalNumberOfTokens="51"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/cart/hooks/CommerceWebServicesSaveCartRestorationHook.java"
+         totalNumberOfTokens="83"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/cart/impl/CommerceWebServicesCartFacade.java"
+         totalNumberOfTokens="126"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/cart/impl/DefaultWagoRetailerFacade.java"
+         totalNumberOfTokens="806"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/constants/WagoCommerceWebservicesConstants.java"
+         totalNumberOfTokens="145"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/constants/WagoSearchConstants.java"
+         totalNumberOfTokens="194"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/constants/WagooccConstants.java"
+         totalNumberOfTokens="28"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoBaseCommerceController.java"
+         totalNumberOfTokens="474"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoBaseController.java"
+         totalNumberOfTokens="405"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoBaseSitesController.java"
+         totalNumberOfTokens="235"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoBaseStoresController.java"
+         totalNumberOfTokens="422"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoBlogController.java"
+         totalNumberOfTokens="875"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoCartController.java"
+         totalNumberOfTokens="344"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoCartsController.java"
+         totalNumberOfTokens="104"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoCategoryController.java"
+         totalNumberOfTokens="1132"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoCmsElementSearchController.java"
+         totalNumberOfTokens="299"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoComparisonlistController.java"
+         totalNumberOfTokens="749"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoCompetitorProductsAssistanceController.java"
+         totalNumberOfTokens="263"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoCompetitorProductsController.java"
+         totalNumberOfTokens="444"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoConsentsController.java"
+         totalNumberOfTokens="223"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoCustomerArticleNumberController.java"
+         totalNumberOfTokens="1214"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoCustomerProjectConfigController.java"
+         totalNumberOfTokens="197"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoCustomerProjectContactsController.java"
+         totalNumberOfTokens="472"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoCustomerProjectController.java"
+         totalNumberOfTokens="1068"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoCustomerProjectProductController.java"
+         totalNumberOfTokens="335"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoDownloadHistoryController.java"
+         totalNumberOfTokens="665"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoDownloadsController.java"
+         totalNumberOfTokens="818"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoEPLANFilterCategoryController.java"
+         totalNumberOfTokens="343"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoEloDocumentController.java"
+         totalNumberOfTokens="154"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoEventDateController.java"
+         totalNumberOfTokens="129"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoEventTileKeywordController.java"
+         totalNumberOfTokens="368"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoFaqFilterController.java"
+         totalNumberOfTokens="890"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoFaqQuestionController.java"
+         totalNumberOfTokens="309"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoFilterCategoryController.java"
+         totalNumberOfTokens="1056"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoIEKFinderController.java"
+         totalNumberOfTokens="98"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoJobsController.java"
+         totalNumberOfTokens="537"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoLastVisitedProductsController.java"
+         totalNumberOfTokens="168"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoOrdersController.java"
+         totalNumberOfTokens="1109"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoPageNotificationController.java"
+         totalNumberOfTokens="96"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoPointOfServiceController.java"
+         totalNumberOfTokens="705"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoPracticalTipsController.java"
+         totalNumberOfTokens="340"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoProductCustomerArticleNumberController.java"
+         totalNumberOfTokens="247"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoProductDatasheetConfigurationController.java"
+         totalNumberOfTokens="439"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoProductDetailpageTabController.java"
+         totalNumberOfTokens="107"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoProductFaqController.java"
+         totalNumberOfTokens="161"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoProductImageController.java"
+         totalNumberOfTokens="188"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoProductsAccessoriesController.java"
+         totalNumberOfTokens="773"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoProductsApprovalsController.java"
+         totalNumberOfTokens="229"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoProductsBundlesController.java"
+         totalNumberOfTokens="193"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoProductsClassificationController.java"
+         totalNumberOfTokens="207"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoProductsController.java"
+         totalNumberOfTokens="172"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoProductsCounterpartController.java"
+         totalNumberOfTokens="509"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoProductsDownloadsController.java"
+         totalNumberOfTokens="196"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoProductsExtensionsController.java"
+         totalNumberOfTokens="377"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoProductsFollowupController.java"
+         totalNumberOfTokens="177"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoProductsHandlingInstructionsController.java"
+         totalNumberOfTokens="186"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoProductsPriceController.java"
+         totalNumberOfTokens="250"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoProductsProductFamilyController.java"
+         totalNumberOfTokens="251"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoProductsRecommendationsController.java"
+         totalNumberOfTokens="272"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoProductsVariantsController.java"
+         totalNumberOfTokens="160"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoReferencesController.java"
+         totalNumberOfTokens="330"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoRetailerController.java"
+         totalNumberOfTokens="406"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoSearchController.java"
+         totalNumberOfTokens="795"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoSearchSuggestController.java"
+         totalNumberOfTokens="432"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoWatchlistController.java"
+         totalNumberOfTokens="923"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/disable/WagoDisableAddressControllerEnpointsController.java"
+         totalNumberOfTokens="317"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/disable/WagoDisableCartAddressesControllerEnpointsController.java"
+         totalNumberOfTokens="133"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/disable/WagoDisableCartDeliveryModesControllerEnpointsController.java"
+         totalNumberOfTokens="143"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/disable/WagoDisableCartEntriesControllerController.java"
+         totalNumberOfTokens="261"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/disable/WagoDisableCartEntryGroupsControllerEnpointsController.java"
+         totalNumberOfTokens="87"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/disable/WagoDisableCartPaymentsControllerEnpointsController.java"
+         totalNumberOfTokens="95"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/disable/WagoDisableCartPromotionsControllerEnpointsController.java"
+         totalNumberOfTokens="259"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/disable/WagoDisableCartsControllerEnpointsController.java"
+         totalNumberOfTokens="197"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/disable/WagoDisableCatalogsControllerEnpointsController.java"
+         totalNumberOfTokens="177"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/disable/WagoDisableCustomerGroupsControllerEnpointsController.java"
+         totalNumberOfTokens="303"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/disable/WagoDisableExportControllerEnpointsController.java"
+         totalNumberOfTokens="61"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/disable/WagoDisableFeedsControllerEnpointsController.java"
+         totalNumberOfTokens="63"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/disable/WagoDisableForgottenPasswordsControllerEnpointsController.java"
+         totalNumberOfTokens="115"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/disable/WagoDisableFutureStocksControllerEnpointsController.java"
+         totalNumberOfTokens="95"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/disable/WagoDisableLoginNotificationControllerEnpointsController.java"
+         totalNumberOfTokens="57"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/disable/WagoDisableMiscControllerEnpointsController.java"
+         totalNumberOfTokens="107"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/disable/WagoDisableOrderReturnsControllerEndpointsController.java"
+         totalNumberOfTokens="173"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/disable/WagoDisablePaymentDetailsControllerEnpointsController.java"
+         totalNumberOfTokens="241"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/disable/WagoDisablePaymentModesControllerEnpointsController.java"
+         totalNumberOfTokens="57"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/disable/WagoDisableProductsControllerEnpointsController.java"
+         totalNumberOfTokens="441"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/disable/WagoDisablePromotionsControllerEnpointsController.java"
+         totalNumberOfTokens="89"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/disable/WagoDisableSaveCartControllerEnpointsController.java"
+         totalNumberOfTokens="221"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/disable/WagoDisableStoresControllerEnpointsController.java"
+         totalNumberOfTokens="257"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/disable/WagoDisableUsersControllerEnpointsController.java"
+         totalNumberOfTokens="375"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/disable/WagoDisableVouchersControllerEnpointsController.java"
+         totalNumberOfTokens="59"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/errors/exceptions/WagoComparisonlistException.java"
+         totalNumberOfTokens="101"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/exception/WagoWebserviceErrorFactory.java"
+         totalNumberOfTokens="96"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/exception/converters/AbstractWagoLocalizedErrorConverter.java"
+         totalNumberOfTokens="120"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/exception/converters/DefaultWagoExceptionConverter.java"
+         totalNumberOfTokens="139"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/exception/converters/DefaultWagoValidationErrorConverter.java"
+         totalNumberOfTokens="251"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/exceptions/UnsupportedRequestException.java"
+         totalNumberOfTokens="20"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/exceptions/WagoCommerceWebServicesException.java"
+         totalNumberOfTokens="116"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/filter/DebugSessionPropertyFilter.java"
+         totalNumberOfTokens="120"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/filter/SessionFallbackFilter.java"
+         totalNumberOfTokens="84"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/formatters/WsDateFormatter.java"
+         totalNumberOfTokens="17"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/formatters/impl/DefaultWsDateFormatter.java"
+         totalNumberOfTokens="63"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/helper/AbstractHelper.java"
+         totalNumberOfTokens="88"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/helper/CSVToStreamWriter.java"
+         totalNumberOfTokens="134"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/helper/StoresHelper.java"
+         totalNumberOfTokens="381"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/helper/WagoAutosuggestionHelper.java"
+         totalNumberOfTokens="174"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/helper/WagoCartsHelper.java"
+         totalNumberOfTokens="333"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/helper/WagoOrdersHelper.java"
+         totalNumberOfTokens="287"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/helper/WagoPriceRequestItem.java"
+         totalNumberOfTokens="65"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/helper/WagoPriceRequestWrapper.java"
+         totalNumberOfTokens="45"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/helper/WagoSearchHelper.java"
+         totalNumberOfTokens="1128"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/helper/WagoSearchResultTypeUtils.java"
+         totalNumberOfTokens="313"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/jaxb/adapters/WagoDateAdapter.java"
+         totalNumberOfTokens="87"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/mapping/converters/WagoDownloadApprovalTypeConverter.java"
+         totalNumberOfTokens="73"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/mapping/mappers/WagoConditionalFacetGroupMapper.java"
+         totalNumberOfTokens="98"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/mapping/mappers/WagoEventDateMapper.java"
+         totalNumberOfTokens="131"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/mapping/mappers/WagoFacetDataMapper.java"
+         totalNumberOfTokens="98"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/mapping/mappers/WagoSearchResultEntryMapper.java"
+         totalNumberOfTokens="256"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/populator/WagoCompetiorAssistanceDataPopulator.java"
+         totalNumberOfTokens="156"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/setup/WagoOccSetup.java"
+         totalNumberOfTokens="74"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/validators/WagoCompetitorProductAssistanceFormWsDTOValidator.java"
+         totalNumberOfTokens="256"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/testsrc/com/wago/occ/cart/impl/DefaultWagoRetailerFacadeTest.java"
+         totalNumberOfTokens="540"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/testsrc/com/wago/occ/helper/WagoCartsHelperTest.java"
+         totalNumberOfTokens="543"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/testsrc/com/wago/occ/helper/WagoSearchHelperTest.java"
+         totalNumberOfTokens="556"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/testsrc/com/wago/occ/helper/WagoSearchResultTypeUtilsTest.java"
+         totalNumberOfTokens="656"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/testsrc/com/wago/occ/mapping/mappers/WagoEventDateMapperTest.java"
+         totalNumberOfTokens="189"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/testsrc/com/wago/occ/mapping/mappers/WagoSearchResultEntryMapperTest.java"
+         totalNumberOfTokens="530"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/testsrc/com/wago/occ/strategies/DefaultOrderCodeIdentificationStrategyTest.java"
+         totalNumberOfTokens="111"/>
+   <duplication lines="24" tokens="229">
+      <file begintoken="4403" column="59" endcolumn="6" endline="107" endtoken="4631"
+            line="84"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoCategoryController.java"/>
+      <file begintoken="12271" column="50" endcolumn="6" endline="105" endtoken="12499"
+            line="69"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoEPLANFilterCategoryController.java"/>
+      <codefragment><![CDATA[			+ "properties configured to be used for spellchecking.")
+	@ApiBaseSiteIdParam
+	public SearchPageWsDTO getCategories(
+			@Parameter(description = "Category identifier", required = true) @PathVariable final String categoryIdentifier,
+			@Parameter(description = "Facets in the serialized form :facetKey1:facetValue1:facetKey2:facetValue2") @RequestParam(value = WagoSearchConstants.FACET_REQUEST_PARAM, required = false) final String facets,
+			@Parameter(description = "Sorting of the results") @RequestParam(value = WagoSearchConstants.SORT_REQUEST_PARAM, required = false) final String sortCode,
+			@Parameter(description = "The current result page requested.") @RequestParam(value = WagoSearchConstants.PAGE_REQUEST_PARAM, defaultValue = DEFAULT_CURRENT_PAGE) final int currentPage,
+			@Parameter(description = "The number of results returned per page.") @RequestParam(required = false, defaultValue = DEFAULT_PAGE_SIZE) final int pageSize,
+			@Parameter(description = "New Extended Catchwords") @RequestParam(name = NEW_CATCHWORDS_REQUEST_PARAM, required = false) final String newExtendedCatchword,
+			@Parameter(description = "All Extended Catchwords") @RequestParam(name = CATCHWORDS_REQUEST_PARAM, required = false) final String allExtendedCatchwords,
+			final HttpServletResponse response)
+	{
+		final Optional<String> categoryCode = wagoCategoryFacade.getCategoryCodeForIdentifier(categoryIdentifier);
+
+		if (categoryCode.isPresent())
+		{
+			final WagoSearchRequest request = wagoSearchRequestBuilderFactory.create()
+					.setFacets(facets)
+					.setSortCode(sortCode)
+					.setCurrentPage(currentPage)
+					.setPageSize(pageSize)
+					.setNewExtendedCatchwords(newExtendedCatchword)
+					.setAllExtendedCatchwords(allExtendedCatchwords)
+					.build();]]></codefragment>
+   </duplication>
+   <duplication lines="33" tokens="208">
+      <file begintoken="13554" column="39" endcolumn="35" endline="138" endtoken="13761"
+            line="106"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoFaqFilterController.java"/>
+      <file begintoken="13840" column="39" endcolumn="35" endline="191" endtoken="14047"
+            line="159"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoFaqFilterController.java"/>
+      <codefragment><![CDATA[	public SearchPageWsDTO getProductFaqs(
+			@Parameter(description = "Facets in the serialized form :facetKey1:facetValue1:facetKey2:facetValue2")
+			@RequestParam(value = WagoSearchConstants.FACET_REQUEST_PARAM, required = false)
+			final String facets,
+			@Parameter(description = "Sorting of the results")
+			@RequestParam(value = WagoSearchConstants.SORT_REQUEST_PARAM, required = false)
+			final String sortCode,
+			@Parameter(description = "The current result page requested.")
+			@RequestParam(value = WagoSearchConstants.PAGE_REQUEST_PARAM, defaultValue = DEFAULT_CURRENT_PAGE)
+			final int currentPage,
+			@Parameter(description = "The number of results returned per page.")
+			@RequestParam(required = false, defaultValue = DEFAULT_PAGE_SIZE)
+			final int pageSize,
+			@Parameter(description = "New Extended Catchwords")
+			@RequestParam(name = WagoSearchConstants.NEW_CATCHWORDS_REQUEST_PARAM, required = false)
+			final String newExtendedCatchword,
+			@Parameter(description = "All Extended Catchwords")
+			@RequestParam(name = WagoSearchConstants.CATCHWORDS_REQUEST_PARAM, required = false)
+			final String allExtendedCatchwords,
+			final HttpServletResponse response)
+	{
+
+		if (wagoProductFaqFacade.hasCurrentBaseStoreFaqRight())
+		{
+			final WagoSearchRequest request = wagoSearchRequestBuilderFactory.create()
+					.setFacets(facets)
+					.setSortCode(sortCode)
+					.setCurrentPage(currentPage)
+					.setPageSize(pageSize)
+					.setNewExtendedCatchwords(newExtendedCatchword)
+					.setAllExtendedCatchwords(allExtendedCatchwords)
+					.setFilterQueries(new WagoSearchRequestFaqFilterQueryBuilder()
+							.setWagoFaqType(WagoFaqType.PRODUCT)]]></codefragment>
+   </duplication>
+   <duplication lines="33" tokens="204">
+      <file begintoken="13275" column="32" endcolumn="8" endline="86" endtoken="13478"
+            line="54"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoFaqFilterController.java"/>
+      <file begintoken="13554" column="39" endcolumn="8" endline="138" endtoken="13757"
+            line="106"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoFaqFilterController.java"/>
+      <file begintoken="13840" column="39" endcolumn="8" endline="191" endtoken="14043"
+            line="159"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoFaqFilterController.java"/>
+      <codefragment><![CDATA[	public SearchPageWsDTO getFaqs(
+			@Parameter(description = "Facets in the serialized form :facetKey1:facetValue1:facetKey2:facetValue2")
+			@RequestParam(value = WagoSearchConstants.FACET_REQUEST_PARAM, required = false)
+			final String facets,
+			@Parameter(description = "Sorting of the results")
+			@RequestParam(value = WagoSearchConstants.SORT_REQUEST_PARAM, required = false)
+			final String sortCode,
+			@Parameter(description = "The current result page requested.")
+			@RequestParam(value = WagoSearchConstants.PAGE_REQUEST_PARAM, defaultValue = DEFAULT_CURRENT_PAGE)
+			final int currentPage,
+			@Parameter(description = "The number of results returned per page.")
+			@RequestParam(required = false, defaultValue = DEFAULT_PAGE_SIZE)
+			final int pageSize,
+			@Parameter(description = "New Extended Catchwords")
+			@RequestParam(name = WagoSearchConstants.NEW_CATCHWORDS_REQUEST_PARAM, required = false)
+			final String newExtendedCatchword,
+			@Parameter(description = "All Extended Catchwords")
+			@RequestParam(name = WagoSearchConstants.CATCHWORDS_REQUEST_PARAM, required = false)
+			final String allExtendedCatchwords,
+			final HttpServletResponse response)
+	{
+
+		if (wagoProductFaqFacade.hasCurrentBaseStoreFaqRight())
+		{
+			final WagoSearchRequest request = wagoSearchRequestBuilderFactory.create()
+					.setFacets(facets)
+					.setSortCode(sortCode)
+					.setCurrentPage(currentPage)
+					.setPageSize(pageSize)
+					.setNewExtendedCatchwords(newExtendedCatchword)
+					.setAllExtendedCatchwords(allExtendedCatchwords)
+					.setFilterQueries(new WagoSearchRequestFaqFilterQueryBuilder()
+							.build())]]></codefragment>
+   </duplication>
+   <duplication lines="24" tokens="204">
+      <file begintoken="17614" column="53" endcolumn="26" endline="121" endtoken="17817"
+            line="98"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoPointOfServiceController.java"/>
+      <file begintoken="24514" column="71" endcolumn="180" endline="98" endtoken="24717"
+            line="91"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoSearchController.java"/>
+      <codefragment><![CDATA[			@Parameter(description = "Sorting of the results")
+			@RequestParam(value = WagoSearchConstants.SORT_REQUEST_PARAM, required = false)
+			final String sortCode,
+			@Parameter(description = "The current result page requested.")
+			@RequestParam(value = WagoSearchConstants.PAGE_REQUEST_PARAM, defaultValue = DEFAULT_CURRENT_PAGE)
+			final int currentPage,
+			@Parameter(description = "The number of results returned per page.")
+			@RequestParam(required = false, defaultValue = DEFAULT_PAGE_SIZE)
+			final int pageSize,
+			@Parameter(description = "New Extended Catchwords", required = false)
+			@RequestParam(name = WagoSearchConstants.NEW_CATCHWORDS_REQUEST_PARAM, required = false)
+			final String newExtendedCatchword,
+			@Parameter(description = "All Extended Catchwords", required = false)
+			@RequestParam(name = WagoSearchConstants.CATCHWORDS_REQUEST_PARAM, required = false)
+			final String allExtendedCatchwords,
+			@Parameter(description = "Distance for a spatial search", required = false)
+			@RequestParam(value = WagoSearchConstants.DISTANCE_PARAM, required = false)
+			final Integer distance,
+			@Parameter(description = "Latitude for a spatial search", required = false)
+			@RequestParam(value = WagoSearchConstants.LATITUDE_PARAM, required = false)
+			final Double latitude,
+			@Parameter(description = "Longitude for a spatial search", required = false)
+			@RequestParam(value = WagoSearchConstants.LONGITUDE_PARAM, required = false)
+			final Double longitude,]]></codefragment>
+   </duplication>
+   <duplication lines="10" tokens="161">
+      <file begintoken="4409" column="38" endcolumn="2" endline="95" endtoken="4569"
+            line="86"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoCategoryController.java"/>
+      <file begintoken="4999" column="32" endcolumn="2" endline="189" endtoken="5159"
+            line="180"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoCategoryController.java"/>
+      <file begintoken="12277" column="38" endcolumn="2" endline="94" endtoken="12437"
+            line="71"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoEPLANFilterCategoryController.java"/>
+      <codefragment><![CDATA[	public SearchPageWsDTO getCategories(
+			@Parameter(description = "Category identifier", required = true) @PathVariable final String categoryIdentifier,
+			@Parameter(description = "Facets in the serialized form :facetKey1:facetValue1:facetKey2:facetValue2") @RequestParam(value = WagoSearchConstants.FACET_REQUEST_PARAM, required = false) final String facets,
+			@Parameter(description = "Sorting of the results") @RequestParam(value = WagoSearchConstants.SORT_REQUEST_PARAM, required = false) final String sortCode,
+			@Parameter(description = "The current result page requested.") @RequestParam(value = WagoSearchConstants.PAGE_REQUEST_PARAM, defaultValue = DEFAULT_CURRENT_PAGE) final int currentPage,
+			@Parameter(description = "The number of results returned per page.") @RequestParam(required = false, defaultValue = DEFAULT_PAGE_SIZE) final int pageSize,
+			@Parameter(description = "New Extended Catchwords") @RequestParam(name = NEW_CATCHWORDS_REQUEST_PARAM, required = false) final String newExtendedCatchword,
+			@Parameter(description = "All Extended Catchwords") @RequestParam(name = CATCHWORDS_REQUEST_PARAM, required = false) final String allExtendedCatchwords,
+			final HttpServletResponse response)
+	{]]></codefragment>
+   </duplication>
+   <duplication lines="10" tokens="147">
+      <file begintoken="4426" column="114" endcolumn="17" endline="96" endtoken="4572"
+            line="87"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoCategoryController.java"/>
+      <file begintoken="12294" column="35" endcolumn="17" endline="95" endtoken="12440"
+            line="74"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoEPLANFilterCategoryController.java"/>
+      <file begintoken="15083" column="31" endcolumn="17" endline="227" endtoken="15229"
+            line="206"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoFilterCategoryController.java"/>
+      <codefragment><![CDATA[			@Parameter(description = "Category identifier", required = true) @PathVariable final String categoryIdentifier,
+			@Parameter(description = "Facets in the serialized form :facetKey1:facetValue1:facetKey2:facetValue2") @RequestParam(value = WagoSearchConstants.FACET_REQUEST_PARAM, required = false) final String facets,
+			@Parameter(description = "Sorting of the results") @RequestParam(value = WagoSearchConstants.SORT_REQUEST_PARAM, required = false) final String sortCode,
+			@Parameter(description = "The current result page requested.") @RequestParam(value = WagoSearchConstants.PAGE_REQUEST_PARAM, defaultValue = DEFAULT_CURRENT_PAGE) final int currentPage,
+			@Parameter(description = "The number of results returned per page.") @RequestParam(required = false, defaultValue = DEFAULT_PAGE_SIZE) final int pageSize,
+			@Parameter(description = "New Extended Catchwords") @RequestParam(name = NEW_CATCHWORDS_REQUEST_PARAM, required = false) final String newExtendedCatchword,
+			@Parameter(description = "All Extended Catchwords") @RequestParam(name = CATCHWORDS_REQUEST_PARAM, required = false) final String allExtendedCatchwords,
+			final HttpServletResponse response)
+	{
+		final Optional<String> categoryCode = wagoCategoryFacade.getCategoryCodeForIdentifier(categoryIdentifier);]]></codefragment>
+   </duplication>
+   <duplication lines="9" tokens="144">
+      <file begintoken="5016" column="114" endcolumn="2" endline="189" endtoken="5159"
+            line="181"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoCategoryController.java"/>
+      <file begintoken="15083" column="31" endcolumn="2" endline="226" endtoken="15226"
+            line="206"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoFilterCategoryController.java"/>
+      <codefragment><![CDATA[			@Parameter(description = "Category identifier", required = true) @PathVariable final String categoryIdentifier,
+			@Parameter(description = "Facets in the serialized form :facetKey1:facetValue1:facetKey2:facetValue2") @RequestParam(value = WagoSearchConstants.FACET_REQUEST_PARAM, required = false) final String facets,
+			@Parameter(description = "Sorting of the results") @RequestParam(value = WagoSearchConstants.SORT_REQUEST_PARAM, required = false) final String sortCode,
+			@Parameter(description = "The current result page requested.") @RequestParam(value = WagoSearchConstants.PAGE_REQUEST_PARAM, defaultValue = DEFAULT_CURRENT_PAGE) final int currentPage,
+			@Parameter(description = "The number of results returned per page.") @RequestParam(required = false, defaultValue = DEFAULT_PAGE_SIZE) final int pageSize,
+			@Parameter(description = "New Extended Catchwords") @RequestParam(name = NEW_CATCHWORDS_REQUEST_PARAM, required = false) final String newExtendedCatchword,
+			@Parameter(description = "All Extended Catchwords") @RequestParam(name = CATCHWORDS_REQUEST_PARAM, required = false) final String allExtendedCatchwords,
+			final HttpServletResponse response)
+	{]]></codefragment>
+   </duplication>
+   <duplication lines="17" tokens="118">
+      <file begintoken="14488" column="38" endcolumn="53" endline="104" endtoken="14605"
+            line="88"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoFilterCategoryController.java"/>
+      <file begintoken="15066" column="32" endcolumn="53" endline="219" endtoken="15183"
+            line="203"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoFilterCategoryController.java"/>
+      <codefragment><![CDATA[	public SearchPageWsDTO getCategories(
+			@Parameter(description = "FilterCategoryPage Identifier", required = true)
+			@PathVariable
+			final String pageIdentifier,
+			@Parameter(description = "Facets in the serialized form :facetKey1:facetValue1:facetKey2:facetValue2")
+			@RequestParam(value = WagoSearchConstants.FACET_REQUEST_PARAM, required = false)
+			final String facets,
+			@Parameter(description = "Sorting of the results")
+			@RequestParam(value = WagoSearchConstants.SORT_REQUEST_PARAM, required = false)
+			final String sortCode,
+			@Parameter(description = "The current result page requested.")
+			@RequestParam(value = WagoSearchConstants.PAGE_REQUEST_PARAM, defaultValue = DEFAULT_CURRENT_PAGE)
+			final int currentPage,
+			@Parameter(description = "The number of results returned per page.")
+			@RequestParam(required = false, defaultValue = DEFAULT_PAGE_SIZE)
+			final int pageSize,
+			@Parameter(description = "New Extended Catchwords", required = false)]]></codefragment>
+   </duplication>
+   <duplication lines="15" tokens="111">
+      <file begintoken="14505" column="31" endcolumn="23" endline="105" endtoken="14615"
+            line="91"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoFilterCategoryController.java"/>
+      <file begintoken="17583" column="28" endcolumn="23" endline="108" endtoken="17693"
+            line="94"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoPointOfServiceController.java"/>
+      <codefragment><![CDATA[			final String pageIdentifier,
+			@Parameter(description = "Facets in the serialized form :facetKey1:facetValue1:facetKey2:facetValue2")
+			@RequestParam(value = WagoSearchConstants.FACET_REQUEST_PARAM, required = false)
+			final String facets,
+			@Parameter(description = "Sorting of the results")
+			@RequestParam(value = WagoSearchConstants.SORT_REQUEST_PARAM, required = false)
+			final String sortCode,
+			@Parameter(description = "The current result page requested.")
+			@RequestParam(value = WagoSearchConstants.PAGE_REQUEST_PARAM, defaultValue = DEFAULT_CURRENT_PAGE)
+			final int currentPage,
+			@Parameter(description = "The number of results returned per page.")
+			@RequestParam(required = false, defaultValue = DEFAULT_PAGE_SIZE)
+			final int pageSize,
+			@Parameter(description = "New Extended Catchwords", required = false)
+			@RequestParam(name = NEW_CATCHWORDS_REQUEST_PARAM, required = false)]]></codefragment>
+   </duplication>
+   <duplication lines="14" tokens="108">
+      <file begintoken="17631" column="25" endcolumn="27" endline="113" endtoken="17738"
+            line="100"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoPointOfServiceController.java"/>
+      <file begintoken="18289" column="23" endcolumn="27" endline="89" endtoken="18396"
+            line="76"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoPracticalTipsController.java"/>
+      <file begintoken="24531" column="174" endcolumn="27" endline="96" endtoken="24638"
+            line="91"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoSearchController.java"/>
+      <codefragment><![CDATA[			final String sortCode,
+			@Parameter(description = "The current result page requested.")
+			@RequestParam(value = WagoSearchConstants.PAGE_REQUEST_PARAM, defaultValue = DEFAULT_CURRENT_PAGE)
+			final int currentPage,
+			@Parameter(description = "The number of results returned per page.")
+			@RequestParam(required = false, defaultValue = DEFAULT_PAGE_SIZE)
+			final int pageSize,
+			@Parameter(description = "New Extended Catchwords", required = false)
+			@RequestParam(name = WagoSearchConstants.NEW_CATCHWORDS_REQUEST_PARAM, required = false)
+			final String newExtendedCatchword,
+			@Parameter(description = "All Extended Catchwords", required = false)
+			@RequestParam(name = WagoSearchConstants.CATCHWORDS_REQUEST_PARAM, required = false)
+			final String allExtendedCatchwords,
+			@Parameter(description = "Distance for a spatial search", required = false)]]></codefragment>
+   </duplication>
+   <duplication lines="5" tokens="106">
+      <file begintoken="4427" column="4" endcolumn="75" endline="92" endtoken="4532"
+            line="88"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoCategoryController.java"/>
+      <file begintoken="5017" column="4" endcolumn="75" endline="186" endtoken="5122"
+            line="182"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoCategoryController.java"/>
+      <file begintoken="12295" column="4" endcolumn="23" endline="88" endtoken="12400"
+            line="75"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoEPLANFilterCategoryController.java"/>
+      <file begintoken="13276" column="4" endcolumn="23" endline="68" endtoken="13381"
+            line="55"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoFaqFilterController.java"/>
+      <file begintoken="13555" column="4" endcolumn="23" endline="120" endtoken="13660"
+            line="107"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoFaqFilterController.java"/>
+      <file begintoken="13841" column="4" endcolumn="23" endline="173" endtoken="13946"
+            line="160"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoFaqFilterController.java"/>
+      <file begintoken="15084" column="4" endcolumn="23" endline="220" endtoken="15189"
+            line="207"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoFilterCategoryController.java"/>
+      <codefragment><![CDATA[			@Parameter(description = "Facets in the serialized form :facetKey1:facetValue1:facetKey2:facetValue2") @RequestParam(value = WagoSearchConstants.FACET_REQUEST_PARAM, required = false) final String facets,
+			@Parameter(description = "Sorting of the results") @RequestParam(value = WagoSearchConstants.SORT_REQUEST_PARAM, required = false) final String sortCode,
+			@Parameter(description = "The current result page requested.") @RequestParam(value = WagoSearchConstants.PAGE_REQUEST_PARAM, defaultValue = DEFAULT_CURRENT_PAGE) final int currentPage,
+			@Parameter(description = "The number of results returned per page.") @RequestParam(required = false, defaultValue = DEFAULT_PAGE_SIZE) final int pageSize,
+			@Parameter(description = "New Extended Catchwords") @RequestParam(name = NEW_CATCHWORDS_REQUEST_PARAM, required = false) final String newExtendedCatchword,]]></codefragment>
+   </duplication>
+   <duplication lines="8" tokens="105">
+      <file begintoken="19944" column="129" endcolumn="7" endline="111" endtoken="20048"
+            line="104"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoProductsAccessoriesController.java"/>
+      <file begintoken="20226" column="119" endcolumn="7" endline="153" endtoken="20330"
+            line="146"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoProductsAccessoriesController.java"/>
+      <codefragment><![CDATA[			@Parameter(description = "Main function of the referenced Product") @RequestParam(required = false) final String mainFunction,
+			@Parameter(description = "The current result page requested.") @RequestParam(value = WagoSearchConstants.PAGE_REQUEST_PARAM, defaultValue = DEFAULT_CURRENT_PAGE) final int currentPage,
+			@Parameter(description = "The number of results returned per page.") @RequestParam(required = false, defaultValue = DEFAULT_PAGE_SIZE) final int pageSize,
+			@Parameter(description = "Mandatory Accesorry default = false") @RequestParam(required = false, defaultValue = "false") final boolean mandatory,
+			@Parameter(description = "Response configuration. This is the list of fields that should be returned in the response body.", schema = @Schema(allowableValues =
+			{ "BASIC", "DEFAULT", "FULL" })) @RequestParam(defaultValue = DEFAULT_FIELD_SET) final String fields)
+	{
+		final List<ProductData> accessoriesData;]]></codefragment>
+   </duplication>
+   <duplication lines="14" tokens="103">
+      <file begintoken="14549" column="82" endcolumn="38" endline="109" endtoken="14651"
+            line="96"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoFilterCategoryController.java"/>
+      <file begintoken="15698" column="117" endcolumn="38" endline="99" endtoken="15800"
+            line="86"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoJobsController.java"/>
+      <codefragment><![CDATA[			@RequestParam(value = WagoSearchConstants.SORT_REQUEST_PARAM, required = false)
+			final String sortCode,
+			@Parameter(description = "The current result page requested.")
+			@RequestParam(value = WagoSearchConstants.PAGE_REQUEST_PARAM, defaultValue = DEFAULT_CURRENT_PAGE)
+			final int currentPage,
+			@Parameter(description = "The number of results returned per page.")
+			@RequestParam(required = false, defaultValue = DEFAULT_PAGE_SIZE)
+			final int pageSize,
+			@Parameter(description = "New Extended Catchwords", required = false)
+			@RequestParam(name = NEW_CATCHWORDS_REQUEST_PARAM, required = false)
+			final String newExtendedCatchword,
+			@Parameter(description = "All Extended Catchwords", required = false)
+			@RequestParam(name = CATCHWORDS_REQUEST_PARAM, required = false)
+			final String allExtendedCatchwords,]]></codefragment>
+   </duplication>
+   <duplication lines="6" tokens="101">
+      <file begintoken="4426" column="114" endcolumn="53" endline="92" endtoken="4526"
+            line="87"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoCategoryController.java"/>
+      <file begintoken="5016" column="114" endcolumn="53" endline="186" endtoken="5116"
+            line="181"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoCategoryController.java"/>
+      <file begintoken="12294" column="35" endcolumn="53" endline="87" endtoken="12394"
+            line="74"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoEPLANFilterCategoryController.java"/>
+      <file begintoken="14505" column="31" endcolumn="53" endline="104" endtoken="14605"
+            line="91"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoFilterCategoryController.java"/>
+      <file begintoken="15083" column="31" endcolumn="53" endline="219" endtoken="15183"
+            line="206"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoFilterCategoryController.java"/>
+      <file begintoken="17583" column="28" endcolumn="53" endline="107" endtoken="17683"
+            line="94"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoPointOfServiceController.java"/>
+      <codefragment><![CDATA[			@Parameter(description = "Category identifier", required = true) @PathVariable final String categoryIdentifier,
+			@Parameter(description = "Facets in the serialized form :facetKey1:facetValue1:facetKey2:facetValue2") @RequestParam(value = WagoSearchConstants.FACET_REQUEST_PARAM, required = false) final String facets,
+			@Parameter(description = "Sorting of the results") @RequestParam(value = WagoSearchConstants.SORT_REQUEST_PARAM, required = false) final String sortCode,
+			@Parameter(description = "The current result page requested.") @RequestParam(value = WagoSearchConstants.PAGE_REQUEST_PARAM, defaultValue = DEFAULT_CURRENT_PAGE) final int currentPage,
+			@Parameter(description = "The number of results returned per page.") @RequestParam(required = false, defaultValue = DEFAULT_PAGE_SIZE) final int pageSize,
+			@Parameter(description = "New Extended Catchwords") @RequestParam(name = NEW_CATCHWORDS_REQUEST_PARAM, required = false) final String newExtendedCatchword,]]></codefragment>
+   </duplication>
+   <duplication lines="13" tokens="100">
+      <file begintoken="13276" column="4" endcolumn="53" endline="67" endtoken="13375"
+            line="55"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoFaqFilterController.java"/>
+      <file begintoken="13555" column="4" endcolumn="53" endline="119" endtoken="13654"
+            line="107"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoFaqFilterController.java"/>
+      <file begintoken="13841" column="4" endcolumn="53" endline="172" endtoken="13940"
+            line="160"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoFaqFilterController.java"/>
+      <file begintoken="14506" column="4" endcolumn="53" endline="104" endtoken="14605"
+            line="92"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoFilterCategoryController.java"/>
+      <file begintoken="17584" column="4" endcolumn="53" endline="107" endtoken="17683"
+            line="95"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoPointOfServiceController.java"/>
+      <codefragment><![CDATA[			@Parameter(description = "Facets in the serialized form :facetKey1:facetValue1:facetKey2:facetValue2")
+			@RequestParam(value = WagoSearchConstants.FACET_REQUEST_PARAM, required = false)
+			final String facets,
+			@Parameter(description = "Sorting of the results")
+			@RequestParam(value = WagoSearchConstants.SORT_REQUEST_PARAM, required = false)
+			final String sortCode,
+			@Parameter(description = "The current result page requested.")
+			@RequestParam(value = WagoSearchConstants.PAGE_REQUEST_PARAM, defaultValue = DEFAULT_CURRENT_PAGE)
+			final int currentPage,
+			@Parameter(description = "The number of results returned per page.")
+			@RequestParam(required = false, defaultValue = DEFAULT_PAGE_SIZE)
+			final int pageSize,
+			@Parameter(description = "New Extended Catchwords")]]></codefragment>
+   </duplication>
+   <duplication lines="12" tokens="89">
+      <file begintoken="15717" column="46" endcolumn="27" endline="100" endtoken="15805"
+            line="89"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoJobsController.java"/>
+      <file begintoken="23754" column="26" endcolumn="27" endline="95" endtoken="23842"
+            line="84"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoReferencesController.java"/>
+      <codefragment><![CDATA[			@RequestParam(value = WagoSearchConstants.PAGE_REQUEST_PARAM, defaultValue = DEFAULT_CURRENT_PAGE)
+			final int currentPage,
+			@Parameter(description = "The number of results returned per page.")
+			@RequestParam(required = false, defaultValue = DEFAULT_PAGE_SIZE)
+			final int pageSize,
+			@Parameter(description = "New Extended Catchwords", required = false)
+			@RequestParam(name = NEW_CATCHWORDS_REQUEST_PARAM, required = false)
+			final String newExtendedCatchword,
+			@Parameter(description = "All Extended Catchwords", required = false)
+			@RequestParam(name = CATCHWORDS_REQUEST_PARAM, required = false)
+			final String allExtendedCatchwords,
+			@Parameter(description = "Show all Facets", required = false)]]></codefragment>
+   </duplication>
+   <duplication lines="11" tokens="84">
+      <file begintoken="14568" column="46" endcolumn="38" endline="109" endtoken="14651"
+            line="99"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoFilterCategoryController.java"/>
+      <file begintoken="23754" column="26" endcolumn="38" endline="94" endtoken="23837"
+            line="84"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoReferencesController.java"/>
+      <codefragment><![CDATA[			@RequestParam(value = WagoSearchConstants.PAGE_REQUEST_PARAM, defaultValue = DEFAULT_CURRENT_PAGE)
+			final int currentPage,
+			@Parameter(description = "The number of results returned per page.")
+			@RequestParam(required = false, defaultValue = DEFAULT_PAGE_SIZE)
+			final int pageSize,
+			@Parameter(description = "New Extended Catchwords", required = false)
+			@RequestParam(name = NEW_CATCHWORDS_REQUEST_PARAM, required = false)
+			final String newExtendedCatchword,
+			@Parameter(description = "All Extended Catchwords", required = false)
+			@RequestParam(name = CATCHWORDS_REQUEST_PARAM, required = false)
+			final String allExtendedCatchwords,]]></codefragment>
+   </duplication>
+   <duplication lines="11" tokens="80">
+      <file begintoken="14536" column="53" endcolumn="23" endline="105" endtoken="14615"
+            line="95"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoFilterCategoryController.java"/>
+      <file begintoken="24514" column="71" endcolumn="93" endline="94" endtoken="24593"
+            line="91"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoSearchController.java"/>
+      <codefragment><![CDATA[			@Parameter(description = "Sorting of the results")
+			@RequestParam(value = WagoSearchConstants.SORT_REQUEST_PARAM, required = false)
+			final String sortCode,
+			@Parameter(description = "The current result page requested.")
+			@RequestParam(value = WagoSearchConstants.PAGE_REQUEST_PARAM, defaultValue = DEFAULT_CURRENT_PAGE)
+			final int currentPage,
+			@Parameter(description = "The number of results returned per page.")
+			@RequestParam(required = false, defaultValue = DEFAULT_PAGE_SIZE)
+			final int pageSize,
+			@Parameter(description = "New Extended Catchwords", required = false)
+			@RequestParam(name = NEW_CATCHWORDS_REQUEST_PARAM, required = false)]]></codefragment>
+   </duplication>
+   <duplication lines="5" tokens="73">
+      <file begintoken="3143" column="108" endcolumn="104" endline="93" endtoken="3215"
+            line="89"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoBlogController.java"/>
+      <file begintoken="3357" column="100" endcolumn="104" endline="129" endtoken="3429"
+            line="125"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoBlogController.java"/>
+      <codefragment><![CDATA[			@Parameter(description = "Article Types") @RequestParam(required = false) final Set<String> articleTypes,
+			@Parameter(description = "Default Value") @RequestParam(defaultValue = "0") final int page,
+			@Parameter(description = "Response configuration. This is the list of fields that should be returned in the response body.", schema = @Schema(allowableValues =
+			{ "BASIC", "DEFAULT", "FULL" })) @RequestParam(defaultValue = DEFAULT_FIELD_SET) final String fields,
+			@Parameter(description = "Tags to filter for") @RequestParam(required = false) final Set<String> tags,]]></codefragment>
+   </duplication>
+   <duplication lines="4" tokens="70">
+      <file begintoken="4457" column="53" endcolumn="53" endline="92" endtoken="4526"
+            line="89"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoCategoryController.java"/>
+      <file begintoken="5047" column="53" endcolumn="53" endline="186" endtoken="5116"
+            line="183"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoCategoryController.java"/>
+      <file begintoken="12325" column="53" endcolumn="53" endline="87" endtoken="12394"
+            line="78"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoEPLANFilterCategoryController.java"/>
+      <file begintoken="13306" column="53" endcolumn="53" endline="67" endtoken="13375"
+            line="58"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoFaqFilterController.java"/>
+      <file begintoken="13585" column="53" endcolumn="53" endline="119" endtoken="13654"
+            line="110"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoFaqFilterController.java"/>
+      <file begintoken="13871" column="53" endcolumn="53" endline="172" endtoken="13940"
+            line="163"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoFaqFilterController.java"/>
+      <file begintoken="15114" column="53" endcolumn="53" endline="219" endtoken="15183"
+            line="210"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoFilterCategoryController.java"/>
+      <file begintoken="24514" column="71" endcolumn="53" endline="94" endtoken="24583"
+            line="91"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoSearchController.java"/>
+      <codefragment><![CDATA[			@Parameter(description = "Sorting of the results") @RequestParam(value = WagoSearchConstants.SORT_REQUEST_PARAM, required = false) final String sortCode,
+			@Parameter(description = "The current result page requested.") @RequestParam(value = WagoSearchConstants.PAGE_REQUEST_PARAM, defaultValue = DEFAULT_CURRENT_PAGE) final int currentPage,
+			@Parameter(description = "The number of results returned per page.") @RequestParam(required = false, defaultValue = DEFAULT_PAGE_SIZE) final int pageSize,
+			@Parameter(description = "New Extended Catchwords") @RequestParam(name = NEW_CATCHWORDS_REQUEST_PARAM, required = false) final String newExtendedCatchword,]]></codefragment>
+   </duplication>
+   <duplication lines="5" tokens="70">
+      <file begintoken="11500" column="108" endcolumn="27" endline="85" endtoken="11569"
+            line="81"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoDownloadsController.java"/>
+      <file begintoken="19926" column="119" endcolumn="27" endline="107" endtoken="19995"
+            line="103"
+            path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagoocc/src/com/wago/occ/controllers/WagoProductsAccessoriesController.java"/>
+      <codefragment><![CDATA[			@Parameter(description = "Download identifier", required = true) @PathVariable final String downloadCode,
+			@Parameter(description = "Main function of the referenced Product") @RequestParam(required = false) final String mainFunction,
+			@Parameter(description = "The current result page requested.") @RequestParam(value = WagoSearchConstants.PAGE_REQUEST_PARAM, defaultValue = DEFAULT_CURRENT_PAGE) final int currentPage,
+			@Parameter(description = "The number of results returned per page.") @RequestParam(required = false, defaultValue = DEFAULT_PAGE_SIZE) final int pageSize,
+			@Parameter(description = "Response configuration. This is the list of fields that should be returned in the response body.", schema = @Schema(allowableValues =]]></codefragment>
+   </duplication>
+</pmd-cpd>

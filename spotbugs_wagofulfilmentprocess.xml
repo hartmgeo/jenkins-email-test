@@ -1,0 +1,1017 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<BugCollection version="4.8.1" sequence="0" timestamp="1706022608553" analysisTimestamp="1706022608558" release="">
+  <Project projectName="">
+    <Jar>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/classes</Jar>
+    <Jar>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/web/webroot/WEB-INF/classes</Jar>
+    <Jar>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/backoffice/classes</Jar>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/bootstrap/bin/ybootstrap.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/bootstrap/bin/models.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/tomcat/lib/annotations-api.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/tomcat/lib/catalina-ant.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/tomcat/lib/catalina-ha.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/tomcat/lib/catalina-storeconfig.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/tomcat/lib/catalina-tribes.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/tomcat/lib/catalina.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/tomcat/lib/ecj-3.15.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/tomcat/lib/el-api.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/tomcat/lib/jasper-el.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/tomcat/lib/jasper.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/tomcat/lib/jaspic-api.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/tomcat/lib/jsp-api.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/tomcat/lib/servlet-api.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/tomcat/lib/tomcat-api.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/tomcat/lib/tomcat-coyote.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/tomcat/lib/tomcat-dbcp.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/tomcat/lib/tomcat-i18n-de.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/tomcat/lib/tomcat-i18n-es.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/tomcat/lib/tomcat-i18n-fr.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/tomcat/lib/tomcat-i18n-ja.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/tomcat/lib/tomcat-i18n-ko.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/tomcat/lib/tomcat-i18n-ru.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/tomcat/lib/tomcat-i18n-zh-CN.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/tomcat/lib/tomcat-jdbc.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/tomcat/lib/tomcat-jni.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/tomcat/lib/tomcat-util-scan.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/tomcat/lib/tomcat-util.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/tomcat/lib/tomcat-websocket.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/tomcat/lib/websocket-api.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/tomcat/lib/wrapper.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/tomcat/lib/ytomcat.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/backoffice-framework/backoffice/web/webroot/WEB-INF/classes</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/backoffice-framework/backoffice/web/webroot/WEB-INF/lib/atlantic-9.6.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/backoffice-framework/backoffice/web/webroot/WEB-INF/lib/backoffice-core-2211.FP2-RC7.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/backoffice-framework/backoffice/web/webroot/WEB-INF/lib/backoffice-widgets-2211.FP2-RC7.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/backoffice-framework/backoffice/web/webroot/WEB-INF/lib/ckez-4.21.0.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/backoffice-framework/backoffice/web/webroot/WEB-INF/lib/cockpit-data-integration-2211.FP2-RC7.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/backoffice-framework/backoffice/web/webroot/WEB-INF/lib/cockpit-demo-widgets-2211.FP2-RC7.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/backoffice-framework/backoffice/web/webroot/WEB-INF/lib/cockpit-module-aggregator-2211.FP2-RC7.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/backoffice-framework/backoffice/web/webroot/WEB-INF/lib/cockpit-standard-editors-2211.FP2-RC7.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/backoffice-framework/backoffice/web/webroot/WEB-INF/lib/cockpitadmin-2211.FP2-RC7.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/backoffice-framework/backoffice/web/webroot/WEB-INF/lib/cockpitcore-2211.FP2-RC7.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/backoffice-framework/backoffice/web/webroot/WEB-INF/lib/cockpitframework-2211.FP2-RC7.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/backoffice-framework/backoffice/web/webroot/WEB-INF/lib/cockpittesting-2211.FP2-RC7.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/backoffice-framework/backoffice/web/webroot/WEB-INF/lib/cockpitwidgets-2211.FP2-RC7.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/backoffice-framework/backoffice/web/webroot/WEB-INF/lib/gmapsz-3.0.5.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/backoffice-framework/backoffice/web/webroot/WEB-INF/lib/gson-2.9.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/backoffice-framework/backoffice/web/webroot/WEB-INF/lib/webfragmentCore_XSSFilter.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/backoffice-framework/backoffice/web/webroot/WEB-INF/lib/webfragmentCore_backofficeMediaFilterChain.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/backoffice-framework/backoffice/web/webroot/WEB-INF/lib/webfragmentCore_backofficeMobileFilter.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/backoffice-framework/backoffice/web/webroot/WEB-INF/lib/webfragmentCore_backofficeRemoteTesting.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/backoffice-framework/backoffice/web/webroot/WEB-INF/lib/webfragmentCore_backofficefilterchain.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/backoffice-framework/backoffice/web/webroot/WEB-INF/lib/webfragmentCore_characterEncodingFilter.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/backoffice-framework/backoffice/web/webroot/WEB-INF/lib/webfragmentCore_requestContextFilter.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/backoffice-framework/backoffice/web/webroot/WEB-INF/lib/webfragmentCore_springSecurityFilterChain.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/backoffice-framework/backoffice/web/webroot/WEB-INF/lib/za11y-9.6.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/backoffice-framework/backoffice/web/webroot/WEB-INF/lib/zcommon-9.6.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/backoffice-framework/backoffice/web/webroot/WEB-INF/lib/zel-9.6.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/backoffice-framework/backoffice/web/webroot/WEB-INF/lib/zhtml-9.6.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/backoffice-framework/backoffice/web/webroot/WEB-INF/lib/zk-9.6.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/backoffice-framework/backoffice/web/webroot/WEB-INF/lib/zkbind-9.6.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/backoffice-framework/backoffice/web/webroot/WEB-INF/lib/zkcharts-10.2.1.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/backoffice-framework/backoffice/web/webroot/WEB-INF/lib/zkex-9.6.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/backoffice-framework/backoffice/web/webroot/WEB-INF/lib/zkmax-9.6.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/backoffice-framework/backoffice/web/webroot/WEB-INF/lib/zkplus-9.6.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/backoffice-framework/backoffice/web/webroot/WEB-INF/lib/zkspring-core-4.0.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/backoffice-framework/backoffice/web/webroot/WEB-INF/lib/zul-9.6.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/backoffice-framework/backoffice/web/webroot/WEB-INF/lib/zuti-9.6.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/backoffice-framework/backoffice/web/webroot/WEB-INF/lib/zweb-9.6.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/classes</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/resources</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/b2b-commerce/b2bcommerce/classes</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/b2b-commerce/b2bcommerce/resources</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/impex/classes</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/impex/bin/impexserver.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/impex/lib/poi-5.2.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/impex/lib/SparseBitSet-1.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/impex/resources</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/catalog/classes</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/catalog/bin/catalogserver.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/catalog/resources</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/base-commerce/voucher/classes</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/base-commerce/voucher/bin/voucherserver.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/base-commerce/voucher/resources</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/api-registry/apiregistryservices/classes</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/api-registry/apiregistryservices/resources</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/base-commerce/customerreview/classes</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/base-commerce/customerreview/bin/customerreviewserver.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/base-commerce/customerreview/resources</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/hac/classes</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/hac/bin/hacserver.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/hac/lib/scimark-2.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/hac/resources</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/oauth2/classes</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/oauth2/bin/oauth2server.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/oauth2/lib/spring-security-jwt-1.0.10.RELEASE.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/oauth2/lib/spring-security-oauth2-2.5.2.RELEASE.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/oauth2/resources</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/web-services-commons/webservicescommons/classes</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/web-services-commons/webservicescommons/bin/webservicescommonsserver.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/web-services-commons/webservicescommons/lib/jackson-jaxrs-base-2.15.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/web-services-commons/webservicescommons/lib/jackson-jaxrs-json-provider-2.15.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/web-services-commons/webservicescommons/lib/jackson-module-jaxb-annotations-2.15.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/web-services-commons/webservicescommons/lib/jakarta.json-api-1.1.6.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/web-services-commons/webservicescommons/lib/javax.json-1.1.4.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/web-services-commons/webservicescommons/lib/org.eclipse.persistence.antlr-2.7.12.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/web-services-commons/webservicescommons/lib/org.eclipse.persistence.asm-9.5.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/web-services-commons/webservicescommons/lib/org.eclipse.persistence.core-2.7.12.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/web-services-commons/webservicescommons/lib/org.eclipse.persistence.moxy-2.7.12.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/web-services-commons/webservicescommons/lib/spring-hateoas-1.5.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/web-services-commons/webservicescommons/resources</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/base-commerce/basecommerce/classes</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/base-commerce/basecommerce/bin/basecommerceserver.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/base-commerce/basecommerce/lib/geodesy-1.1.3.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/base-commerce/basecommerce/resources</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/platform/mediaconversion/classes</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/platform/mediaconversion/bin/mediaconversionserver.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/platform/mediaconversion/resources</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/deliveryzone/classes</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/deliveryzone/bin/deliveryzoneserver.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/deliveryzone/resources</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/platformservices/classes</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/platformservices/resources</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/core-accelerator/acceleratorcms/classes</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/core-accelerator/acceleratorcms/resources</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/base-commerce/payment/classes</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/base-commerce/payment/bin/paymentserver.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/base-commerce/payment/resources</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/validation/classes</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/validation/bin/validationserver.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/validation/lib/classmate-1.3.4.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/validation/lib/hibernate-validator-6.1.5.Final.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/validation/lib/jakarta.validation-api-2.0.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/validation/lib/javassist-3.29.2-GA.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/validation/lib/jboss-logging-3.5.0.Final.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/validation/resources</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/workflow/classes</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/workflow/bin/workflowserver.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/workflow/resources</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/sap-framework-core/sapcoretest/classes</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/sap-framework-core/sapcoretest/resources</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocore/classes</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocore/lib/commons-compress-1.25.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocore/lib/fontbox-2.0.30.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocore/lib/gson-2.8.9.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocore/lib/htmlcleaner-2.29.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocore/lib/ical4j-3.2.4.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocore/lib/jansi-2.4.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocore/lib/javax.xml.soap-api-1.4.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocore/lib/jempbox-1.8.16.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocore/lib/jsoup-1.15.3.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocore/lib/junit-vintage-engine-5.9.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocore/lib/pdfbox-2.0.30.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocore/lib/poi-scratchpad-5.2.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocore/lib/saaj-impl-1.5.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocore/lib/stax-ex-1.8.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocore/lib/tika-core-1.28.5.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocore/lib/tika-parsers-1.28.5.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocore/resources</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/web-content-management-system/cms2/classes</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/web-content-management-system/cms2/bin/cms2server.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/web-content-management-system/cms2/resources</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/customer-service/ticketsystem/classes</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/customer-service/ticketsystem/bin/ticketsystemserver.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/customer-service/ticketsystem/resources</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/b2b-accelerator/b2bacceleratorservices/classes</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/b2b-accelerator/b2bacceleratorservices/resources</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/web-content-management-system/cms2lib/classes</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/web-content-management-system/cms2lib/bin/cms2libserver.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/web-content-management-system/cms2lib/resources</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/classes</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/bin/coreserver.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/accessors-smart-2.4.8.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/activation-1.1.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/annotations-2.0.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/ant-commons-net-1.6.5.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/antlr4-runtime-4.7.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/aopalliance-1.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/asm-9.4.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/asm-commons-9.4.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/asm-tree-9.4.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/asm-util-9.4.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/aspectjweaver-1.9.19.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/assertj-core-3.5.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/awaitility-4.2.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/bcpkix-jdk15on-1.69.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/bcprov-jdk15on-1.69.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/bcutil-jdk15on-1.69.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/bsh-2.0b6.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/btc-ascii-table-1.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/byte-buddy-1.14.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/byte-buddy-agent-1.14.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/charon-1.2.18.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/classgraph-4.8.147.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/cloning-1.10.3.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/codemodel-4.0.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/com.sap.security.core.server.csi-1.00.8.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/commons-beanutils-1.9.4.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/commons-codec-1.15.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/commons-collections-3.2.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/commons-collections4-4.4.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/commons-configuration-1.10.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/commons-dbcp-1.4.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/commons-digester-2.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/commons-discovery-0.5.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/commons-el-1.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/commons-email-1.5.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/commons-fileupload-1.5.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/commons-io-2.11.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/commons-jexl-1.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/commons-lang-2.6.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/commons-lang3-3.12.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/commons-logging-1.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/commons-math3-3.6.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/commons-pool-1.6.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/commons-pool2-2.11.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/commons-text-1.10.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/commons-validator-1.7.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/concurrentlinkedhashmap-lru-1.4.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/ddlutils-1.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/dtd-parser-1.5.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/easymock-4.3.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/easymockclassextension-3.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/ehcache-2.10.9.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/failureaccess-1.0.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/fastutil-6.5.16.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/fest-assert-1.4.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/fest-util-1.1.6.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/graal-sdk-21.3.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/groovy-3.0.13.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/groovy-ant-3.0.13.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/groovy-json-3.0.13.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/groovy-jsr223-3.0.13.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/groovy-servlet-3.0.13.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/groovy-templates-3.0.13.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/groovy-test-3.0.13.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/groovy-xml-3.0.13.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/guava-32.1.2-jre.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/hamcrest-2.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/hk2-2.6.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/hk2-api-2.6.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/hk2-locator-2.6.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/hk2-utils-2.6.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/httpclient-4.5.14.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/httpcore-4.4.16.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/httpmime-4.5.14.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/httpunit-1.7.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/hybris-encryption-1.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/hybris-simple-statistics-1.0.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/hybriskey-1.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/icu4j-69.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/istack-commons-tools-4.1.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/jackson-annotations-2.14.3.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/jackson-core-2.14.3.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/jackson-databind-2.14.3.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/jakarta.inject-2.6.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/jakarta.mail-1.6.5.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/jakarta.ws.rs-api-2.1.6.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/jakarta.xml.bind-api-2.3.3.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/javax.annotation-api-1.3.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/javolution-5.5.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/jaxb-core-2.3.0.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/jaxb-impl-2.3.4.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/jaxb-xjc-2.3.6.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/jaxen-2.0.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/jcip-annotations-1.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/jcl-over-slf4j-1.7.30.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/jersey-apache-connector-2.34.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/jersey-client-2.34.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/jersey-common-2.34.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/jersey-entity-filtering-2.34.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/jersey-guava-2.25.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/jersey-hk2-2.34.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/jersey-jdk-connector-2.34.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/jersey-media-json-jackson-2.34.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/jersey-server-2.34.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/jersey-spring5-2.34.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/jersey-test-framework-core-2.34.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/jgroups-4.0.24.Final.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/js-21.3.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/jgroups-kubernetes-1.0.16.Final.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/joda-time-2.12.3.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/js-scriptengine-21.3.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/json-path-2.4.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/json-smart-2.4.10.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/jsr305-2.0.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/jstl-api-1.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/junit-4.13.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/junit-platform-commons-1.7.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/junit-platform-engine-1.7.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/junit-platform-launcher-1.7.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/junit-platform-runner-1.7.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/junit-platform-suite-api-1.7.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/kxml2-2.3.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/likey-no-iaik-jdk17-1.0.10.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/log4j-1.2-api-2.17.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/log4j-api-2.17.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/log4j-core-2.17.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/log4j-slf4j-impl-2.17.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/maven-model-3.6.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/metrics-core-4.1.18.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/metrics-healthchecks-4.1.18.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/metrics-jmx-4.1.18.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/mime-util-2.1.3.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/mockito-core-3.10.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/mockito-inline-3.10.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/netty-buffer-4.1.100.Final.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/netty-codec-4.1.100.Final.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/netty-codec-http-4.1.100.Final.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/netty-codec-socks-4.1.100.Final.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/netty-common-4.1.100.Final.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/netty-handler-4.1.100.Final.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/netty-handler-proxy-4.1.100.Final.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/netty-resolver-4.1.100.Final.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/netty-transport-4.1.100.Final.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/netty-transport-native-unix-common-4.1.100.Final.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/objenesis-3.3.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/opentest4j-1.2.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/orika-core-1.5.4.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/oro-2.0.8.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/owasp-java-html-sanitizer-20220608.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/paranamer-2.8.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/plexus-utils-3.2.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/reactive-streams-1.0.4.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/reactor-core-3.4.16.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/reflections-0.9.11.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/regex-21.3.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/relaxng-datatype-4.0.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/rngom-4.0.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/rxjava-1.3.8.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/slf4j-api-1.7.30.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/spock-core-2.0-groovy-3.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/spock-junit4-2.0-groovy-3.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/spring-aop-5.3.30.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/spring-aspects-5.3.30.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/spring-beans-5.3.30.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/spring-context-5.3.30.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/spring-context-support-5.3.30.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/spring-core-5.3.30.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/spring-expression-5.3.30.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/spring-instrument-5.3.30.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/spring-integration-core-5.5.7.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/spring-integration-zip-2.0.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/spring-jdbc-5.3.30.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/spring-jms-5.3.30.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/spring-messaging-5.3.30.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/spring-orm-5.3.30.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/spring-oxm-5.3.30.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/spring-retry-1.3.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/spring-security-config-5.8.5.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/spring-security-core-5.8.5.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/spring-security-crypto-5.8.5.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/spring-security-taglibs-5.8.5.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/spring-security-web-5.8.5.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/spring-session-1.3.5.RELEASE.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/spring-test-5.3.30.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/spring-tx-5.3.30.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/spring-web-5.3.30.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/spring-webmvc-5.3.30.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/spring-xml-3.0.10.RELEASE.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/stax2-api-4.2.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/swagger-annotations-2.2.8.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/truffle-api-21.3.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/velocity-engine-core-2.3.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/velocity-tools-generic-3.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/webjars-locator-core-0.52.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/woodstox-core-5.4.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/wss4j-1.6.19.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/xml-combiner-2.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/xmlenc-0.52.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/xmlsec-2.2.3.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/xsom-4.0.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/lib/xstream-1.4.20.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/core/resources</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/sap-model/sapmodel/classes</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/sap-model/sapmodel/resources</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/maintenanceweb/lib/javax.servlet.jsp.jstl-1.2.5.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/maintenanceweb/resources</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/platform/auditreportservices/classes</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/platform/auditreportservices/bin/auditreportservicesserver.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/platform/auditreportservices/resources</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/testweb/resources</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/processing/classes</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/processing/bin/processingserver.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/processing/lib/quartz-2.3.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/processing/resources</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/europe1/classes</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/europe1/bin/europe1server.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/europe1/resources</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/data-hub-adapter/dataimportcommons/classes</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/data-hub-adapter/dataimportcommons/resources</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/mediaweb/classes</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/mediaweb/bin/mediawebserver.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/mediaweb/resources</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/advancedsavedquery/classes</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/advancedsavedquery/bin/advancedsavedqueryserver.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/advancedsavedquery/resources</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/data-hub-adapter/datahubclient/classes</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/data-hub-adapter/datahubclient/lib/datahub-api-2211.FP2-RC13.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/data-hub-adapter/datahubclient/lib/datahub-dto-2211.FP2-RC13.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/data-hub-adapter/datahubclient/lib/datahub-entity-model-2211.FP2-RC13.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/data-hub-adapter/datahubclient/lib/datahub-rest-client-2211.FP2-RC13.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/data-hub-adapter/datahubclient/lib/jersey-media-jaxb-2.39.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/data-hub-adapter/datahubclient/lib/lucene-analyzers-common-8.11.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/data-hub-adapter/datahubclient/lib/lucene-core-8.11.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/data-hub-adapter/datahubclient/lib/lucene-queryparser-8.11.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/data-hub-adapter/datahubclient/resources</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/sap-framework-core/sapcore/classes</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/sap-framework-core/sapcore/resources</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/sap-customer/sapcustomerb2c/classes</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/sap-customer/sapcustomerb2c/resources</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/sap-customer/sapcustomerb2b/classes</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/sap-customer/sapcustomerb2b/resources</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/commons/classes</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/commons/bin/commonsserver.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/commons/lib/batik-all-1.17.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/commons/lib/fop-2.8.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/commons/lib/jai-codec-1.1.3.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/commons/lib/jai_core-1.1.3.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/commons/lib/xmlgraphics-commons-2.9.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/commons/resources</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/b2b-commerce/b2bapprovalprocess/classes</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/b2b-commerce/b2bapprovalprocess/resources</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/commerce-services/commercefacades/classes</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/commerce-services/commercefacades/resources</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/data-hub-adapter/datahubadapter/classes</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/data-hub-adapter/datahubadapter/resources</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/core-accelerator/acceleratorservices/classes</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/core-accelerator/acceleratorservices/lib/ant-1.10.13.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/core-accelerator/acceleratorservices/lib/commons-net-3.9.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/core-accelerator/acceleratorservices/resources</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/scripting/classes</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/scripting/bin/scriptingserver.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/scripting/resources</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/search-and-navigation/solrfacetsearch/classes</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/search-and-navigation/solrfacetsearch/bin/solrfacetsearchserver.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/search-and-navigation/solrfacetsearch/lib/solr-solrj-8.11.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/search-and-navigation/solrfacetsearch/lib/zookeeper-3.8.3.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/search-and-navigation/solrfacetsearch/lib/zookeeper-jute-3.8.3.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/search-and-navigation/solrfacetsearch/resources</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/platform/springintegrationlibs/lib/spring-integration-event-5.5.7.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/platform/springintegrationlibs/lib/spring-integration-feed-5.5.7.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/platform/springintegrationlibs/lib/spring-integration-file-5.5.7.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/platform/springintegrationlibs/lib/spring-integration-ftp-5.5.7.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/platform/springintegrationlibs/lib/spring-integration-groovy-5.5.7.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/platform/springintegrationlibs/lib/spring-integration-http-5.5.7.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/platform/springintegrationlibs/lib/spring-integration-ip-5.5.7.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/platform/springintegrationlibs/lib/spring-integration-jdbc-5.5.7.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/platform/springintegrationlibs/lib/spring-integration-jms-5.5.7.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/platform/springintegrationlibs/lib/spring-integration-jmx-5.5.7.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/platform/springintegrationlibs/lib/spring-integration-mail-5.5.7.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/platform/springintegrationlibs/lib/spring-integration-rmi-5.5.7.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/platform/springintegrationlibs/lib/spring-integration-scripting-5.5.7.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/platform/springintegrationlibs/lib/spring-integration-security-5.5.7.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/platform/springintegrationlibs/lib/spring-integration-sftp-5.5.7.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/platform/springintegrationlibs/lib/spring-integration-stream-5.5.7.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/platform/springintegrationlibs/lib/spring-integration-test-5.5.7.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/platform/springintegrationlibs/lib/spring-integration-ws-5.5.7.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/platform/springintegrationlibs/lib/spring-integration-xml-5.5.7.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/platform/springintegrationlibs/lib/spring-integration-xmpp-5.5.7.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/platform/springintegrationlibs/lib/spring-ws-core-3.1.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/platform/springintegrationlibs/resources</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/platform/alluicommons/classes</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/platform/alluicommons/bin/alluicommonsserver.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/platform/alluicommons/resources</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-hybris/advancedexport/classes</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-hybris/advancedexport/lib/commons-collections4-4.4.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-hybris/advancedexport/resources</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/paymentstandard/classes</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/paymentstandard/bin/paymentstandardserver.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/paymentstandard/resources</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/comments/classes</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/comments/bin/commentsserver.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/platform/ext/comments/resources</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/search-services/searchservices/classes</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/search-services/searchservices/resources</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/backoffice-framework/backoffice/classes</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/backoffice-framework/backoffice/bin/backofficeserver.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/backoffice-framework/backoffice/lib/commons-compress-1.24.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/backoffice-framework/backoffice/lib/curvesapi-1.07.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/backoffice-framework/backoffice/lib/poi-ooxml-5.2.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/backoffice-framework/backoffice/lib/poi-ooxml-lite-5.2.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/backoffice-framework/backoffice/lib/xmlbeans-5.1.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/backoffice-framework/backoffice/resources</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/base-commerce/promotions/classes</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/base-commerce/promotions/bin/promotionsserver.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/base-commerce/promotions/resources</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/commerce-services/commerceservices/classes</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/commerce-services/commerceservices/resources</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/platform/embeddedserver/classes</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/platform/embeddedserver/bin/embeddedserverserver.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/platform/embeddedserver/resources</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/sap-framework-core/sapcoreconfiguration/classes</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/sap-framework-core/sapcoreconfiguration/resources</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/platform/tomcatembeddedserver/classes</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/platform/tomcatembeddedserver/bin/tomcatembeddedserverserver.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/bin/modules/platform/tomcatembeddedserver/resources</AuxClasspathEntry>
+    <SrcDir>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src</SrcDir>
+    <SrcDir>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/web/src</SrcDir>
+    <SrcDir>/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/backoffice/src</SrcDir>
+  </Project>
+  <BugInstance type="NP_NULL_ON_SOME_PATH_FROM_RETURN_VALUE" priority="2" rank="13" abbrev="NP" category="STYLE" instanceHash="f2cb13e40e4fb4a75a7cc4e2218ddd2c" instanceOccurrenceNum="0" instanceOccurrenceMax="0" cweid="476">
+    <ShortMessage>Possible null pointer dereference due to return value of called method</ShortMessage>
+    <LongMessage>Possible null pointer dereference in com.wago.fulfilmentprocess.order.impl.DefaultWagoExportOrderService.setExportStatus(Message) due to return value of called method</LongMessage>
+    <Class classname="com.wago.fulfilmentprocess.order.impl.DefaultWagoExportOrderService" primary="true">
+      <SourceLine classname="com.wago.fulfilmentprocess.order.impl.DefaultWagoExportOrderService" start="21" end="59" sourcefile="DefaultWagoExportOrderService.java" sourcepath="com/wago/fulfilmentprocess/order/impl/DefaultWagoExportOrderService.java" relSourcepath="src/com/wago/fulfilmentprocess/order/impl/DefaultWagoExportOrderService.java">
+        <Message>At DefaultWagoExportOrderService.java:[lines 21-59]</Message>
+      </SourceLine>
+      <Message>In class com.wago.fulfilmentprocess.order.impl.DefaultWagoExportOrderService</Message>
+    </Class>
+    <Method classname="com.wago.fulfilmentprocess.order.impl.DefaultWagoExportOrderService" name="setExportStatus" signature="(Lorg/springframework/messaging/Message;)V" isStatic="false" primary="true">
+      <SourceLine classname="com.wago.fulfilmentprocess.order.impl.DefaultWagoExportOrderService" start="31" end="49" startBytecode="0" endBytecode="351" sourcefile="DefaultWagoExportOrderService.java" sourcepath="com/wago/fulfilmentprocess/order/impl/DefaultWagoExportOrderService.java" relSourcepath="src/com/wago/fulfilmentprocess/order/impl/DefaultWagoExportOrderService.java"/>
+      <Message>In method com.wago.fulfilmentprocess.order.impl.DefaultWagoExportOrderService.setExportStatus(Message)</Message>
+    </Method>
+    <LocalVariable name="exportStatus" register="3" pc="100" role="LOCAL_VARIABLE_VALUE_OF">
+      <Message>Value loaded from exportStatus</Message>
+    </LocalVariable>
+    <SourceLine classname="com.wago.fulfilmentprocess.order.impl.DefaultWagoExportOrderService" primary="true" start="44" end="44" startBytecode="101" endBytecode="101" sourcefile="DefaultWagoExportOrderService.java" sourcepath="com/wago/fulfilmentprocess/order/impl/DefaultWagoExportOrderService.java" relSourcepath="src/com/wago/fulfilmentprocess/order/impl/DefaultWagoExportOrderService.java" role="SOURCE_LINE_DEREF">
+      <Message>Dereferenced at DefaultWagoExportOrderService.java:[line 44]</Message>
+    </SourceLine>
+    <SourceLine classname="com.wago.fulfilmentprocess.order.impl.DefaultWagoExportOrderService" start="39" end="39" startBytecode="61" endBytecode="61" sourcefile="DefaultWagoExportOrderService.java" sourcepath="com/wago/fulfilmentprocess/order/impl/DefaultWagoExportOrderService.java" relSourcepath="src/com/wago/fulfilmentprocess/order/impl/DefaultWagoExportOrderService.java" role="SOURCE_LINE_KNOWN_NULL">
+      <Message>Known null at DefaultWagoExportOrderService.java:[line 39]</Message>
+    </SourceLine>
+    <Property name="edu.umd.cs.findbugs.detect.DoomedCodeWarningProperty.DOOMED_CODE" value="true"/>
+  </BugInstance>
+  <BugInstance type="PATH_TRAVERSAL_IN" priority="2" rank="12" abbrev="SECPTI" category="SECURITY" instanceHash="ef287ac7fb83d05504b9ce089ce48c5c" instanceOccurrenceNum="0" instanceOccurrenceMax="0" cweid="22">
+    <ShortMessage>Potential Path Traversal (file read)</ShortMessage>
+    <LongMessage>This API (java/io/File.&lt;init&gt;(Ljava/lang/String;)V) reads a file whose location might be specified by user input</LongMessage>
+    <Class classname="com.wago.fulfilmentprocess.order.impl.DefaultWagoImportOrderService" primary="true">
+      <SourceLine classname="com.wago.fulfilmentprocess.order.impl.DefaultWagoImportOrderService" start="18" end="73" sourcefile="DefaultWagoImportOrderService.java" sourcepath="com/wago/fulfilmentprocess/order/impl/DefaultWagoImportOrderService.java" relSourcepath="src/com/wago/fulfilmentprocess/order/impl/DefaultWagoImportOrderService.java">
+        <Message>At DefaultWagoImportOrderService.java:[lines 18-73]</Message>
+      </SourceLine>
+      <Message>In class com.wago.fulfilmentprocess.order.impl.DefaultWagoImportOrderService</Message>
+    </Class>
+    <Method classname="com.wago.fulfilmentprocess.order.impl.DefaultWagoImportOrderService" name="receiveFiles" signature="(Lorg/springframework/integration/file/FileReadingMessageSource;Lorg/springframework/messaging/MessageChannel;)V" isStatic="false" primary="true">
+      <SourceLine classname="com.wago.fulfilmentprocess.order.impl.DefaultWagoImportOrderService" start="25" end="73" startBytecode="0" endBytecode="588" sourcefile="DefaultWagoImportOrderService.java" sourcepath="com/wago/fulfilmentprocess/order/impl/DefaultWagoImportOrderService.java" relSourcepath="src/com/wago/fulfilmentprocess/order/impl/DefaultWagoImportOrderService.java"/>
+      <Message>In method com.wago.fulfilmentprocess.order.impl.DefaultWagoImportOrderService.receiveFiles(FileReadingMessageSource, MessageChannel)</Message>
+    </Method>
+    <SourceLine classname="com.wago.fulfilmentprocess.order.impl.DefaultWagoImportOrderService" primary="true" start="55" end="55" startBytecode="162" endBytecode="162" sourcefile="DefaultWagoImportOrderService.java" sourcepath="com/wago/fulfilmentprocess/order/impl/DefaultWagoImportOrderService.java" relSourcepath="src/com/wago/fulfilmentprocess/order/impl/DefaultWagoImportOrderService.java">
+      <Message>At DefaultWagoImportOrderService.java:[line 55]</Message>
+    </SourceLine>
+    <String value="java/io/File.&lt;init&gt;(Ljava/lang/String;)V" role="Sink method">
+      <Message>Sink method java/io/File.&lt;init&gt;(Ljava/lang/String;)V</Message>
+    </String>
+    <String value="0" role="Sink parameter">
+      <Message>Sink parameter 0</Message>
+    </String>
+  </BugInstance>
+  <BugInstance type="BC_UNCONFIRMED_CAST" priority="2" rank="17" abbrev="BC" category="STYLE" instanceHash="41d3bbf5986153f28c6f190adffa457b" instanceOccurrenceNum="0" instanceOccurrenceMax="0">
+    <ShortMessage>Unchecked/unconfirmed cast</ShortMessage>
+    <LongMessage>Unchecked/unconfirmed cast from de.hybris.platform.processengine.model.BusinessProcessModel to de.hybris.platform.orderprocessing.model.OrderProcessModel in com.wago.fulfilmentprocess.test.actions.SplitOrder.execute(BusinessProcessModel)</LongMessage>
+    <Class classname="com.wago.fulfilmentprocess.test.actions.SplitOrder" primary="true">
+      <SourceLine classname="com.wago.fulfilmentprocess.test.actions.SplitOrder" start="34" end="87" sourcefile="SplitOrder.java" sourcepath="com/wago/fulfilmentprocess/test/actions/SplitOrder.java">
+        <Message>At SplitOrder.java:[lines 34-87]</Message>
+      </SourceLine>
+      <Message>In class com.wago.fulfilmentprocess.test.actions.SplitOrder</Message>
+    </Class>
+    <Method classname="com.wago.fulfilmentprocess.test.actions.SplitOrder" name="execute" signature="(Lde/hybris/platform/processengine/model/BusinessProcessModel;)Ljava/lang/String;" isStatic="false" primary="true">
+      <SourceLine classname="com.wago.fulfilmentprocess.test.actions.SplitOrder" start="48" end="76" startBytecode="0" endBytecode="93" sourcefile="SplitOrder.java" sourcepath="com/wago/fulfilmentprocess/test/actions/SplitOrder.java"/>
+      <Message>In method com.wago.fulfilmentprocess.test.actions.SplitOrder.execute(BusinessProcessModel)</Message>
+    </Method>
+    <Type descriptor="Lde/hybris/platform/processengine/model/BusinessProcessModel;" role="TYPE_FOUND">
+      <SourceLine classname="de.hybris.platform.processengine.model.BusinessProcessModel" start="75" end="362" sourcefile="BusinessProcessModel.java" sourcepath="de/hybris/platform/processengine/model/BusinessProcessModel.java">
+        <Message>At BusinessProcessModel.java:[lines 75-362]</Message>
+      </SourceLine>
+      <Message>Actual type de.hybris.platform.processengine.model.BusinessProcessModel</Message>
+    </Type>
+    <Type descriptor="Lde/hybris/platform/orderprocessing/model/OrderProcessModel;" role="TYPE_EXPECTED">
+      <SourceLine classname="de.hybris.platform.orderprocessing.model.OrderProcessModel" start="43" end="127" sourcefile="OrderProcessModel.java" sourcepath="de/hybris/platform/orderprocessing/model/OrderProcessModel.java">
+        <Message>At OrderProcessModel.java:[lines 43-127]</Message>
+      </SourceLine>
+      <Message>Expected de.hybris.platform.orderprocessing.model.OrderProcessModel</Message>
+    </Type>
+    <LocalVariable name="process" register="1" pc="106" role="LOCAL_VARIABLE_VALUE_OF">
+      <Message>Value loaded from process</Message>
+    </LocalVariable>
+    <SourceLine classname="com.wago.fulfilmentprocess.test.actions.SplitOrder" primary="true" start="64" end="64" startBytecode="107" endBytecode="107" sourcefile="SplitOrder.java" sourcepath="com/wago/fulfilmentprocess/test/actions/SplitOrder.java">
+      <Message>At SplitOrder.java:[line 64]</Message>
+    </SourceLine>
+  </BugInstance>
+  <BugInstance type="BC_UNCONFIRMED_CAST" priority="2" rank="17" abbrev="BC" category="STYLE" instanceHash="259fec62125f575db77636916e2b95f1" instanceOccurrenceNum="0" instanceOccurrenceMax="0">
+    <ShortMessage>Unchecked/unconfirmed cast</ShortMessage>
+    <LongMessage>Unchecked/unconfirmed cast from de.hybris.platform.processengine.model.BusinessProcessModel to de.hybris.platform.ordersplitting.model.ConsignmentProcessModel in com.wago.fulfilmentprocess.test.actions.consignmentfulfilment.SubprocessEnd.execute(BusinessProcessModel)</LongMessage>
+    <Class classname="com.wago.fulfilmentprocess.test.actions.consignmentfulfilment.SubprocessEnd" primary="true">
+      <SourceLine classname="com.wago.fulfilmentprocess.test.actions.consignmentfulfilment.SubprocessEnd" start="27" end="42" sourcefile="SubprocessEnd.java" sourcepath="com/wago/fulfilmentprocess/test/actions/consignmentfulfilment/SubprocessEnd.java">
+        <Message>At SubprocessEnd.java:[lines 27-42]</Message>
+      </SourceLine>
+      <Message>In class com.wago.fulfilmentprocess.test.actions.consignmentfulfilment.SubprocessEnd</Message>
+    </Class>
+    <Method classname="com.wago.fulfilmentprocess.test.actions.consignmentfulfilment.SubprocessEnd" name="execute" signature="(Lde/hybris/platform/processengine/model/BusinessProcessModel;)Ljava/lang/String;" isStatic="false" primary="true">
+      <SourceLine classname="com.wago.fulfilmentprocess.test.actions.consignmentfulfilment.SubprocessEnd" start="34" end="42" startBytecode="0" endBytecode="29" sourcefile="SubprocessEnd.java" sourcepath="com/wago/fulfilmentprocess/test/actions/consignmentfulfilment/SubprocessEnd.java"/>
+      <Message>In method com.wago.fulfilmentprocess.test.actions.consignmentfulfilment.SubprocessEnd.execute(BusinessProcessModel)</Message>
+    </Method>
+    <Type descriptor="Lde/hybris/platform/processengine/model/BusinessProcessModel;" role="TYPE_FOUND">
+      <SourceLine classname="de.hybris.platform.processengine.model.BusinessProcessModel" start="75" end="362" sourcefile="BusinessProcessModel.java" sourcepath="de/hybris/platform/processengine/model/BusinessProcessModel.java">
+        <Message>At BusinessProcessModel.java:[lines 75-362]</Message>
+      </SourceLine>
+      <Message>Actual type de.hybris.platform.processengine.model.BusinessProcessModel</Message>
+    </Type>
+    <Type descriptor="Lde/hybris/platform/ordersplitting/model/ConsignmentProcessModel;" role="TYPE_EXPECTED">
+      <SourceLine classname="de.hybris.platform.ordersplitting.model.ConsignmentProcessModel" start="55" end="201" sourcefile="ConsignmentProcessModel.java" sourcepath="de/hybris/platform/ordersplitting/model/ConsignmentProcessModel.java">
+        <Message>At ConsignmentProcessModel.java:[lines 55-201]</Message>
+      </SourceLine>
+      <Message>Expected de.hybris.platform.ordersplitting.model.ConsignmentProcessModel</Message>
+    </Type>
+    <LocalVariable name="process" register="1" pc="6" role="LOCAL_VARIABLE_VALUE_OF">
+      <Message>Value loaded from process</Message>
+    </LocalVariable>
+    <SourceLine classname="com.wago.fulfilmentprocess.test.actions.consignmentfulfilment.SubprocessEnd" primary="true" start="36" end="36" startBytecode="7" endBytecode="7" sourcefile="SubprocessEnd.java" sourcepath="com/wago/fulfilmentprocess/test/actions/consignmentfulfilment/SubprocessEnd.java">
+      <Message>At SubprocessEnd.java:[line 36]</Message>
+    </SourceLine>
+    <SourceLine classname="com.wago.fulfilmentprocess.test.actions.consignmentfulfilment.SubprocessEnd" start="40" end="40" startBytecode="48" endBytecode="48" sourcefile="SubprocessEnd.java" sourcepath="com/wago/fulfilmentprocess/test/actions/consignmentfulfilment/SubprocessEnd.java" role="SOURCE_LINE_ANOTHER_INSTANCE">
+      <Message>Another occurrence at SubprocessEnd.java:[line 40]</Message>
+    </SourceLine>
+  </BugInstance>
+  <BugCategory category="STYLE">
+    <Description>Dodgy code</Description>
+  </BugCategory>
+  <BugCategory category="SECURITY">
+    <Description>Security</Description>
+  </BugCategory>
+  <BugPattern type="PATH_TRAVERSAL_IN" abbrev="SECPTI" category="SECURITY" cweid="22">
+    <ShortDescription>Potential Path Traversal (file read)</ShortDescription>
+    <Details><![CDATA[
+            
+<p>A file is opened to read its content. The filename comes from an <b>input</b> parameter.
+If an unfiltered parameter is passed to this file API, files from an arbitrary filesystem location could be read.</p>
+<p>This rule identifies <b>potential</b> path traversal vulnerabilities. In many cases, the constructed file path cannot be controlled
+by the user. If that is the case, the reported instance is a false positive.</p>
+<br/>
+
+<p>
+    <b>Vulnerable Code:</b><br/>
+<pre>@GET
+@Path("/images/{image}")
+@Produces("images/*")
+public Response getImage(@javax.ws.rs.PathParam("image") String image) {
+    File file = new File("resources/images/", image); //Weak point
+
+    if (!file.exists()) {
+        return Response.status(Status.NOT_FOUND).build();
+    }
+
+    return Response.ok().entity(new FileInputStream(file)).build();
+}</pre>
+</p>
+<br/>
+
+<p>
+    <b>Solution:</b><br/>
+<pre>import org.apache.commons.io.FilenameUtils;
+
+@GET
+@Path("/images/{image}")
+@Produces("images/*")
+public Response getImage(@javax.ws.rs.PathParam("image") String image) {
+    File file = new File("resources/images/", FilenameUtils.getName(image)); //Fix
+
+    if (!file.exists()) {
+        return Response.status(Status.NOT_FOUND).build();
+    }
+
+    return Response.ok().entity(new FileInputStream(file)).build();
+}</pre>
+</p>
+<br/>
+<p>
+<b>References</b><br/>
+<a href="http://projects.webappsec.org/w/page/13246952/Path%20Traversal">WASC: Path Traversal</a><br/>
+<a href="https://www.owasp.org/index.php/Path_Traversal">OWASP: Path Traversal</a><br/>
+<a href="https://capec.mitre.org/data/definitions/126.html">CAPEC-126: Path Traversal</a><br/>
+<a href="https://cwe.mitre.org/data/definitions/22.html">CWE-22: Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal')</a>
+</p>
+
+        ]]></Details>
+  </BugPattern>
+  <BugPattern type="NP_NULL_ON_SOME_PATH_FROM_RETURN_VALUE" abbrev="NP" category="STYLE">
+    <ShortDescription>Possible null pointer dereference due to return value of called method</ShortDescription>
+    <Details><![CDATA[
+      
+<p> The return value from a method is dereferenced without a null check,
+and the return value of that method is one that should generally be checked
+for null.  This may lead to a <code>NullPointerException</code> when the code is executed.
+</p>
+      
+   ]]></Details>
+  </BugPattern>
+  <BugPattern type="BC_UNCONFIRMED_CAST" abbrev="BC" category="STYLE">
+    <ShortDescription>Unchecked/unconfirmed cast</ShortDescription>
+    <Details><![CDATA[
+
+<p>
+This cast is unchecked, and not all instances of the type casted from can be cast to
+the type it is being cast to. Check that your program logic ensures that this
+cast will not fail.
+</p>
+
+    ]]></Details>
+  </BugPattern>
+  <BugCode abbrev="BC">
+    <Description>Bad casts of object references</Description>
+  </BugCode>
+  <BugCode abbrev="NP" cweid="476">
+    <Description>Null pointer dereference</Description>
+  </BugCode>
+  <BugCode abbrev="SECPTI">
+    <Description>Potential Path Traversal (file read)</Description>
+  </BugCode>
+  <Errors errors="0" missingClasses="1">
+    <MissingClass>makeConcatWithConstants</MissingClass>
+  </Errors>
+  <FindBugsSummary timestamp="Tue, 23 Jan 2024 16:10:08 +0100" total_classes="112" referenced_classes="364" total_bugs="4" total_size="2019" num_packages="18" java_version="17.0.9" vm_version="17.0.9+0-LTS" cpu_seconds="19.34" clock_seconds="4.24" peak_mbytes="472.22" alloc_mbytes="8032.00" gc_seconds="0.07" priority_2="4">
+    <FileStats path="com/wago/fulfilmentprocess/CheckOrderService.java" bugCount="0" size="2"/>
+    <FileStats path="com/wago/fulfilmentprocess/actions/consignment/AllowShipmentAction.java" bugCount="0" size="45"/>
+    <FileStats path="com/wago/fulfilmentprocess/actions/consignment/CancelConsignmentAction.java" bugCount="0" size="10"/>
+    <FileStats path="com/wago/fulfilmentprocess/actions/consignment/ReceiveConsignmentStatusAction.java" bugCount="0" size="45"/>
+    <FileStats path="com/wago/fulfilmentprocess/actions/consignment/SendCancelMessageAction.java" bugCount="0" size="6"/>
+    <FileStats path="com/wago/fulfilmentprocess/actions/consignment/SendConsignmentToWarehouseAction.java" bugCount="0" size="19"/>
+    <FileStats path="com/wago/fulfilmentprocess/actions/consignment/SendDeliveryMessageAction.java" bugCount="0" size="20"/>
+    <FileStats path="com/wago/fulfilmentprocess/actions/consignment/SubprocessEndAction.java" bugCount="0" size="25"/>
+    <FileStats path="com/wago/fulfilmentprocess/actions/consignment/WaitBeforeTransmissionAction.java" bugCount="0" size="6"/>
+    <FileStats path="com/wago/fulfilmentprocess/actions/order/AbstractFraudCheckAction.java" bugCount="0" size="60"/>
+    <FileStats path="com/wago/fulfilmentprocess/actions/order/AbstractOrderAction.java" bugCount="0" size="15"/>
+    <FileStats path="com/wago/fulfilmentprocess/actions/order/CancelWholeOrderAuthorizationAction.java" bugCount="0" size="35"/>
+    <FileStats path="com/wago/fulfilmentprocess/actions/order/CheckAuthorizeOrderPaymentAction.java" bugCount="0" size="19"/>
+    <FileStats path="com/wago/fulfilmentprocess/actions/order/CheckOrderAction.java" bugCount="0" size="23"/>
+    <FileStats path="com/wago/fulfilmentprocess/actions/order/CheckTransactionReviewStatusAction.java" bugCount="0" size="81"/>
+    <FileStats path="com/wago/fulfilmentprocess/actions/order/FraudCheckOrderAction.java" bugCount="0" size="60"/>
+    <FileStats path="com/wago/fulfilmentprocess/actions/order/FraudCheckOrderInternalAction.java" bugCount="0" size="56"/>
+    <FileStats path="com/wago/fulfilmentprocess/actions/order/GetPaymentDetailsAction.java" bugCount="0" size="10"/>
+    <FileStats path="com/wago/fulfilmentprocess/actions/order/NotifyCustomerAboutFraudAction.java" bugCount="0" size="17"/>
+    <FileStats path="com/wago/fulfilmentprocess/actions/order/OrderExportAction.java" bugCount="0" size="16"/>
+    <FileStats path="com/wago/fulfilmentprocess/actions/order/OrderManualCheckedAction.java" bugCount="0" size="39"/>
+    <FileStats path="com/wago/fulfilmentprocess/actions/order/PrepareOrderForManualCheckAction.java" bugCount="0" size="22"/>
+    <FileStats path="com/wago/fulfilmentprocess/actions/order/ReserveOrderAmountAction.java" bugCount="0" size="7"/>
+    <FileStats path="com/wago/fulfilmentprocess/actions/order/ScheduleForCleanUpAction.java" bugCount="0" size="53"/>
+    <FileStats path="com/wago/fulfilmentprocess/actions/order/SendAuthorizationFailedNotificationAction.java" bugCount="0" size="17"/>
+    <FileStats path="com/wago/fulfilmentprocess/actions/order/SendFraudErrorNotificationAction.java" bugCount="0" size="17"/>
+    <FileStats path="com/wago/fulfilmentprocess/actions/order/SendOrderCancelledNotificationAction.java" bugCount="0" size="18"/>
+    <FileStats path="com/wago/fulfilmentprocess/actions/order/SendOrderCompletedNotificationAction.java" bugCount="0" size="18"/>
+    <FileStats path="com/wago/fulfilmentprocess/actions/order/SendOrderPlacedNotificationAction.java" bugCount="0" size="17"/>
+    <FileStats path="com/wago/fulfilmentprocess/actions/order/SendPaymentFailedNotificationAction.java" bugCount="0" size="18"/>
+    <FileStats path="com/wago/fulfilmentprocess/actions/order/SplitOrderAction.java" bugCount="0" size="42"/>
+    <FileStats path="com/wago/fulfilmentprocess/actions/order/SubprocessesCompletedAction.java" bugCount="0" size="18"/>
+    <FileStats path="com/wago/fulfilmentprocess/actions/order/TakePaymentAction.java" bugCount="0" size="26"/>
+    <FileStats path="com/wago/fulfilmentprocess/constants/GeneratedWagoFulfilmentProcessConstants.java" bugCount="0" size="18"/>
+    <FileStats path="com/wago/fulfilmentprocess/constants/WagoFulfilmentProcessConstants.java" bugCount="0" size="9"/>
+    <FileStats path="com/wago/fulfilmentprocess/events/OrderCancelledEvent.java" bugCount="0" size="5"/>
+    <FileStats path="com/wago/fulfilmentprocess/events/OrderExportEvent.java" bugCount="0" size="5"/>
+    <FileStats path="com/wago/fulfilmentprocess/events/OrderImportEvent.java" bugCount="0" size="3"/>
+    <FileStats path="com/wago/fulfilmentprocess/exceptions/PaymentMethodException.java" bugCount="0" size="5"/>
+    <FileStats path="com/wago/fulfilmentprocess/impl/DefaultCheckOrderService.java" bugCount="0" size="20"/>
+    <FileStats path="com/wago/fulfilmentprocess/jalo/WagoFulfilmentProcessManager.java" bugCount="0" size="76"/>
+    <FileStats path="com/wago/fulfilmentprocess/jobs/CleanUpFraudOrderJob.java" bugCount="0" size="29"/>
+    <FileStats path="com/wago/fulfilmentprocess/order/WagoExportOrderService.java" bugCount="0" size="2"/>
+    <FileStats path="com/wago/fulfilmentprocess/order/WagoImportOrderService.java" bugCount="0" size="2"/>
+    <FileStats path="com/wago/fulfilmentprocess/order/impl/DefaultWagoExportOrderService.java" bugCount="1" size="21" bugHash="f5b3ce505b6cf2c49121c9d6d4d795a2"/>
+    <FileStats path="com/wago/fulfilmentprocess/order/impl/DefaultWagoExportOrderServiceTest.java" bugCount="0" size="55"/>
+    <FileStats path="com/wago/fulfilmentprocess/order/impl/DefaultWagoImportOrderService.java" bugCount="1" size="33" bugHash="8ab6edfee0d78d6d78821055cc6b39ff"/>
+    <FileStats path="com/wago/fulfilmentprocess/order/impl/DefaultWagoImportOrderServiceTest.java" bugCount="0" size="25"/>
+    <FileStats path="com/wago/fulfilmentprocess/strategy/impl/SplitByAvailableCount.java" bugCount="0" size="21"/>
+    <FileStats path="com/wago/fulfilmentprocess/strategy/impl/SplitByDeliveryMode.java" bugCount="0" size="8"/>
+    <FileStats path="com/wago/fulfilmentprocess/strategy/impl/SplitByEntryDeliveryAddress.java" bugCount="0" size="14"/>
+    <FileStats path="com/wago/fulfilmentprocess/strategy/impl/SplitByPoS.java" bugCount="0" size="8"/>
+    <FileStats path="com/wago/fulfilmentprocess/strategy/impl/SplitByWarehouse.java" bugCount="0" size="54"/>
+    <FileStats path="com/wago/fulfilmentprocess/test/CheckAuthorizeOrderPaymentTest.java" bugCount="0" size="31"/>
+    <FileStats path="com/wago/fulfilmentprocess/test/CheckTransactionReviewStatusActionTest.java" bugCount="0" size="85"/>
+    <FileStats path="com/wago/fulfilmentprocess/test/DefaultCheckOrderServiceTest.java" bugCount="0" size="28"/>
+    <FileStats path="com/wago/fulfilmentprocess/test/OrderManualCheckedTest.java" bugCount="0" size="47"/>
+    <FileStats path="com/wago/fulfilmentprocess/test/PrepareOrderForManualCheckTest.java" bugCount="0" size="26"/>
+    <FileStats path="com/wago/fulfilmentprocess/test/ScheduleForCleanUpActionTest.java" bugCount="0" size="52"/>
+    <FileStats path="com/wago/fulfilmentprocess/test/SendAuthorizationFailedNotificationTest.java" bugCount="0" size="14"/>
+    <FileStats path="com/wago/fulfilmentprocess/test/SendFraudErrorNotificationTest.java" bugCount="0" size="14"/>
+    <FileStats path="com/wago/fulfilmentprocess/test/SendOrderCompletedNotificationTest.java" bugCount="0" size="14"/>
+    <FileStats path="com/wago/fulfilmentprocess/test/SendOrderFraudCustomerNotificationEventTest.java" bugCount="0" size="19"/>
+    <FileStats path="com/wago/fulfilmentprocess/test/SendPaymentFailedNotificationTest.java" bugCount="0" size="14"/>
+    <FileStats path="com/wago/fulfilmentprocess/test/TaskServiceStub.java" bugCount="0" size="66"/>
+    <FileStats path="com/wago/fulfilmentprocess/test/actions/CancelWholeOrderAuthorization.java" bugCount="0" size="3"/>
+    <FileStats path="com/wago/fulfilmentprocess/test/actions/CheckAuthorizeOrderPayment.java" bugCount="0" size="3"/>
+    <FileStats path="com/wago/fulfilmentprocess/test/actions/CheckOrder.java" bugCount="0" size="3"/>
+    <FileStats path="com/wago/fulfilmentprocess/test/actions/CheckTransactionReviewStatus.java" bugCount="0" size="3"/>
+    <FileStats path="com/wago/fulfilmentprocess/test/actions/FraudCheckOrder.java" bugCount="0" size="3"/>
+    <FileStats path="com/wago/fulfilmentprocess/test/actions/FraudCheckOrderInternal.java" bugCount="0" size="3"/>
+    <FileStats path="com/wago/fulfilmentprocess/test/actions/NotifyCustomerAboutFraud.java" bugCount="0" size="3"/>
+    <FileStats path="com/wago/fulfilmentprocess/test/actions/OrderManualChecked.java" bugCount="0" size="3"/>
+    <FileStats path="com/wago/fulfilmentprocess/test/actions/PrepareOrderForManualCheck.java" bugCount="0" size="3"/>
+    <FileStats path="com/wago/fulfilmentprocess/test/actions/ReserveOrderAmount.java" bugCount="0" size="3"/>
+    <FileStats path="com/wago/fulfilmentprocess/test/actions/ScheduleForCleanUp.java" bugCount="0" size="3"/>
+    <FileStats path="com/wago/fulfilmentprocess/test/actions/SendAuthorizationFailedNotification.java" bugCount="0" size="3"/>
+    <FileStats path="com/wago/fulfilmentprocess/test/actions/SendFraudErrorNotification.java" bugCount="0" size="3"/>
+    <FileStats path="com/wago/fulfilmentprocess/test/actions/SendOrderCompletedNotification.java" bugCount="0" size="3"/>
+    <FileStats path="com/wago/fulfilmentprocess/test/actions/SendOrderPlacedNotification.java" bugCount="0" size="3"/>
+    <FileStats path="com/wago/fulfilmentprocess/test/actions/SendPaymentFailedNotification.java" bugCount="0" size="3"/>
+    <FileStats path="com/wago/fulfilmentprocess/test/actions/SplitOrder.java" bugCount="1" size="35" bugHash="411a467d90717d1b5fbf97589013223d"/>
+    <FileStats path="com/wago/fulfilmentprocess/test/actions/SubprocessesCompleted.java" bugCount="0" size="15"/>
+    <FileStats path="com/wago/fulfilmentprocess/test/actions/TakePayment.java" bugCount="0" size="3"/>
+    <FileStats path="com/wago/fulfilmentprocess/test/actions/TestActionTemp.java" bugCount="0" size="29"/>
+    <FileStats path="com/wago/fulfilmentprocess/test/actions/consignmentfulfilment/AbstractTestConsActionTemp.java" bugCount="0" size="12"/>
+    <FileStats path="com/wago/fulfilmentprocess/test/actions/consignmentfulfilment/AllowShipment.java" bugCount="0" size="3"/>
+    <FileStats path="com/wago/fulfilmentprocess/test/actions/consignmentfulfilment/CalculatePayment.java" bugCount="0" size="3"/>
+    <FileStats path="com/wago/fulfilmentprocess/test/actions/consignmentfulfilment/CancelConsignment.java" bugCount="0" size="3"/>
+    <FileStats path="com/wago/fulfilmentprocess/test/actions/consignmentfulfilment/ReceiveConsignmentStatus.java" bugCount="0" size="3"/>
+    <FileStats path="com/wago/fulfilmentprocess/test/actions/consignmentfulfilment/SendCancelMessage.java" bugCount="0" size="3"/>
+    <FileStats path="com/wago/fulfilmentprocess/test/actions/consignmentfulfilment/SendConsignmentToWarehouse.java" bugCount="0" size="3"/>
+    <FileStats path="com/wago/fulfilmentprocess/test/actions/consignmentfulfilment/SendDeliveryMessage.java" bugCount="0" size="3"/>
+    <FileStats path="com/wago/fulfilmentprocess/test/actions/consignmentfulfilment/SendPaymentFailedMessage.java" bugCount="0" size="3"/>
+    <FileStats path="com/wago/fulfilmentprocess/test/actions/consignmentfulfilment/SendPickedUpMessage.java" bugCount="0" size="3"/>
+    <FileStats path="com/wago/fulfilmentprocess/test/actions/consignmentfulfilment/SubprocessEnd.java" bugCount="1" size="14" bugHash="ac9bb8e942ea1e7dd5c47a4807f8d794"/>
+    <FileStats path="com/wago/fulfilmentprocess/test/actions/consignmentfulfilment/WaitBeforeTransmission.java" bugCount="0" size="3"/>
+    <FileStats path="com/wago/fulfilmentprocess/test/beans/ActionExecution.java" bugCount="0" size="12"/>
+    <FileStats path="com/wago/fulfilmentprocess/test/beans/QueueService.java" bugCount="0" size="1"/>
+    <FileStats path="com/wago/fulfilmentprocess/test/beans/QueueServiceImpl.java" bugCount="0" size="3"/>
+    <FileStats path="com/wago/fulfilmentprocess/test/events/TestEventListenerCountingEvents.java" bugCount="0" size="13"/>
+    <FileStats path="com/wago/fulfilmentprocess/warehouse/DefaultWarehouse2ProcessAdapter.java" bugCount="0" size="32"/>
+    <FileStats path="com/wago/fulfilmentprocess/warehouse/MockProcess2WarehouseAdapter.java" bugCount="0" size="67"/>
+    <PackageStats package="com.wago.fulfilmentprocess" total_bugs="0" total_types="1" total_size="2">
+      <ClassStats class="com.wago.fulfilmentprocess.CheckOrderService" sourceFile="CheckOrderService.java" interface="true" size="2" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.wago.fulfilmentprocess.actions.consignment" total_bugs="0" total_types="11" total_size="176">
+      <ClassStats class="com.wago.fulfilmentprocess.actions.consignment.AllowShipmentAction" sourceFile="AllowShipmentAction.java" interface="false" size="28" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.actions.consignment.AllowShipmentAction$Transition" sourceFile="AllowShipmentAction.java" interface="false" size="17" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.actions.consignment.CancelConsignmentAction" sourceFile="CancelConsignmentAction.java" interface="false" size="10" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.actions.consignment.ReceiveConsignmentStatusAction" sourceFile="ReceiveConsignmentStatusAction.java" interface="false" size="24" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.actions.consignment.ReceiveConsignmentStatusAction$1" sourceFile="ReceiveConsignmentStatusAction.java" interface="false" size="4" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.actions.consignment.ReceiveConsignmentStatusAction$Transition" sourceFile="ReceiveConsignmentStatusAction.java" interface="false" size="17" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.actions.consignment.SendCancelMessageAction" sourceFile="SendCancelMessageAction.java" interface="false" size="6" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.actions.consignment.SendConsignmentToWarehouseAction" sourceFile="SendConsignmentToWarehouseAction.java" interface="false" size="19" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.actions.consignment.SendDeliveryMessageAction" sourceFile="SendDeliveryMessageAction.java" interface="false" size="20" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.actions.consignment.SubprocessEndAction" sourceFile="SubprocessEndAction.java" interface="false" size="25" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.actions.consignment.WaitBeforeTransmissionAction" sourceFile="WaitBeforeTransmissionAction.java" interface="false" size="6" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.wago.fulfilmentprocess.actions.order" total_bugs="0" total_types="27" total_size="704">
+      <ClassStats class="com.wago.fulfilmentprocess.actions.order.AbstractFraudCheckAction" sourceFile="AbstractFraudCheckAction.java" interface="false" size="43" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.actions.order.AbstractFraudCheckAction$Transition" sourceFile="AbstractFraudCheckAction.java" interface="false" size="17" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.actions.order.AbstractOrderAction" sourceFile="AbstractOrderAction.java" interface="false" size="15" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.actions.order.CancelWholeOrderAuthorizationAction" sourceFile="CancelWholeOrderAuthorizationAction.java" interface="false" size="35" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.actions.order.CheckAuthorizeOrderPaymentAction" sourceFile="CheckAuthorizeOrderPaymentAction.java" interface="false" size="19" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.actions.order.CheckOrderAction" sourceFile="CheckOrderAction.java" interface="false" size="23" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.actions.order.CheckTransactionReviewStatusAction" sourceFile="CheckTransactionReviewStatusAction.java" interface="false" size="64" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.actions.order.CheckTransactionReviewStatusAction$Transition" sourceFile="CheckTransactionReviewStatusAction.java" interface="false" size="17" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.actions.order.FraudCheckOrderAction" sourceFile="FraudCheckOrderAction.java" interface="false" size="60" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.actions.order.FraudCheckOrderInternalAction" sourceFile="FraudCheckOrderInternalAction.java" interface="false" size="56" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.actions.order.GetPaymentDetailsAction" sourceFile="GetPaymentDetailsAction.java" interface="false" size="10" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.actions.order.NotifyCustomerAboutFraudAction" sourceFile="NotifyCustomerAboutFraudAction.java" interface="false" size="17" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.actions.order.OrderExportAction" sourceFile="OrderExportAction.java" interface="false" size="16" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.actions.order.OrderManualCheckedAction" sourceFile="OrderManualCheckedAction.java" interface="false" size="22" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.actions.order.OrderManualCheckedAction$Transition" sourceFile="OrderManualCheckedAction.java" interface="false" size="17" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.actions.order.PrepareOrderForManualCheckAction" sourceFile="PrepareOrderForManualCheckAction.java" interface="false" size="22" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.actions.order.ReserveOrderAmountAction" sourceFile="ReserveOrderAmountAction.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.actions.order.ScheduleForCleanUpAction" sourceFile="ScheduleForCleanUpAction.java" interface="false" size="53" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.actions.order.SendAuthorizationFailedNotificationAction" sourceFile="SendAuthorizationFailedNotificationAction.java" interface="false" size="17" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.actions.order.SendFraudErrorNotificationAction" sourceFile="SendFraudErrorNotificationAction.java" interface="false" size="17" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.actions.order.SendOrderCancelledNotificationAction" sourceFile="SendOrderCancelledNotificationAction.java" interface="false" size="18" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.actions.order.SendOrderCompletedNotificationAction" sourceFile="SendOrderCompletedNotificationAction.java" interface="false" size="18" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.actions.order.SendOrderPlacedNotificationAction" sourceFile="SendOrderPlacedNotificationAction.java" interface="false" size="17" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.actions.order.SendPaymentFailedNotificationAction" sourceFile="SendPaymentFailedNotificationAction.java" interface="false" size="18" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.actions.order.SplitOrderAction" sourceFile="SplitOrderAction.java" interface="false" size="42" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.actions.order.SubprocessesCompletedAction" sourceFile="SubprocessesCompletedAction.java" interface="false" size="18" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.actions.order.TakePaymentAction" sourceFile="TakePaymentAction.java" interface="false" size="26" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.wago.fulfilmentprocess.constants" total_bugs="0" total_types="4" total_size="27">
+      <ClassStats class="com.wago.fulfilmentprocess.constants.GeneratedWagoFulfilmentProcessConstants" sourceFile="GeneratedWagoFulfilmentProcessConstants.java" interface="false" size="5" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.constants.GeneratedWagoFulfilmentProcessConstants$Attributes" sourceFile="GeneratedWagoFulfilmentProcessConstants.java" interface="false" size="3" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.constants.GeneratedWagoFulfilmentProcessConstants$Attributes$ConsignmentProcess" sourceFile="GeneratedWagoFulfilmentProcessConstants.java" interface="false" size="10" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.constants.WagoFulfilmentProcessConstants" sourceFile="WagoFulfilmentProcessConstants.java" interface="false" size="9" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.wago.fulfilmentprocess.events" total_bugs="0" total_types="3" total_size="13">
+      <ClassStats class="com.wago.fulfilmentprocess.events.OrderCancelledEvent" sourceFile="OrderCancelledEvent.java" interface="false" size="5" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.events.OrderExportEvent" sourceFile="OrderExportEvent.java" interface="false" size="5" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.events.OrderImportEvent" sourceFile="OrderImportEvent.java" interface="false" size="3" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.wago.fulfilmentprocess.exceptions" total_bugs="0" total_types="1" total_size="5">
+      <ClassStats class="com.wago.fulfilmentprocess.exceptions.PaymentMethodException" sourceFile="PaymentMethodException.java" interface="false" size="5" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.wago.fulfilmentprocess.impl" total_bugs="0" total_types="1" total_size="20">
+      <ClassStats class="com.wago.fulfilmentprocess.impl.DefaultCheckOrderService" sourceFile="DefaultCheckOrderService.java" interface="false" size="20" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.wago.fulfilmentprocess.jalo" total_bugs="0" total_types="1" total_size="76">
+      <ClassStats class="com.wago.fulfilmentprocess.jalo.WagoFulfilmentProcessManager" sourceFile="WagoFulfilmentProcessManager.java" interface="false" size="76" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.wago.fulfilmentprocess.jobs" total_bugs="0" total_types="1" total_size="29">
+      <ClassStats class="com.wago.fulfilmentprocess.jobs.CleanUpFraudOrderJob" sourceFile="CleanUpFraudOrderJob.java" interface="false" size="29" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.wago.fulfilmentprocess.order" total_bugs="0" total_types="2" total_size="4">
+      <ClassStats class="com.wago.fulfilmentprocess.order.WagoExportOrderService" sourceFile="WagoExportOrderService.java" interface="true" size="2" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.order.WagoImportOrderService" sourceFile="WagoImportOrderService.java" interface="true" size="2" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.wago.fulfilmentprocess.order.impl" total_bugs="2" total_types="4" total_size="134" priority_2="2">
+      <ClassStats class="com.wago.fulfilmentprocess.order.impl.DefaultWagoExportOrderService" sourceFile="DefaultWagoExportOrderService.java" interface="false" size="21" bugs="1" priority_2="1"/>
+      <ClassStats class="com.wago.fulfilmentprocess.order.impl.DefaultWagoExportOrderServiceTest" sourceFile="DefaultWagoExportOrderServiceTest.java" interface="false" size="55" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.order.impl.DefaultWagoImportOrderService" sourceFile="DefaultWagoImportOrderService.java" interface="false" size="33" bugs="1" priority_2="1"/>
+      <ClassStats class="com.wago.fulfilmentprocess.order.impl.DefaultWagoImportOrderServiceTest" sourceFile="DefaultWagoImportOrderServiceTest.java" interface="false" size="25" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.wago.fulfilmentprocess.strategy.impl" total_bugs="0" total_types="5" total_size="105">
+      <ClassStats class="com.wago.fulfilmentprocess.strategy.impl.SplitByAvailableCount" sourceFile="SplitByAvailableCount.java" interface="false" size="21" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.strategy.impl.SplitByDeliveryMode" sourceFile="SplitByDeliveryMode.java" interface="false" size="8" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.strategy.impl.SplitByEntryDeliveryAddress" sourceFile="SplitByEntryDeliveryAddress.java" interface="false" size="14" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.strategy.impl.SplitByPoS" sourceFile="SplitByPoS.java" interface="false" size="8" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.strategy.impl.SplitByWarehouse" sourceFile="SplitByWarehouse.java" interface="false" size="54" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.wago.fulfilmentprocess.test" total_bugs="0" total_types="12" total_size="410">
+      <ClassStats class="com.wago.fulfilmentprocess.test.CheckAuthorizeOrderPaymentTest" sourceFile="CheckAuthorizeOrderPaymentTest.java" interface="false" size="31" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.test.CheckTransactionReviewStatusActionTest" sourceFile="CheckTransactionReviewStatusActionTest.java" interface="false" size="85" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.test.DefaultCheckOrderServiceTest" sourceFile="DefaultCheckOrderServiceTest.java" interface="false" size="28" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.test.OrderManualCheckedTest" sourceFile="OrderManualCheckedTest.java" interface="false" size="47" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.test.PrepareOrderForManualCheckTest" sourceFile="PrepareOrderForManualCheckTest.java" interface="false" size="26" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.test.ScheduleForCleanUpActionTest" sourceFile="ScheduleForCleanUpActionTest.java" interface="false" size="52" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.test.SendAuthorizationFailedNotificationTest" sourceFile="SendAuthorizationFailedNotificationTest.java" interface="false" size="14" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.test.SendFraudErrorNotificationTest" sourceFile="SendFraudErrorNotificationTest.java" interface="false" size="14" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.test.SendOrderCompletedNotificationTest" sourceFile="SendOrderCompletedNotificationTest.java" interface="false" size="14" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.test.SendOrderFraudCustomerNotificationEventTest" sourceFile="SendOrderFraudCustomerNotificationEventTest.java" interface="false" size="19" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.test.SendPaymentFailedNotificationTest" sourceFile="SendPaymentFailedNotificationTest.java" interface="false" size="14" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.test.TaskServiceStub" sourceFile="TaskServiceStub.java" interface="false" size="66" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.wago.fulfilmentprocess.test.actions" total_bugs="1" total_types="20" total_size="130" priority_2="1">
+      <ClassStats class="com.wago.fulfilmentprocess.test.actions.CancelWholeOrderAuthorization" sourceFile="CancelWholeOrderAuthorization.java" interface="false" size="3" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.test.actions.CheckAuthorizeOrderPayment" sourceFile="CheckAuthorizeOrderPayment.java" interface="false" size="3" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.test.actions.CheckOrder" sourceFile="CheckOrder.java" interface="false" size="3" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.test.actions.CheckTransactionReviewStatus" sourceFile="CheckTransactionReviewStatus.java" interface="false" size="3" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.test.actions.FraudCheckOrder" sourceFile="FraudCheckOrder.java" interface="false" size="3" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.test.actions.FraudCheckOrderInternal" sourceFile="FraudCheckOrderInternal.java" interface="false" size="3" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.test.actions.NotifyCustomerAboutFraud" sourceFile="NotifyCustomerAboutFraud.java" interface="false" size="3" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.test.actions.OrderManualChecked" sourceFile="OrderManualChecked.java" interface="false" size="3" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.test.actions.PrepareOrderForManualCheck" sourceFile="PrepareOrderForManualCheck.java" interface="false" size="3" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.test.actions.ReserveOrderAmount" sourceFile="ReserveOrderAmount.java" interface="false" size="3" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.test.actions.ScheduleForCleanUp" sourceFile="ScheduleForCleanUp.java" interface="false" size="3" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.test.actions.SendAuthorizationFailedNotification" sourceFile="SendAuthorizationFailedNotification.java" interface="false" size="3" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.test.actions.SendFraudErrorNotification" sourceFile="SendFraudErrorNotification.java" interface="false" size="3" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.test.actions.SendOrderCompletedNotification" sourceFile="SendOrderCompletedNotification.java" interface="false" size="3" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.test.actions.SendOrderPlacedNotification" sourceFile="SendOrderPlacedNotification.java" interface="false" size="3" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.test.actions.SendPaymentFailedNotification" sourceFile="SendPaymentFailedNotification.java" interface="false" size="3" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.test.actions.SplitOrder" sourceFile="SplitOrder.java" interface="false" size="35" bugs="1" priority_2="1"/>
+      <ClassStats class="com.wago.fulfilmentprocess.test.actions.SubprocessesCompleted" sourceFile="SubprocessesCompleted.java" interface="false" size="15" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.test.actions.TakePayment" sourceFile="TakePayment.java" interface="false" size="3" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.test.actions.TestActionTemp" sourceFile="TestActionTemp.java" interface="false" size="29" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.wago.fulfilmentprocess.test.actions.consignmentfulfilment" total_bugs="1" total_types="12" total_size="56" priority_2="1">
+      <ClassStats class="com.wago.fulfilmentprocess.test.actions.consignmentfulfilment.AbstractTestConsActionTemp" sourceFile="AbstractTestConsActionTemp.java" interface="false" size="12" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.test.actions.consignmentfulfilment.AllowShipment" sourceFile="AllowShipment.java" interface="false" size="3" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.test.actions.consignmentfulfilment.CalculatePayment" sourceFile="CalculatePayment.java" interface="false" size="3" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.test.actions.consignmentfulfilment.CancelConsignment" sourceFile="CancelConsignment.java" interface="false" size="3" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.test.actions.consignmentfulfilment.ReceiveConsignmentStatus" sourceFile="ReceiveConsignmentStatus.java" interface="false" size="3" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.test.actions.consignmentfulfilment.SendCancelMessage" sourceFile="SendCancelMessage.java" interface="false" size="3" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.test.actions.consignmentfulfilment.SendConsignmentToWarehouse" sourceFile="SendConsignmentToWarehouse.java" interface="false" size="3" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.test.actions.consignmentfulfilment.SendDeliveryMessage" sourceFile="SendDeliveryMessage.java" interface="false" size="3" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.test.actions.consignmentfulfilment.SendPaymentFailedMessage" sourceFile="SendPaymentFailedMessage.java" interface="false" size="3" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.test.actions.consignmentfulfilment.SendPickedUpMessage" sourceFile="SendPickedUpMessage.java" interface="false" size="3" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.test.actions.consignmentfulfilment.SubprocessEnd" sourceFile="SubprocessEnd.java" interface="false" size="14" bugs="1" priority_2="1"/>
+      <ClassStats class="com.wago.fulfilmentprocess.test.actions.consignmentfulfilment.WaitBeforeTransmission" sourceFile="WaitBeforeTransmission.java" interface="false" size="3" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.wago.fulfilmentprocess.test.beans" total_bugs="0" total_types="3" total_size="16">
+      <ClassStats class="com.wago.fulfilmentprocess.test.beans.ActionExecution" sourceFile="ActionExecution.java" interface="false" size="12" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.test.beans.QueueService" sourceFile="QueueService.java" interface="true" size="1" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.test.beans.QueueServiceImpl" sourceFile="QueueServiceImpl.java" interface="false" size="3" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.wago.fulfilmentprocess.test.events" total_bugs="0" total_types="1" total_size="13">
+      <ClassStats class="com.wago.fulfilmentprocess.test.events.TestEventListenerCountingEvents" sourceFile="TestEventListenerCountingEvents.java" interface="false" size="13" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.wago.fulfilmentprocess.warehouse" total_bugs="0" total_types="3" total_size="99">
+      <ClassStats class="com.wago.fulfilmentprocess.warehouse.DefaultWarehouse2ProcessAdapter" sourceFile="DefaultWarehouse2ProcessAdapter.java" interface="false" size="32" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.warehouse.MockProcess2WarehouseAdapter" sourceFile="MockProcess2WarehouseAdapter.java" interface="false" size="50" bugs="0"/>
+      <ClassStats class="com.wago.fulfilmentprocess.warehouse.MockProcess2WarehouseAdapter$Warehouse" sourceFile="MockProcess2WarehouseAdapter.java" interface="false" size="17" bugs="0"/>
+    </PackageStats>
+    <FindBugsProfile>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="526" invocations="1902" avgMicrosecondsPerInvocation="276" maxMicrosecondsPerInvocation="15955" standardDeviationMicrosecondsPerInvocation="697"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassDataAnalysisEngine" totalMilliseconds="342" invocations="1914" avgMicrosecondsPerInvocation="179" maxMicrosecondsPerInvocation="2732" standardDeviationMicrosecondsPerInvocation="114"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="182" invocations="364" avgMicrosecondsPerInvocation="500" maxMicrosecondsPerInvocation="21351" standardDeviationMicrosecondsPerInvocation="1550"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindNoSideEffectMethods" totalMilliseconds="157" invocations="364" avgMicrosecondsPerInvocation="432" maxMicrosecondsPerInvocation="12896" standardDeviationMicrosecondsPerInvocation="1096"/>
+      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="105" invocations="926" avgMicrosecondsPerInvocation="113" maxMicrosecondsPerInvocation="1824" standardDeviationMicrosecondsPerInvocation="193"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.taintanalysis.TaintDataflowEngine" totalMilliseconds="102" invocations="435" avgMicrosecondsPerInvocation="234" maxMicrosecondsPerInvocation="5925" standardDeviationMicrosecondsPerInvocation="560"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.IsNullValueDataflowFactory" totalMilliseconds="84" invocations="435" avgMicrosecondsPerInvocation="193" maxMicrosecondsPerInvocation="4443" standardDeviationMicrosecondsPerInvocation="406"/>
+      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.NullDerefAndRedundantComparisonFinder" totalMilliseconds="73" invocations="405" avgMicrosecondsPerInvocation="182" maxMicrosecondsPerInvocation="2911" standardDeviationMicrosecondsPerInvocation="338"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.TypeDataflowFactory" totalMilliseconds="70" invocations="436" avgMicrosecondsPerInvocation="162" maxMicrosecondsPerInvocation="7121" standardDeviationMicrosecondsPerInvocation="428"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ValueNumberDataflowFactory" totalMilliseconds="69" invocations="439" avgMicrosecondsPerInvocation="158" maxMicrosecondsPerInvocation="8153" standardDeviationMicrosecondsPerInvocation="469"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.UnconditionalValueDerefDataflowFactory" totalMilliseconds="68" invocations="435" avgMicrosecondsPerInvocation="157" maxMicrosecondsPerInvocation="3968" standardDeviationMicrosecondsPerInvocation="341"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.CFGFactory" totalMilliseconds="67" invocations="439" avgMicrosecondsPerInvocation="153" maxMicrosecondsPerInvocation="5972" standardDeviationMicrosecondsPerInvocation="312"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.JavaClassAnalysisEngine" totalMilliseconds="66" invocations="580" avgMicrosecondsPerInvocation="114" maxMicrosecondsPerInvocation="6873" standardDeviationMicrosecondsPerInvocation="347"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.NoteDirectlyRelevantTypeQualifiers" totalMilliseconds="59" invocations="364" avgMicrosecondsPerInvocation="163" maxMicrosecondsPerInvocation="3963" standardDeviationMicrosecondsPerInvocation="396"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.MethodGenFactory" totalMilliseconds="48" invocations="439" avgMicrosecondsPerInvocation="110" maxMicrosecondsPerInvocation="22239" standardDeviationMicrosecondsPerInvocation="1060"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.BuildObligationPolicyDatabase" totalMilliseconds="47" invocations="364" avgMicrosecondsPerInvocation="129" maxMicrosecondsPerInvocation="1970" standardDeviationMicrosecondsPerInvocation="256"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindRefComparison$SpecialTypeAnalysis" totalMilliseconds="47" invocations="346" avgMicrosecondsPerInvocation="135" maxMicrosecondsPerInvocation="2007" standardDeviationMicrosecondsPerInvocation="228"/>
+      <ClassProfile name="edu.umd.cs.findbugs.util.TopologicalSort" totalMilliseconds="40" invocations="1840" avgMicrosecondsPerInvocation="22" maxMicrosecondsPerInvocation="503" standardDeviationMicrosecondsPerInvocation="42"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.impl.ZipCodeBaseFactory" totalMilliseconds="40" invocations="397" avgMicrosecondsPerInvocation="100" maxMicrosecondsPerInvocation="1477" standardDeviationMicrosecondsPerInvocation="161"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.CalledMethods" totalMilliseconds="38" invocations="364" avgMicrosecondsPerInvocation="104" maxMicrosecondsPerInvocation="1773" standardDeviationMicrosecondsPerInvocation="245"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FunctionsThatMightBeMistakenForProcedures" totalMilliseconds="37" invocations="364" avgMicrosecondsPerInvocation="102" maxMicrosecondsPerInvocation="2676" standardDeviationMicrosecondsPerInvocation="267"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.BuildStringPassthruGraph" totalMilliseconds="34" invocations="364" avgMicrosecondsPerInvocation="94" maxMicrosecondsPerInvocation="5280" standardDeviationMicrosecondsPerInvocation="343"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.OverridingEqualsNotSymmetrical" totalMilliseconds="33" invocations="364" avgMicrosecondsPerInvocation="91" maxMicrosecondsPerInvocation="6085" standardDeviationMicrosecondsPerInvocation="351"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ConstantDataflowFactory" totalMilliseconds="32" invocations="435" avgMicrosecondsPerInvocation="75" maxMicrosecondsPerInvocation="12079" standardDeviationMicrosecondsPerInvocation="583"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.ReflectiveClasses" totalMilliseconds="27" invocations="364" avgMicrosecondsPerInvocation="75" maxMicrosecondsPerInvocation="1368" standardDeviationMicrosecondsPerInvocation="189"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.EqualsOperandShouldHaveClassCompatibleWithThis" totalMilliseconds="26" invocations="364" avgMicrosecondsPerInvocation="72" maxMicrosecondsPerInvocation="5159" standardDeviationMicrosecondsPerInvocation="302"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.ConstructorThrow" totalMilliseconds="26" invocations="112" avgMicrosecondsPerInvocation="233" maxMicrosecondsPerInvocation="2048" standardDeviationMicrosecondsPerInvocation="274"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.ExplicitSerialization" totalMilliseconds="22" invocations="364" avgMicrosecondsPerInvocation="60" maxMicrosecondsPerInvocation="6709" standardDeviationMicrosecondsPerInvocation="495"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindInconsistentSync2" totalMilliseconds="18" invocations="112" avgMicrosecondsPerInvocation="168" maxMicrosecondsPerInvocation="1986" standardDeviationMicrosecondsPerInvocation="237"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.UnreadFields" totalMilliseconds="18" invocations="112" avgMicrosecondsPerInvocation="167" maxMicrosecondsPerInvocation="891" standardDeviationMicrosecondsPerInvocation="163"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindReturnRef" totalMilliseconds="17" invocations="112" avgMicrosecondsPerInvocation="154" maxMicrosecondsPerInvocation="3168" standardDeviationMicrosecondsPerInvocation="364"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.CheckRelaxingNullnessAnnotation" totalMilliseconds="17" invocations="112" avgMicrosecondsPerInvocation="152" maxMicrosecondsPerInvocation="4302" standardDeviationMicrosecondsPerInvocation="428"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.LoadOfKnownNullValue" totalMilliseconds="17" invocations="112" avgMicrosecondsPerInvocation="152" maxMicrosecondsPerInvocation="1217" standardDeviationMicrosecondsPerInvocation="210"/>
+      <ClassProfile name="edu.umd.cs.findbugs.DetectorToDetector2Adapter" totalMilliseconds="16" invocations="28980" avgMicrosecondsPerInvocation="0" maxMicrosecondsPerInvocation="85" standardDeviationMicrosecondsPerInvocation="0"/>
+      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.TypeQualifierNullnessAnnotationDatabase" totalMilliseconds="16" invocations="4827" avgMicrosecondsPerInvocation="3" maxMicrosecondsPerInvocation="668" standardDeviationMicrosecondsPerInvocation="15"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.PermissiveCORSDetector" totalMilliseconds="13" invocations="112" avgMicrosecondsPerInvocation="123" maxMicrosecondsPerInvocation="10775" standardDeviationMicrosecondsPerInvocation="1011"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.NoteSuppressedWarnings" totalMilliseconds="13" invocations="364" avgMicrosecondsPerInvocation="37" maxMicrosecondsPerInvocation="2648" standardDeviationMicrosecondsPerInvocation="146"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.LiveLocalStoreDataflowFactory" totalMilliseconds="12" invocations="400" avgMicrosecondsPerInvocation="32" maxMicrosecondsPerInvocation="515" standardDeviationMicrosecondsPerInvocation="59"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindDeadLocalStores" totalMilliseconds="12" invocations="112" avgMicrosecondsPerInvocation="110" maxMicrosecondsPerInvocation="1168" standardDeviationMicrosecondsPerInvocation="179"/>
+    </FindBugsProfile>
+  </FindBugsSummary>
+  <ClassFeatures></ClassFeatures>
+  <History></History>
+</BugCollection>

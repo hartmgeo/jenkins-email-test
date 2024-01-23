@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.12.4">
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/actions/WagoBackofficeCMSItemCloneStrategy.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/actions/WagoBackofficeCronJobModelCloneStrategy.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/actions/WagoBackofficeEventModelCloneStrategy.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/actions/WagoBackofficeFilterCategoryCloneStrategy.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/actions/WagoBackofficeFormDeepcloneStrategy.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/actions/WagoBackofficeFormReportAction.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/actions/WagoBackofficeMediaContainerCloneStrategy.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/actions/WagoBackofficeMediaModelCloneStrategy.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/actions/WagoBackofficePOSCloneStrategy.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/actions/WagoBackofficeWagoMessageCloneStrategy.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/actions/WagoDisableB2BCustomerAction.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/actions/WagoDisableB2BUnitAction.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/actions/WagoEnableB2BCustomerAction.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/actions/WagoEnableB2BUnitAction.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/actions/WagoIgnoreDynamicAttributesCloningContext.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/actions/WagoUpdateAccountManagerAction.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/actions/syncstatus/WagoSyncStatusAction.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/classification/WagoClassificationTabEditorAreaRenderer.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/dataaccess/facades/search/WagoCatalogVersionFieldSearchFacadeStrategy.java">
+<error line="31" severity="warning" message="Line is longer than 130 characters (found 155)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/dataaccess/facades/search/WagoFlexibleSearchPageable.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/i18n/WagoBackofficeLocaleService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/renderes/WagoImageLocalizationInformationPreviewRenderer.java">
+<error line="61" column="4" severity="warning" message="Static variable definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+<error line="137" column="36" severity="warning" message="&apos;{&apos; at column 32 should be on a new line." source="com.puppycrawl.tools.checkstyle.checks.blocks.LeftCurlyCheck"/>
+<error line="146" column="61" severity="warning" message="Unnecessary parentheses around lambda value." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+<error line="172" column="11" severity="warning" message="&apos;{&apos; at column 7 should be on a new line." source="com.puppycrawl.tools.checkstyle.checks.blocks.LeftCurlyCheck"/>
+<error line="176" column="7" severity="warning" message="&apos;}&apos; at column 3 should be alone on a line." source="com.puppycrawl.tools.checkstyle.checks.blocks.RightCurlyCheck"/>
+<error line="176" column="30" severity="warning" message="&apos;{&apos; at column 26 should be on a new line." source="com.puppycrawl.tools.checkstyle.checks.blocks.LeftCurlyCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/services/WagoModelSavingExceptionTranslationHandler.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/widgets/WagobackofficeController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/widgets/editors/localized/WagoLocalizedEditor.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/widgets/syncstatus/WagoSyncStatusController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/widgets/userprofile/localesetting/WagoLocaleSettingController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/src/com/wago/core/backoffice/wizard/WagoMediaContentUpdateHandler.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/testsrc/com/wago/core/backoffice/actions/WagoBackofficeFilterCategoryCloneStrategyTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/testsrc/com/wago/core/backoffice/actions/WagoBackofficePOSCloneStrategyTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/testsrc/com/wago/core/backoffice/actions/WagoBackofficeWagoMessageCloneStrategyTest.java">
+<error line="45" column="4" severity="warning" message="Each variable declaration must be in its own statement." source="com.puppycrawl.tools.checkstyle.checks.coding.MultipleVariableDeclarationsCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/testsrc/com/wago/core/backoffice/actions/WagoIgnoreDynamicAttributesCloningContextTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/testsrc/com/wago/core/backoffice/widgets/editors/localized/WagoLocalizedEditorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/backoffice/testsrc/com/wago/core/backoffice/wizard/WagoMediaContentUpdateHandlerTest.java">
+<error line="7" column="15" severity="warning" message="Unused import - org.mockito.Mockito.doReturn." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="17" column="8" severity="warning" message="Unused import - java.util.Collection." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocorebackoffice/src/com/wago/core/backoffice/constants/WagocorebackofficeConstants.java">
+</file>
+</checkstyle>

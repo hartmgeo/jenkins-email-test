@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.12.4">
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslation/common/constants/WagoCMSTranslationConstants.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslation/common/directory/WagoTranslationDirectoryUtils.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslation/common/jaxb/CDataContentHandler.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslation/common/jaxb/SimpleAttributeAdapter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslation/common/jaxb/WagoImageLocalizationTextTranslation.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslation/common/jaxb/WagoLocalizedMediaContainerTranslation.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslation/common/jaxb/WagoLocalizedMediaTranslation.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslation/common/jaxb/WagoMessage.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslation/common/jaxb/WagoMessagesTranslation.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslation/common/jaxb/WagoSolrIndexedProperty.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslation/common/jaxb/WagoSolrIndexedPropertyTranslation.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslation/common/setup/WagocmstranslationSystemSetup.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslation/migration/jobs/WagoMigrateLocalizedContentJobPerformable.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslation/migration/service/WagoMigrateLocalizedContentService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslation/migration/service/WagoMigrationLocalizedContentLanguageValidationService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslation/migration/service/impl/DefaultWagoMigrateLocalizedContentService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslation/migration/service/impl/DefaultWagoMigrationLocalizedContentLanguageValidationService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/common/WagoExportUtil.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/constants/WagocmstranslationexportConstants.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/converters/populator/TranslationPopulator.java">
+<error line="277" column="35" severity="warning" message="Unnecessary parentheses around expression." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+<error line="461" column="11" severity="warning" message="Unnecessary parentheses around expression." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/converters/populator/WagoTranslationXmlUtils.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/exception/WagoTranslationExportException.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/intermediateformat/domain/Node.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/intermediateformat/domain/NodeFactory.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/intermediateformat/domain/NodeType.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/intermediateformat/domain/impl/DefaultNode.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/intermediateformat/domain/impl/DefaultNodeFactory.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/intermediateformat/listener/IntermediateFormatListener.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/intermediateformat/listener/impl/AbstractIntermediateFormatListener.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/intermediateformat/listener/impl/DebugIntermediateFormatListener.java">
+<error line="204" column="7" severity="info" message="Catching &apos;Exception&apos; is not allowed." source="com.puppycrawl.tools.checkstyle.checks.coding.IllegalCatchCheck"/>
+<error line="255" column="7" severity="info" message="Catching &apos;Exception&apos; is not allowed." source="com.puppycrawl.tools.checkstyle.checks.coding.IllegalCatchCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/intermediateformat/listener/impl/DefaultIntermediateFormatListener.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/intermediateformat/traversal/DomainNodeTraversalListener.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/intermediateformat/traversal/PKCollectingDomainNodeTraversalListener.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/intermediateformat/traversal/TraversalCommand.java">
+<error line="19" column="7" severity="warning" message="Unused @param tag for &apos;pkConverterMap&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="20" column="7" severity="warning" message="Unused @param tag for &apos;listener&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/intermediateformat/traversal/impl/AttributeContainerTraversalCommand.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/intermediateformat/traversal/impl/AttributeTraversalCommand.java">
+<error line="55" column="7" severity="info" message="Catching &apos;Exception&apos; is not allowed." source="com.puppycrawl.tools.checkstyle.checks.coding.IllegalCatchCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/intermediateformat/traversal/impl/BaseTraversalCommand.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/intermediateformat/traversal/impl/CMSComponentTraversalCommand.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/intermediateformat/traversal/impl/ContentPageTraversalCommand.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/intermediateformat/traversal/impl/ContentSlotForPageTraversalCommand.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/intermediateformat/traversal/impl/ContentSlotForTemplateTraversalCommand.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/intermediateformat/traversal/impl/ContentSlotTraversalCommand.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/intermediateformat/traversal/impl/DebugDomainNodeTraversalListener.java">
+<error line="77" column="20" severity="warning" message="Unnecessary parentheses around expression." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+<error line="77" column="45" severity="warning" message="Unnecessary parentheses around expression." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+<error line="91" column="20" severity="warning" message="Unnecessary parentheses around expression." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+<error line="91" column="45" severity="warning" message="Unnecessary parentheses around expression." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+<error line="149" column="20" severity="warning" message="Unnecessary parentheses around expression." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+<error line="149" column="45" severity="warning" message="Unnecessary parentheses around expression." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+<error line="162" column="20" severity="warning" message="Unnecessary parentheses around expression." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+<error line="162" column="45" severity="warning" message="Unnecessary parentheses around expression." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/intermediateformat/traversal/impl/DefaultTreeWalker.java">
+<error line="55" column="7" severity="info" message="Catching &apos;Exception&apos; is not allowed." source="com.puppycrawl.tools.checkstyle.checks.coding.IllegalCatchCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/intermediateformat/traversal/impl/ImpexExportDomainNodeTraversalListener.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/intermediateformat/traversal/impl/NavigationNodeTraversalComand.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/intermediateformat/traversal/impl/PrincipalTraversalCommand.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/jobs/AbstractWagoTranslationExportJobPerformable.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/jobs/WagoContentTranslationExportJobPerformable.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/jobs/WagoLocalizedMediaContainerTranslationExportJobPerformable.java">
+<error line="64" column="45" severity="warning" message="&apos;+&apos; should be on a new line." source="com.puppycrawl.tools.checkstyle.checks.whitespace.OperatorWrapCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/jobs/WagoMessageTranslationExportJobPerformable.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/jobs/WagoSolrIndexPropertyTranslationExportJobPerformable.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/model/CMSContentPageExportCronJobModelValidateInterceptor.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/pkconverter/PKConverter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/pkconverter/impl/AbstractCMSComponentModelPKConverter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/pkconverter/impl/AbstractRestrictionModelPKConverter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/pkconverter/impl/BasePKConverter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/pkconverter/impl/CMSCategoryRestrictionModelPKConverter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/pkconverter/impl/CMSNavigationNodeModelPKConverter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/pkconverter/impl/CMSTimeRestrictionModelPKConverter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/pkconverter/impl/MediaContainerModelPKConverter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/pkconverter/impl/MediaModelPKConverter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/pkconverter/impl/NOPPKConverter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/pkconverter/impl/PageTemplateModelPKConverter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/pkconverter/impl/SolrIndexedPropertyModelPKConverter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/pkconverter/impl/WagoBoundedSolrIndexedPropertyModelPKConverter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/pkconverter/impl/WagoBulletPointItemModelPKConverter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/pkconverter/impl/WagoHeaderCMSNavigationNodeModelPKConverter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/pkconverter/impl/WagoResultTypeModelPKConverter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/service/content/WagoContentExportedVersionService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/service/content/WagoContentPagePreviewUrlService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/service/content/WagoContentTranslationPageService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/service/content/WagoContentVersionService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/service/content/impl/DefaultWagoContentExportedVersionService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/service/content/impl/DefaultWagoContentPagePreviewUrlService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/service/content/impl/DefaultWagoContentTranslationPageService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/service/content/impl/DefaultWagoContentVersionService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/service/export/WagoXMLExportService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/service/export/impl/DefaultWagoXMLExportService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/service/notification/WagoExportNotificationBuilder.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/service/notification/WagoExportNotificationService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/service/notification/impl/DefaultWagoExportNotificationBuilder.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/service/notification/impl/DefaultWagoExportNotificationService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/service/structure/WagoContentPageIntermediateFormatService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/service/structure/WagoContentPageStructureService.java">
+<error line="27" column="7" severity="warning" message="Unused @param tag for &apos;wagoCMSExportConfiguration&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/service/structure/impl/DefaultContentPageStructureService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/service/structure/impl/DefaultWagoContentPageIntermediateFormatService.java">
+<error line="177" column="10" severity="info" message="Catching &apos;Exception&apos; is not allowed." source="com.puppycrawl.tools.checkstyle.checks.coding.IllegalCatchCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/service/structure/impl/WagoContentPageStructureProcessor.java">
+<error line="329" column="7" severity="info" message="Catching &apos;Exception&apos; is not allowed." source="com.puppycrawl.tools.checkstyle.checks.coding.IllegalCatchCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/service/structure/impl/WagoContentPageStructureProcessorBuilder.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/service/translation/WagoContentTranslationExportSettings.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/service/translation/WagoContentTranslationExportSettingsBuilder.java">
+<error line="19" column="4" severity="warning" message="Constructor definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/service/translation/WagoContentTranslationService.java">
+<error line="28" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/service/translation/WagoLocalizedMediaContainerTranslationService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/service/translation/WagoMessageTranslationService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/service/translation/WagoSolrIndexedPropertyTranslationService.java">
+<error line="15" column="7" severity="warning" message="Unused @param tag for &apos;language&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/service/translation/impl/DefaultWagoContentTranslationService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/service/translation/impl/DefaultWagoLocalizedMediaContainerTranslationService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/service/translation/impl/DefaultWagoMessageTranslationService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/service/translation/impl/DefaultWagoSolrIndexedPropertyTranslationService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/text/translate/WagoEntityArrays.java">
+<error line="41" column="4" severity="warning" message="Static variable definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+<error line="196" column="4" severity="warning" message="Static variable definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+<error line="199" column="50" severity="warning" message="Name &apos;WAGO_HTML40_EXTENDED_UNESCAPE&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.MethodNameCheck"/>
+<error line="209" column="4" severity="warning" message="Static variable definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+<error line="215" column="4" severity="warning" message="Static variable definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+<error line="218" column="50" severity="warning" message="Name &apos;WAGO_BASIC_UNESCAPE&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.MethodNameCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationexport/text/translate/WagoStringEscapeUtils.java">
+<error line="23" column="4" severity="warning" message="Static variable definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/exception/WagoTranslationImportException.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/helper/WagoTranslationImportHelper.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/jobs/AbstractWagoTranslationImportJobPerformable.java">
+<error line="101" column="10" severity="info" message="Catching &apos;Exception&apos; is not allowed." source="com.puppycrawl.tools.checkstyle.checks.coding.IllegalCatchCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/jobs/WagoContentTranslationImportJobPerformable.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/jobs/WagoLocalizedMediaContainerTranslationImportJobPerformable.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/jobs/WagoMessageTranslationImportJobPerformable.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/jobs/WagoSolrPropertyTranslationImportJobPerformable.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/service/cms2/WagoCMSNavigationService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/service/cms2/WagoCMSPageExportService.java">
+<error line="11" column="13" severity="warning" message="Don&apos;t use trailing comments." source="com.puppycrawl.tools.checkstyle.checks.TrailingCommentCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/service/cms2/impl/DefaultWagoCMSNavigationServiceImpl.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/service/cms2/impl/DefaultWagoCMSPageServiceImpl.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/service/cms2/servicelayer/daos/WagoCMSNavigationDao.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/service/cms2/servicelayer/daos/impl/DefaultWagoCMSNavigationDao.java">
+<error line="43" column="17" severity="warning" message="Unnecessary parentheses around return value." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/service/notification/WagoContentPreviewDataService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/service/notification/WagoImportNotificationService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/service/notification/impl/DefaultWagoContentPreviewDataService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/service/notification/impl/DefaultWagoImportNotificationService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/service/sync/WagoContentTranslationImportSyncService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/service/sync/impl/DefaultWagoContentTranslationImportSyncService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/service/xmlimport/WagoTranslationImportService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/service/xmlimport/WagoXmlImportResult.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/service/xmlimport/WagoXmlImportResultBuilder.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/service/xmlimport/impl/AbstractWagoTranslationImportServiceImpl.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/service/xmlimport/impl/DefaultWagoXmlImportResult.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/service/xmlimport/impl/WagoContentTranslationImportService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/service/xmlimport/impl/WagoLocalizedMediaContainerTranslationImportService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/service/xmlimport/impl/WagoMessagesTranslationImportService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/service/xmlimport/impl/WagoSolrIndexedPropertyTranslationImportService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/traversal/TranslationTraversalListener.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/traversal/TranslationTreeWalker.java">
+<error line="21" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/traversal/impl/BaseTranslationTraversalListener.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/traversal/impl/DefaultTranslationTraversalListener.java">
+<error line="53" column="4" severity="warning" message="Variable access definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+<error line="54" column="4" severity="warning" message="Variable access definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+<error line="180" column="7" severity="info" message="Catching &apos;Exception&apos; is not allowed." source="com.puppycrawl.tools.checkstyle.checks.coding.IllegalCatchCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/src/com/wago/cmstranslationimport/traversal/impl/DefaultTranslationTreeWalker.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslation/common/directory/WagoTranslationDirectoryUtilsTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslation/common/jaxb/WagoSolrIndexedPropertyTranslationTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslation/migration/jobs/WagoMigrateLocalizedContentJobPerformableTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslation/migration/service/impl/DefaultWagoMigrateLocalizedContentServiceTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslation/migration/service/impl/DefaultWagoMigrationLocalizedContentLanguageValidationServiceTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/common/WagoExportUtilTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/converters/populator/TranslationPopulatorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/intermediateformat/domain/impl/DefaultNodeFactoryTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/intermediateformat/listener/impl/DefaultIntermediateFormatListenerTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/intermediateformat/traversal/impl/AttributeContainerTraversalCommandTest.java">
+<error line="36" column="4" severity="warning" message="Static variable definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/intermediateformat/traversal/impl/AttributeTraversalCommandTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/intermediateformat/traversal/impl/ContentPageTraversalCommandTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/intermediateformat/traversal/impl/ContentSlotForPageTraversalCommandTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/intermediateformat/traversal/impl/ContentSlotTraversalCommandTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/intermediateformat/traversal/impl/DefaultTreeWalkerTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/intermediateformat/traversal/impl/ImpexExportDomainNodeTraversalListenerTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/intermediateformat/traversal/impl/PrincipalTraversalCommandTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/jobs/WagoContentTranslationExportJobPerformableTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/jobs/WagoSolrIndexPropertyTranslationExportJobPerformableTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/model/CMSContentPageExportCronJobModelValidateInterceptorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/pkconverter/impl/MediaContainerModelPKConverterTest.java">
+<error line="64" severity="warning" message="Line is longer than 130 characters (found 146)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/pkconverter/impl/MediaModelPKConverterTest.java">
+<error line="68" severity="warning" message="Line is longer than 130 characters (found 146)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/pkconverter/impl/PageTemplateModelPKConverterTest.java">
+<error line="65" severity="warning" message="Line is longer than 130 characters (found 146)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/pkconverter/impl/SolrIndexedPropertyModelPKConverterTest.java">
+<error line="50" severity="warning" message="Line is longer than 130 characters (found 146)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/pkconverter/impl/WagoBoundedSolrIndexedPropertyModelPKConverterTest.java">
+<error line="50" severity="warning" message="Line is longer than 130 characters (found 146)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/pkconverter/impl/WagoBulletPointItemModelPKConverterTest.java">
+<error line="50" severity="warning" message="Line is longer than 130 characters (found 146)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/pkconverter/impl/WagoResultTypeModelPKConverterTest.java">
+<error line="50" severity="warning" message="Line is longer than 130 characters (found 146)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/service/content/impl/DefaultWagoContentExportedVersionServiceTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/service/content/impl/DefaultWagoContentPagePreviewUrlServiceTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/service/content/impl/DefaultWagoContentTranslationPageServiceTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/service/content/impl/DefaultWagoContentVersionServiceTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/service/export/impl/DefaultWagoXMLExportServiceTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/service/export/impl/TestXMLObject.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/service/notification/impl/DefaultWagoExportNotificationBuilderTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/service/notification/impl/DefaultWagoExportNotificationServiceTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/service/structure/impl/DefaultContentPageStructureServiceTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/service/structure/impl/DefaultWagoContentPageIntermediateFormatServiceTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/service/translation/impl/DefaultWagoContentTranslationServiceTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/service/translation/impl/DefaultWagoLocalizedMediaContainerTranslationServiceTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/service/translation/impl/DefaultWagoMessageTranslationServiceTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationexport/service/translation/impl/DefaultWagoSolrIndexedPropertyTranslationServiceTest.java">
+<error line="53" column="4" severity="warning" message="Each variable declaration must be in its own statement." source="com.puppycrawl.tools.checkstyle.checks.coding.MultipleVariableDeclarationsCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationimport/helper/WagoTranslationImportHelperTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationimport/jobs/AbstractWagoTranslationImportJobPerformableTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationimport/service/cms2/impl/DefaultWagoCMSPageServiceImplTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationimport/service/notification/impl/DefaultWagoContentPreviewDataServiceTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocmstranslationexport/testsrc/com/wago/cmstranslationimport/service/xmlimport/WagoSolrIndexedPropertyTranslationImportServiceTest.java">
+</file>
+</checkstyle>

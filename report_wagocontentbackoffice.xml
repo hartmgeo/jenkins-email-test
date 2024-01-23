@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.12.4">
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocontentbackoffice/backoffice/src/com/wago/contentbackoffice/widgets/content/WagoContentBackofficeStructureController.java">
+<error line="61" column="7" severity="warning" message="Unused @param tag for &apos;openContentPage&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocontentbackoffice/backoffice/src/com/wago/contentbackoffice/widgets/content/WagoContentBackofficeUiHelper.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocontentbackoffice/backoffice/src/com/wago/contentbackoffice/widgets/content/WagoContentColumnData.java">
+<error line="137" column="47" severity="warning" message="Unnecessary parentheses around lambda value." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocontentbackoffice/backoffice/src/com/wago/contentbackoffice/widgets/content/WagoContentStructureContainer.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocontentbackoffice/backoffice/src/com/wago/contentbackoffice/widgets/navigation/WagoContentBackofficeNavigationBarController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocontentbackoffice/src/com/wago/contentbackoffice/constants/WagocontentbackofficeConstants.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocontentbackoffice/src/com/wago/contentbackoffice/service/WagoContentBackofficeService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagocontentbackoffice/src/com/wago/contentbackoffice/service/impl/DefaultWagoContentBackofficeService.java">
+</file>
+</checkstyle>

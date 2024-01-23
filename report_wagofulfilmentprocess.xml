@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.12.4">
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/CheckOrderService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/consignment/AllowShipmentAction.java">
+<error line="74" column="10" severity="info" message="Catching &apos;Exception&apos; is not allowed." source="com.puppycrawl.tools.checkstyle.checks.coding.IllegalCatchCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/consignment/CancelConsignmentAction.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/consignment/ReceiveConsignmentStatusAction.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/consignment/SendCancelMessageAction.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/consignment/SendConsignmentToWarehouseAction.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/consignment/SendDeliveryMessageAction.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/consignment/SubprocessEndAction.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/consignment/WaitBeforeTransmissionAction.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/order/AbstractFraudCheckAction.java">
+<error line="39" column="1" severity="warning" message="Type Javadoc comment is missing @param &lt;T&gt; tag." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocTypeCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/order/AbstractOrderAction.java">
+<error line="28" column="1" severity="warning" message="Type Javadoc comment is missing @param &lt;T&gt; tag." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocTypeCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/order/CancelWholeOrderAuthorizationAction.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/order/CheckAuthorizeOrderPaymentAction.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/order/CheckOrderAction.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/order/CheckTransactionReviewStatusAction.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/order/FraudCheckOrderAction.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/order/FraudCheckOrderInternalAction.java">
+<error line="56" column="68" severity="warning" message="Don&apos;t use trailing comments." source="com.puppycrawl.tools.checkstyle.checks.TrailingCommentCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/order/GetPaymentDetailsAction.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/order/NotifyCustomerAboutFraudAction.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/order/OrderExportAction.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/order/OrderManualCheckedAction.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/order/PrepareOrderForManualCheckAction.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/order/ReserveOrderAmountAction.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/order/ScheduleForCleanUpAction.java">
+<error line="42" column="4" severity="warning" message="Instance variable definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/order/SendAuthorizationFailedNotificationAction.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/order/SendFraudErrorNotificationAction.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/order/SendOrderCancelledNotificationAction.java">
+<error line="24" column="102" severity="warning" message="&apos;{&apos; at column 102 should be on a new line." source="com.puppycrawl.tools.checkstyle.checks.blocks.LeftCurlyCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/order/SendOrderCompletedNotificationAction.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/order/SendOrderPlacedNotificationAction.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/order/SendPaymentFailedNotificationAction.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/order/SplitOrderAction.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/order/SubprocessesCompletedAction.java">
+<error line="35" severity="warning" message="Line is longer than 130 characters (found 138)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="41" severity="warning" message="Line is longer than 130 characters (found 131)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/actions/order/TakePaymentAction.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/constants/WagoFulfilmentProcessConstants.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/events/OrderCancelledEvent.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/events/OrderExportEvent.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/events/OrderImportEvent.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/exceptions/PaymentMethodException.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/impl/DefaultCheckOrderService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/jobs/CleanUpFraudOrderJob.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/order/WagoExportOrderService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/order/WagoImportOrderService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/order/impl/DefaultWagoExportOrderService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/order/impl/DefaultWagoImportOrderService.java">
+<error line="41" column="10" severity="info" message="Catching &apos;Exception&apos; is not allowed." source="com.puppycrawl.tools.checkstyle.checks.coding.IllegalCatchCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/strategy/impl/SplitByAvailableCount.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/strategy/impl/SplitByDeliveryMode.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/strategy/impl/SplitByEntryDeliveryAddress.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/strategy/impl/SplitByPoS.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/strategy/impl/SplitByWarehouse.java">
+<error line="138" column="11" severity="warning" message="Unnecessary parentheses around expression." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/warehouse/DefaultWarehouse2ProcessAdapter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/src/com/wago/fulfilmentprocess/warehouse/MockProcess2WarehouseAdapter.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/order/impl/DefaultWagoExportOrderServiceTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/order/impl/DefaultWagoImportOrderServiceTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/CheckAuthorizeOrderPaymentTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/CheckTransactionReviewStatusActionTest.java">
+<error line="108" column="7" severity="info" message="Catching &apos;Exception&apos; is not allowed." source="com.puppycrawl.tools.checkstyle.checks.coding.IllegalCatchCheck"/>
+<error line="126" column="7" severity="info" message="Catching &apos;Exception&apos; is not allowed." source="com.puppycrawl.tools.checkstyle.checks.coding.IllegalCatchCheck"/>
+<error line="144" column="7" severity="info" message="Catching &apos;Exception&apos; is not allowed." source="com.puppycrawl.tools.checkstyle.checks.coding.IllegalCatchCheck"/>
+<error line="164" column="7" severity="info" message="Catching &apos;Exception&apos; is not allowed." source="com.puppycrawl.tools.checkstyle.checks.coding.IllegalCatchCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/DefaultCheckOrderServiceTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/OrderManualCheckedTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/PrepareOrderForManualCheckTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/ScheduleForCleanUpActionTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/SendAuthorizationFailedNotificationTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/SendFraudErrorNotificationTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/SendOrderCompletedNotificationTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/SendOrderFraudCustomerNotificationEventTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/SendPaymentFailedNotificationTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/TaskServiceStub.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/CancelWholeOrderAuthorization.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/CheckAuthorizeOrderPayment.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/CheckOrder.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/CheckTransactionReviewStatus.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/FraudCheckOrder.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/FraudCheckOrderInternal.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/NotifyCustomerAboutFraud.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/OrderManualChecked.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/PrepareOrderForManualCheck.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/ReserveOrderAmount.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/ScheduleForCleanUp.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/SendAuthorizationFailedNotification.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/SendFraudErrorNotification.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/SendOrderCompletedNotification.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/SendOrderPlacedNotification.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/SendPaymentFailedNotification.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/SplitOrder.java">
+<error line="46" column="62" severity="warning" message="Don&apos;t use trailing comments." source="com.puppycrawl.tools.checkstyle.checks.TrailingCommentCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/SubprocessesCompleted.java">
+<error line="31" column="58" severity="warning" message="Don&apos;t use trailing comments." source="com.puppycrawl.tools.checkstyle.checks.TrailingCommentCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/TakePayment.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/TestActionTemp.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/consignmentfulfilment/AbstractTestConsActionTemp.java">
+<error line="32" column="62" severity="warning" message="Don&apos;t use trailing comments." source="com.puppycrawl.tools.checkstyle.checks.TrailingCommentCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/consignmentfulfilment/AllowShipment.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/consignmentfulfilment/CalculatePayment.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/consignmentfulfilment/CancelConsignment.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/consignmentfulfilment/ReceiveConsignmentStatus.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/consignmentfulfilment/SendCancelMessage.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/consignmentfulfilment/SendConsignmentToWarehouse.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/consignmentfulfilment/SendDeliveryMessage.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/consignmentfulfilment/SendPaymentFailedMessage.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/consignmentfulfilment/SendPickedUpMessage.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/consignmentfulfilment/SubprocessEnd.java">
+<error line="32" column="62" severity="warning" message="Don&apos;t use trailing comments." source="com.puppycrawl.tools.checkstyle.checks.TrailingCommentCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/actions/consignmentfulfilment/WaitBeforeTransmission.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/beans/ActionExecution.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/beans/QueueService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/beans/QueueServiceImpl.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagofulfilmentprocess/testsrc/com/wago/fulfilmentprocess/test/events/TestEventListenerCountingEvents.java">
+</file>
+</checkstyle>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.12.4">
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagointegration/src/com/wago/integration/aop/WagoBatchHeaderAspect.java">
+<error line="70" column="7" severity="info" message="Catching &apos;Exception&apos; is not allowed." source="com.puppycrawl.tools.checkstyle.checks.coding.IllegalCatchCheck"/>
+<error line="83" column="103" severity="warning" message="&apos;+&apos; should be on a new line." source="com.puppycrawl.tools.checkstyle.checks.whitespace.OperatorWrapCheck"/>
+<error line="107" column="84" severity="warning" message="Throwing &apos;Throwable&apos; is not allowed." source="com.puppycrawl.tools.checkstyle.checks.coding.IllegalThrowsCheck"/>
+<error line="133" column="7" severity="info" message="Catching &apos;Exception&apos; is not allowed." source="com.puppycrawl.tools.checkstyle.checks.coding.IllegalCatchCheck"/>
+<error line="150" column="79" severity="warning" message="Throwing &apos;Throwable&apos; is not allowed." source="com.puppycrawl.tools.checkstyle.checks.coding.IllegalThrowsCheck"/>
+<error line="171" column="7" severity="info" message="Catching &apos;Exception&apos; is not allowed." source="com.puppycrawl.tools.checkstyle.checks.coding.IllegalCatchCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagointegration/src/com/wago/integration/constants/WagointegrationConstants.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagointegration/src/com/wago/integration/export/strategy/WagoAzureExportStrategy.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagointegration/src/com/wago/integration/hotfolder/WagoAzureBlobRemoteMoveMessageHandler.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagointegration/src/com/wago/integration/hotfolder/WagoDelegatingPassThroughMessageHandler.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagointegration/src/com/wago/integration/hotfolder/WagoErrorFileNameGenerator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagointegration/src/com/wago/integration/hotfolder/WagoFileNameGenerator.java">
+<error line="46" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagointegration/src/com/wago/integration/hotfolder/WagoIntegrationExecutionContext.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagointegration/src/com/wago/integration/hotfolder/WagoIntegrationJobPerformable.java">
+<error line="104" column="7" severity="info" message="Catching &apos;Exception&apos; is not allowed." source="com.puppycrawl.tools.checkstyle.checks.coding.IllegalCatchCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagointegration/src/com/wago/integration/hotfolder/WagoMessageHeaders.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagointegration/src/com/wago/integration/hotfolder/WagoRetryImportJobPerformable.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagointegration/src/com/wago/integration/hotfolder/WagoTimestampFileNameGenerator.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagointegration/src/com/wago/integration/impex/data/WagoAzureFileData.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagointegration/src/com/wago/integration/service/WagoAzureFileService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagointegration/src/com/wago/integration/service/data/impl/WagoAzureFileAccessStrategy.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagointegration/src/com/wago/integration/service/impl/DefaultWagoAzureFileService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagointegration/testsrc/com/wago/integration/hotfolder/WagoErrorFileNameGeneratorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagointegration/testsrc/com/wago/integration/hotfolder/WagoRetryImportJobPerformableTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagointegration/testsrc/com/wago/integration/hotfolder/WagoTimestampFileNameGeneratorTest.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagointegration/testsrc/com/wago/integration/service/data/impl/WagoAzureFileAccessStrategyTest.java">
+</file>
+</checkstyle>

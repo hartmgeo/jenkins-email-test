@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.12.4">
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearchbackoffice/backoffice/src/com/wago/searchbackoffice/facades/WagoSearchCategoryFacade.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearchbackoffice/backoffice/src/com/wago/searchbackoffice/facades/impl/DefaultWagoSearchCategoryFacade.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearchbackoffice/backoffice/src/com/wago/searchbackoffice/widgets/basestoreselector/WagoBaseStoreSelectorController.java">
+<error line="45" column="54" severity="warning" message="Unnecessary parentheses around lambda value." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearchbackoffice/backoffice/src/com/wago/searchbackoffice/widgets/categoryselector/WagoCategorySelectorController.java">
+<error line="40" column="4" severity="warning" message="Variable access definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+<error line="42" column="4" severity="warning" message="Variable access definition in wrong order." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearchbackoffice/backoffice/src/com/wago/searchbackoffice/widgets/contextflowadapter/WagoContextFlowAdapterController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearchbackoffice/backoffice/src/com/wago/searchbackoffice/widgets/facetsearchconfigselector/WagoFacetSearchConfigSelectorController.java">
+<error line="54" column="54" severity="warning" message="Unnecessary parentheses around lambda value." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearchbackoffice/backoffice/src/com/wago/searchbackoffice/widgets/languageselector/WagoSearchLanguageSelectorController.java">
+<error line="43" column="54" severity="warning" message="Unnecessary parentheses around lambda value." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearchbackoffice/backoffice/src/com/wago/searchbackoffice/widgets/navigationbar/WagoNavigationBarController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearchbackoffice/backoffice/src/com/wago/searchbackoffice/widgets/navigationbar/WagoNavigationBarSearchDataBuilder.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearchbackoffice/backoffice/src/com/wago/searchbackoffice/widgets/properties/WagoIndexPropertiesViewController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearchbackoffice/backoffice/src/com/wago/searchbackoffice/widgets/properties/WagoIndexPropertiesViewUtils.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearchbackoffice/backoffice/src/com/wago/searchbackoffice/widgets/solrconfigexportbutton/WagoSolrConfigExportButtonController.java">
+<error line="53" column="54" severity="warning" message="Unnecessary parentheses around lambda value." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearchbackoffice/backoffice/src/com/wago/searchbackoffice/widgets/solrindexedpropertyflowpage/WagoSolrIndexedPropertyFlowPageController.java">
+<error line="45" severity="warning" message="Line is longer than 130 characters (found 179)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="73" column="60" severity="warning" message="Unnecessary parentheses around lambda value." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearchbackoffice/backoffice/src/com/wago/searchbackoffice/widgets/toogle/WagoToogleViewContainerController.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearchbackoffice/src/com/wago/searchbackoffice/constants/WagosearchbackofficeConstants.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearchbackoffice/src/com/wago/searchbackoffice/service/WagoSearchIndexPropertiesService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearchbackoffice/src/com/wago/searchbackoffice/service/data/IndexPropertyData.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearchbackoffice/src/com/wago/searchbackoffice/service/impl/DefaultWagoSearchIndexPropertiesService.java">
+</file>
+<file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagosearchbackoffice/src/com/wago/searchbackoffice/setup/WagosearchbackofficeSystemSetup.java">
+</file>
+</checkstyle>

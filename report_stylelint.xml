@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<checkstyle version="4.3">
+  <file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/grunt/less/pdf/pdf-alert.less"></file>
+  <file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/grunt/less/pdf/pdf-availability.less"></file>
+  <file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/grunt/less/pdf/pdf-content.less">
+    <error source="stylelint.rules.color-no-hex" line="130" column="9" severity="error" message="Unexpected hex color &quot;#000000&quot; (color-no-hex)" />
+    <error source="stylelint.rules.font-weight-notation" line="28" column="15" severity="error" message="Expected &quot;normal&quot; to be &quot;400&quot; (font-weight-notation)" />
+  </file>
+  <file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/grunt/less/pdf/pdf-font.less">
+    <error source="stylelint.rules.font-weight-notation" line="26" column="15" severity="error" message="Expected &quot;bold&quot; to be &quot;700&quot; (font-weight-notation)" />
+  </file>
+  <file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/grunt/less/pdf/pdf-footer.less">
+    <error source="stylelint.rules.selector-max-id" line="8" column="2" severity="error" message="Expected &quot;.pdf-footer #pagenumber:before&quot; to have no more than 0 ID selectors (selector-max-id)" />
+    <error source="stylelint.rules.selector-max-id" line="12" column="2" severity="error" message="Expected &quot;.pdf-footer #pagecount:before&quot; to have no more than 0 ID selectors (selector-max-id)" />
+  </file>
+  <file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/grunt/less/pdf/pdf-global.less">
+    <error source="stylelint.rules.font-weight-notation" line="22" column="15" severity="error" message="Expected &quot;bold&quot; to be &quot;700&quot; (font-weight-notation)" />
+    <error source="stylelint.rules.font-weight-notation" line="45" column="15" severity="error" message="Expected &quot;normal&quot; to be &quot;400&quot; (font-weight-notation)" />
+    <error source="stylelint.rules.font-weight-notation" line="55" column="15" severity="error" message="Expected &quot;bold&quot; to be &quot;700&quot; (font-weight-notation)" />
+  </file>
+  <file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/grunt/less/pdf/pdf-header.less">
+    <error source="stylelint.rules.no-duplicate-selectors" line="63" column="3" severity="error" message="Unexpected duplicate selector &quot;.pdf-header td .name&quot;, first used at line 38 (no-duplicate-selectors)" />
+  </file>
+  <file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/grunt/less/pdf/pdf-jobAd.less"></file>
+  <file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/grunt/less/pdf/pdf-pagination.less"></file>
+  <file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/grunt/less/pdf/pdf-spacing.less"></file>
+  <file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/grunt/less/pdf/pdf-table.less"></file>
+  <file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/grunt/less/wago-1-1/main.less"></file>
+  <file name="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagostorefront/web/grunt/less/wago-1-1/shame.less">
+    <error source="stylelint.rules.color-named" line="27" column="9" severity="error" message="Unexpected named color &quot;white&quot; (color-named)" />
+    <error source="stylelint.rules.color-no-hex" line="42" column="20" severity="error" message="Unexpected hex color &quot;#ffffff&quot; (color-no-hex)" />
+    <error source="stylelint.rules.color-no-hex" line="46" column="20" severity="error" message="Unexpected hex color &quot;#cccccc&quot; (color-no-hex)" />
+    <error source="stylelint.rules.color-no-hex" line="68" column="14" severity="error" message="Unexpected hex color &quot;#cccccc&quot; (color-no-hex)" />
+    <error source="stylelint.rules.color-no-hex" line="71" column="20" severity="error" message="Unexpected hex color &quot;#cccccc&quot; (color-no-hex)" />
+    <error source="stylelint.rules.function-url-quotes" line="69" column="7" severity="error" message="Expected quotes around &quot;url&quot; function argument (function-url-quotes)" />
+  </file>
+</checkstyle>

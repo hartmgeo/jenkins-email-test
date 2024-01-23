@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd-cpd>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagorelease/src/com/wago/release/constants/WagoreleaseConstants.java"
+         totalNumberOfTokens="30"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagorelease/src/com/wago/release/event/WagoReleaseImpexImportAfterInitializationEndEventListener.java"
+         totalNumberOfTokens="202"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagorelease/src/com/wago/release/event/WagoReleaseImportFinishedEvent.java"
+         totalNumberOfTokens="43"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagorelease/src/com/wago/release/job/WagoReleaseImpexImportPerformable.java"
+         totalNumberOfTokens="164"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagorelease/src/com/wago/release/job/WagoRestoreImpexPerformable.java"
+         totalNumberOfTokens="87"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagorelease/src/com/wago/release/services/WagoReleaseImpexImportService.java"
+         totalNumberOfTokens="27"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagorelease/src/com/wago/release/services/impl/DefaultWagoReleaseImpexImportService.java"
+         totalNumberOfTokens="896"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagorelease/testsrc/com/wago/release/event/WagoReleaseImpexImportAfterInitializationEndEventListenerTest.java"
+         totalNumberOfTokens="21"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagorelease/testsrc/com/wago/release/job/WagoReleaseImpexImportPerformableTest.java"
+         totalNumberOfTokens="168"/>
+   <file path="/srv/ci/workspace/wago_ci_pipeline/feature/20240117-DI-GH-WAGO-0_build_email/hybris/custom/ext-wago/wagorelease/testsrc/com/wago/release/services/impl/DefaultWagoReleaseImpexImportServiceTest.java"
+         totalNumberOfTokens="1099"/>
+</pmd-cpd>
