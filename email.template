@@ -1,37 +1,47 @@
-GENERAL INFO
+<html>
+<style>
 
-BUILD ${build.result ?: 'SUCCESSFUL'}
-Build URL: ${rooturl}${build.url}
-Project: ${project.name}
-Date of build: ${it.timestampString}
-Build duration: ${build.durationString}
-
-
-<% def resultAction = build.getActions(io.jenkins.plugins.analysis.core.model.ResultAction.class)
-    resultAction.each{ action -> 
-    %>
-        ${action.getDisplayName()}
-        ${action.getResult().getNewErrorSize()}
-        ${action.getResult().getNewIssues()}
-        ${action.getResult().getNewIssues().getClass()}
-       
-<% def issues = ${action.getResult().getNewIssues().get()}   
-    issues.each{ issue ->
-    %>
-    ${issue}
-    
-    <%
-
-    }
-
-
+</style>
+<body>
+<table width="100%" cellpadding="5" cellspacing="0">
+<tr>
+	<td colspan="2" class="${build.result ?: 'SUCCESSFUL'}"><b style="font-size: 200%">${project.name}: ${build.result ?: 'SUCCESSFUL'}</b></td>
+</tr>
+<tr>
+	<td colspan="2">&nbsp;</td>
+</tr>
+<tr>
+	<td class="odd">Build URL:</td>
+	<td class="odd">${rooturl}${build.url}</td>
+</tr>
+<tr>
+	<td class="odd">Build duration:</td>
+	<td class="odd">${build.durationString}</td>
+</tr>
+<%
+// within try block so email get send in case of error
+    try {
+        def resultAction = build.getActions(io.jenkins.plugins.analysis.core.model.ResultAction.class)
+        resultAction.each{ action -> 
+            if(action.hasNoNewWarnings()){
+                %> <tr class="pass"><td>  ${action.getDisplayName()} </td><td> No new warnings! </td></tr> <%
+            }else{
+                 %> <tr class="warn"><td> ${action.getDisplayName()} </td> <td> <%
+                    def issues = ${action.getResult().getNewIssues().get()}
+                    %> <ul> <%
+                     issues.each{ issue ->
+                        %> <li> ${issue} </li> <%
+                     }
+                    
+                    %> </ul> <%
+                 %></td> </tr><%
+            }
+        }
+    } catch(e) {
+        // we don't do anything
+    } 
 %>
+</table>
 
-
-
-
-    <%
-     
-    }
-
-   %>
+</body>
+</html>
