@@ -22,7 +22,7 @@
     try {
         def resultAction = build.getActions(io.jenkins.plugins.analysis.core.model.ResultAction.class)
         resultAction.each{ action -> 
-            if(action..getResult().hasNoNewWarnings()){
+            if(action.getResult().hasNoNewWarnings()){
                 %> <tr class="pass"><td>  ${action.getDisplayName()} </td><td> No new warnings! </td></tr> <%
             }else{
                  %> <tr class="warn"><td> ${action.getDisplayName()} </td> <td> <%
@@ -37,6 +37,7 @@
             }
         }
     } catch(e) {
+        println e
         // we don't do anything
     } 
 %>
@@ -46,7 +47,7 @@
     resultAction.each{ action -> 
     %>
         ${action.getDisplayName()}
-        ${action.getResult().getNewErrorSize()}
+        
         ${action.getResult().getNewIssues()}
         ${action.getResult().getNewIssues().getClass()}
        
