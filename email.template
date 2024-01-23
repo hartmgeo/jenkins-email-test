@@ -1,0 +1,49 @@
+GENERAL INFO
+
+BUILD ${build.result ?: 'SUCCESSFUL'}
+Build URL: ${rooturl}${build.url}
+Project: ${project.name}
+Date of build: ${it.timestampString}
+Build duration: ${build.durationString}
+
+
+<%
+try {
+  def report = it.getAction("io.jenkins.plugins.analysis.core.model.AnalysisResult")
+  if ( aggregationAction != null ) { %>
+    ${report.getId()}
+    <% report.getNewIssues().each{ issue -> %>
+      ${issue}  
+       
+<%    }
+
+  }
+} catch(e) {
+    // we don't do anything
+}
+%>
+
+
+
+<%
+try {
+   def aggregationAction = it.getAction("io.jenkins.plugins.analysis.core.model.AggregationAction")
+   if ( aggregationAction != null ) { %>
+${aggregationAction.getDisplayName().toUpperCase()}
+      <% aggregationAction.getTools().each {
+        tool -> %>
+Tool: ${tool.getName()}
+Report: ${tool.getLatestUrl()}
+Low: ${tool.getLowSize()}, Normal: ${tool.getNormalSize()}, High: ${tool.getHighSize()}, Error: ${tool.getErrorSize()}
+<% 	}
+   }
+  } catch(e) {
+    // we don't do anything
+  } %>
+
+<% if(build.result==hudson.model.Result.FAILURE) { %>
+CONSOLE OUTPUT
+<% 	build.getLog(100).each() { line -> %>
+	${line}
+<% 	}
+   } %>
