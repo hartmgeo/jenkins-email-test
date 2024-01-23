@@ -6,6 +6,9 @@ Project: ${project.name}
 Date of build: ${it.timestampString}
 Build duration: ${build.durationString}
 
+IT -> ${it.getClass()}
+Buils ${build.getClass()}
+Analysis 
 
 <%
 try {
