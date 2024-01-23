@@ -6,29 +6,6 @@ Project: ${project.name}
 Date of build: ${it.timestampString}
 Build duration: ${build.durationString}
 
-IT -> ${it.getClass()}
-Buils ${build.getClass()}
-Analysis 
-
-<% build.getAllActions().each{ action -> %>  
- - ${action.getClass()} ${action.getDisplayName()}
-  <%  } %>
-
-<%
-try {
-  def report = it.getAction("io.jenkins.plugins.analysis.core.model.AnalysisResult")
-  if ( aggregationAction != null ) { %>
-    ${report.getId()}
-    <% report.getNewIssues().each{ issue -> %>
-      ${issue}  
-       
-<%    }
-
-  }
-} catch(e) {
-    // we don't do anything
-}
-%>
 
 <% def resultAction = build.getActions(io.jenkins.plugins.analysis.core.model.ResultAction.class)
     resultAction.each{ action -> 
@@ -37,38 +14,24 @@ try {
         ${action.getResult().getNewErrorSize()}
         ${action.getResult().getNewIssues()}
         ${action.getResult().getNewIssues().getClass()}
-        ${action.getResult().getNewIssues().get()}
-
-    <%
- 
+       
+<% def issues = ${action.getResult().getNewIssues().get()}   
+    issues.each{ issue ->
+    %>
+    ${issue}
     
+    <%
+
     }
 
 
+%>
+
+
+
+
+    <%
+     
+    }
+
    %>
-
-
-
-
-<%
-try {
-   def aggregationAction = it.getAction("io.jenkins.plugins.analysis.core.model.AggregationAction")
-   if ( aggregationAction != null ) { %>
-${aggregationAction.getDisplayName().toUpperCase()}
-      <% aggregationAction.getTools().each {
-        tool -> %>
-Tool: ${tool.getName()}
-Report: ${tool.getLatestUrl()}
-Low: ${tool.getLowSize()}, Normal: ${tool.getNormalSize()}, High: ${tool.getHighSize()}, Error: ${tool.getErrorSize()}
-<% 	}
-   }
-  } catch(e) {
-    // we don't do anything
-  } %>
-
-<% if(build.result==hudson.model.Result.FAILURE) { %>
-CONSOLE OUTPUT
-<% 	build.getLog(100).each() { line -> %>
-	${line}
-<% 	}
-   } %>
