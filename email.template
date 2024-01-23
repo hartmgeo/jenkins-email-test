@@ -30,7 +30,7 @@ try {
 }
 %>
 
-<% def resultAction = build.getActions("io.jenkins.plugins.analysis.core.model.ResultAction")
+<% def resultAction = build.getActions(io.jenkins.plugins.analysis.core.model.ResultAction.class)
     resultAction.each{ action -> 
     %>
         ${action.getDisplayName()}
