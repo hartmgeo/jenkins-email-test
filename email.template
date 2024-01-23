@@ -30,6 +30,22 @@ try {
 }
 %>
 
+<% def resultAction = it.getAction("io.jenkins.plugins.analysis.core.model.ResultAction")
+    resultAction.each{ action -> 
+    %>
+        ${action.getDisplayName()}
+        ${action.getResult().getNewErrorSize()}
+        ${action.getResult().getNewIssues()}
+        ${action.getResult().getNewIssues().getClass()}
+    <%
+ 
+    
+    }
+
+
+   %>
+
+
 
 
 <%
