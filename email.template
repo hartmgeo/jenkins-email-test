@@ -36,12 +36,8 @@ try {
         ${action.getDisplayName()}
         ${action.getResult().getNewErrorSize()}
         ${action.getResult().getNewIssues()}
+        ${action.getResult().getNewIssues().getClass()}
         ${action.getResult().getNewIssues().get()}
-        
-        <% action.getResult().getNewIssues().get().each{ -> issue %>
-            -${issue}
-        
-        <% }  %>
 
     <%
  
