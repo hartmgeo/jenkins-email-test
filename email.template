@@ -26,7 +26,7 @@
                 %> <tr class="pass"><td>  ${action.getDisplayName()} </td><td> No new warnings! </td></tr> <%
             }else{
                  %> <tr class="warn"><td> ${action.getDisplayName()} </td> <td> <%
-                    def issues = ${action.getResult().getNewIssues().get()}
+                    def issues = ${action.getResult().getNewIssues().get().stream().toList()}
                     %> <ul> <%
                      issues.each{ issue ->
                         %> <li> ${issue} </li> <%
@@ -50,7 +50,7 @@
         ${action.getResult().getNewIssues()}
         ${action.getResult().getNewIssues().getClass()}
        
-<% def issues = ${action.getResult().getNewIssues().get()}   
+<% def issues = ${action.getResult().getNewIssues().stream().toList() }   
     issues.each{ issue ->
     %>
     ${issue}
